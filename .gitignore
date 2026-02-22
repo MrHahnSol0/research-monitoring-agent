@@ -1,0 +1,5 @@
+config.py 
+articles_raw.json 
+articles_curated.json 
+digest.txt 
+__pycache__/ 
