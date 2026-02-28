@@ -1,0 +1,78 @@
+name: Daily Research Digest
+
+on:
+  # Run every day at 10:30 UTC (5:30 AM EST)
+  schedule:
+    - cron: '30 10 * * *'
+  
+  # Allow manual triggering for testing
+  workflow_dispatch:
+
+jobs:
+  generate-digest:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Step 1: Check out the repository code
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      # Step 2: Set up Python environment
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      
+      # Step 3: Install dependencies
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      # Step 4: Create config.py with API key from secrets
+      - name: Create config file
+        run: |
+          echo "ANTHROPIC_API_KEY = \"${{ secrets.ANTHROPIC_API_KEY }}\"" > config.py
+      
+      # Step 5: Fetch articles from RSS feeds
+      - name: Fetch articles
+        run: python research_monitor.py
+      
+      # Step 6: Curate articles with Claude API
+      - name: Curate articles
+        run: python curate_articles.py
+      
+      # Step 7: Upload digest as artifact (so you can download it)
+      - name: Upload digest
+        uses: actions/upload-artifact@v4
+        with:
+          name: digest-${{ github.run_number }}
+          path: |
+            digest.txt
+            articles_curated.json
+          retention-days: 30
+      
+      # Step 8: Commit and push digest back to repo (optional)
+      - name: Commit digest to repo
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Create digests directory if it doesn't exist
+          mkdir -p digests
+          
+          # Copy digest with timestamp
+          cp digest.txt digests/digest-$(date +%Y-%m-%d).txt
+          
+          # Add and commit if there are changes
+          git add digests/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Add digest for $(date +%Y-%m-%d)"
+          git push
+        continue-on-error: true
+```
+
+6. **Paste that entire block** into the file editor
+
+7. **Scroll down, add commit message:**
+```
+   Add GitHub Actions workflow for automated digest
