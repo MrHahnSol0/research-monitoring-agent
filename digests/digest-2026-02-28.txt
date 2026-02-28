@@ -1,0 +1,88 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-02-28 20:40
+Articles reviewed: 18 | High-value (≥6/10): 8
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] US, Israel launch ‘massive and ongoing operation’ inside Iran
+   Breaking Defense | 2026-02-28 12:17
+   https://breakingdefense.com/2026/02/us-israel-launch-massive-and-ongoing-operation-inside-iran/
+   Theme: Current Conflicts
+   
+   A large-scale US-Israel operation inside Iran would represent a significant escalation with major multi-domain operational implications. This could provide real-world case study material for JADO concepts and cross-domain coordination challenges that JJ would use in teaching strategic planning.
+   → This operation would offer concrete examples of allied coordination and multi-domain integration for teaching Joint All-Domain Operations concepts to Marine officers.
+   Connects to: JADO, JADC2
+
+2. [SCORE: 7/10] All Too Quiet on the Western Neuroenhancement Front
+   War on the Rocks | 2026-02-27 09:00
+   https://warontherocks.com/2026/02/all-too-quiet-on-the-western-neuroenhancement-front/
+   Theme: AI/ML Military
+   
+   This article explores neuroenhancement technologies and their military applications, which intersects with AI/ML systems for human performance optimization. The focus on Western military approaches to cognitive enhancement provides operational insights relevant to future force development and human-machine teaming considerations.
+   → The neuroenhancement discussion offers rich material for teaching ethical considerations and human-machine integration challenges in joint operations, while providing concrete examples of emerging technologies affecting military decision-making processes.
+   Connects to: JADO, PME Innovation
+
+3. [SCORE: 7/10] Israel says it struck more than 500 targets in Iran with 200 warplanes
+   Breaking Defense | 2026-02-28 18:58
+   https://breakingdefense.com/2026/02/israel-says-it-struck-more-than-500-targets-in-iran-with-200-warplanes/
+   Theme: Current Conflicts
+   
+   Large-scale coordinated air operation involving 200 aircraft against 500+ targets demonstrates complex multi-domain coordination and operational planning relevant to JADO concepts. The scale and complexity offer potential lessons for joint operations planning and execution that could inform strategic thinking curriculum.
+   → This operation's coordination requirements and multi-domain integration challenges provide concrete case study material for teaching joint operations planning and C2 integration at MCU.
+   Connects to: JADO, JADC2
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (5 more)
+================================================================================
+
+
+AI/ML Military (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] AI giant Anthropic says it ‘cannot in good conscience’ agree to Pentagon demands
+Breaking Defense | https://breakingdefense.com/2026/02/pentagon-gives-anthropic-friday-deadline-to-loosen-ai-policy/
+This article highlights critical tensions between AI industry ethics and military requirements that directly impact AI/ML military implementation. The specific case of Anthropic refusing Pentagon demands provides concrete insight into procurement challenges and operational constraints that military planners face when integrating commercial AI systems.
+
+
+[6/10] Hegseth labels Anthropic a supply chain ‘risk,’ after Trump orders gov to ditch AI firm
+Breaking Defense | https://breakingdefense.com/2026/02/trump-orders-government-dod-to-immediately-cease-use-of-anthropics-tech-amid-ai-fight/
+This article addresses critical AI supply chain vulnerabilities and government dependency issues that have direct operational implications for military AI implementation. While it's primarily a policy/administrative development, it highlights real-world challenges in AI vendor selection and risk management that field-grade officers will face in implementation.
+
+
+Current Conflicts (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] US confirms first combat use of LUCAS one-way attack drone in Iran strikes
+C4ISRNET | https://www.c4isrnet.com/news/your-military/2026/02/28/us-confirms-first-combat-use-of-lucas-one-way-attack-drone-in-iran-strikes/
+This represents a significant tactical development - the US operationally deploying reverse-engineered Iranian drone technology in combat. The article likely provides insights into low-cost attrition warfare capabilities and how militaries are rapidly adapting adversary innovations for their own use.
+
+
+JADO (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] US military uses laser to take down CBP drone, lawmakers say
+C4ISRNET | https://www.c4isrnet.com/news/your-military/2026/02/27/us-military-uses-laser-to-take-down-cbp-drone-lawmakers-say/
+This incident highlights critical operational challenges in multi-domain environments where identification and coordination failures can lead to fratricide between military and civilian agencies. The case demonstrates real-world integration problems in joint operations and provides a concrete example of how domain convergence creates new tactical dilemmas.
+
+
+[6/10] Is the Army about to shake up its Bradley replacement, XM30? Sources see major signs.
+Breaking Defense | https://breakingdefense.com/2026/02/is-the-army-about-to-shake-up-the-xm30-bradley-replacement-sources-see-major-signs/
+This article covers potential changes to the XM30 Bradley replacement program, which has implications for ground force modernization within multi-domain operations. While it provides insights into Army procurement decisions that affect land domain capabilities, it appears to be primarily acquisition-focused news rather than offering deep operational insights or cross-domain integration lessons.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 3
+  AI/ML Military: 3
+  JADO: 2
+
+================================================================================
+END OF DIGEST
+================================================================================
