@@ -69,10 +69,3 @@ jobs:
           git diff --quiet && git diff --staged --quiet || git commit -m "Add digest for $(date +%Y-%m-%d)"
           git push
         continue-on-error: true
-```
-
-6. **Paste that entire block** into the file editor
-
-7. **Scroll down, add commit message:**
-```
-   Add GitHub Actions workflow for automated digest
