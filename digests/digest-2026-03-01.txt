@@ -1,0 +1,88 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-01 11:00
+Articles reviewed: 13 | High-value (≥6/10): 8
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] US, Israel launch ‘massive and ongoing operation’ inside Iran
+   Breaking Defense | 2026-02-28 12:17
+   https://breakingdefense.com/2026/02/us-israel-launch-massive-and-ongoing-operation-inside-iran/
+   Theme: Current Conflicts
+   
+   A US-Israel joint operation inside Iran represents a significant escalation with major implications for multi-domain warfare execution and coalition operations. This provides real-world case study material for understanding how allied forces coordinate complex operations across domains, offering valuable teaching scenarios for JADO instruction.
+   → This operation likely demonstrates practical JADO implementation in a coalition context, providing concrete examples for teaching how allies integrate command and control across multiple domains in high-stakes scenarios.
+   Connects to: JADO, JADC2
+
+2. [SCORE: 7/10] A Proxy Without a Purpose: Hizballah and the Iran Crisis
+   War on the Rocks | 2026-02-28 16:03
+   https://warontherocks.com/2026/02/a-proxy-without-a-purpose-hizballah-and-the-iran-crisis/
+   Theme: Current Conflicts
+   
+   This article examines proxy warfare dynamics in an active conflict zone, offering operational insights into multi-domain proxy operations and strategic planning considerations. The analysis of Hizballah's utility (or lack thereof) to Iran provides practical case study material for understanding complex alliance structures in modern warfare.
+   → Provides excellent case study material for teaching strategic planning and multi-domain operations, particularly how proxy relationships complicate joint all-domain operational planning and execution.
+   Connects to: JADO
+
+3. [SCORE: 7/10] Israel says it struck more than 500 targets in Iran with 200 warplanes
+   Breaking Defense | 2026-02-28 18:58
+   https://breakingdefense.com/2026/02/israel-says-it-struck-more-than-500-targets-in-iran-with-200-warplanes/
+   Theme: Current Conflicts
+   
+   This represents a significant multi-domain operation with over 200 aircraft striking 500+ targets, offering potential case study material for understanding large-scale coordinated strikes. The scale and complexity could provide valuable lessons for JADO implementation and cross-domain integration challenges.
+   → This operation could serve as a contemporary case study for teaching joint planning, multi-domain coordination, and the operational challenges of executing large-scale distributed strikes across domains.
+   Connects to: JADO, JADC2
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (5 more)
+================================================================================
+
+
+AI/ML Military (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Hegseth labels Anthropic a supply chain ‘risk,’ after Trump orders gov to ditch AI firm
+Breaking Defense | https://breakingdefense.com/2026/02/trump-orders-government-dod-to-immediately-cease-use-of-anthropics-tech-amid-ai-fight/
+This article addresses critical AI supply chain security issues that directly impact military AI implementation and decision-making processes. The government directive to cease using Anthropic's technology represents a significant operational shift that field-grade officers need to understand for planning and execution.
+
+
+Current Conflicts (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] US confirms first combat use of LUCAS one-way attack drone in Iran strikes
+C4ISRNET | https://www.c4isrnet.com/news/your-military/2026/02/28/us-confirms-first-combat-use-of-lucas-one-way-attack-drone-in-iran-strikes/
+This represents a significant tactical development - the US operationally deploying reverse-engineered Iranian drone technology in combat. The reverse-engineering aspect and first combat use provide concrete lessons about technology adaptation and low-cost attritable systems in multi-domain operations.
+
+
+[6/10] Swedish Navy intercepts suspected Russian drone nearing French aircraft carrier
+C4ISRNET | https://www.c4isrnet.com/global/europe/2026/02/27/swedish-navy-intercepts-suspected-russian-drone-nearing-french-aircraft-carrier/
+This incident provides a concrete example of multi-domain reconnaissance operations and maritime-air domain interactions in contested European waters. While tactically interesting for understanding Russian intelligence collection methods against NATO assets, it lacks deeper operational analysis or lessons learned that would elevate its teaching value.
+
+
+JADO (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] US military uses laser to take down CBP drone, lawmakers say
+C4ISRNET | https://www.c4isrnet.com/news/your-military/2026/02/27/us-military-uses-laser-to-take-down-cbp-drone-lawmakers-say/
+This incident provides a concrete example of multi-domain integration challenges, specifically the critical importance of identification and coordination systems when operating directed energy weapons in complex airspace with multiple agencies. The friendly fire scenario illustrates real operational risks that field-grade officers must understand when implementing JADO concepts.
+
+
+[6/10] Is the Army about to shake up its Bradley replacement, XM30? Sources see major signs.
+Breaking Defense | https://breakingdefense.com/2026/02/is-the-army-about-to-shake-up-the-xm30-bradley-replacement-sources-see-major-signs/
+Vehicle modernization programs like the XM30 Bradley replacement have implications for ground-domain capabilities within JADO frameworks, particularly regarding cross-domain integration and interoperability. However, this appears to be primarily an acquisition/program management story rather than operational doctrine or implementation insights.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 5
+  JADO: 2
+  AI/ML Military: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
