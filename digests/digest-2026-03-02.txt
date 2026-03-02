@@ -1,0 +1,98 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-02 11:51
+Articles reviewed: 11 | High-value (≥6/10): 10
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] Washington Built the AI Infrastructure AUKUS Needs — Then Locked Allies Out
+   War on the Rocks | 2026-03-02 09:00
+   https://warontherocks.com/2026/03/washington-built-the-ai-infrastructure-aukus-needs-then-locked-allies-out/
+   Theme: AI/ML Military
+   
+   This article addresses a critical operational challenge in allied AI integration that directly impacts JADO implementation - the tension between technological advancement and alliance cooperation. It connects infrastructure realities to operational capabilities, moving beyond policy to examine practical barriers that field-grade officers will face in multi-domain operations.
+   → Provides a concrete case study for teaching the intersection of technology policy and operational effectiveness in allied operations, particularly relevant for strategic planning coursework on multi-domain integration challenges.
+   Connects to: JADO, Quantum Technology, JADC2
+
+2. [SCORE: 8/10] Twice Bombed, Still Nuclear: The Limits of Force Against Iran’s Atomic Program
+   War on the Rocks | 2026-02-28 21:28
+   https://warontherocks.com/2026/02/twice-bombed-still-nuclear-the-limits-of-force-against-irans-atomic-program/
+   Theme: Current Conflicts
+   
+   This article analyzes a major multi-domain military operation against Iran's nuclear program, providing operational lessons on the limits of kinetic force against hardened/distributed targets. It offers real-world case study material examining cross-domain coordination between allies and the operational challenges of achieving strategic objectives through military action.
+   → This provides excellent case study material for teaching joint operations planning and the operational art, particularly how tactical success doesn't always achieve strategic objectives in multi-domain campaigns.
+   Connects to: JADO, JADC2
+
+3. [SCORE: 8/10] Here’s how cyber could have been used to target Iran in Operation Epic Fury
+   Breaking Defense | 2026-03-01 20:19
+   https://breakingdefense.com/2026/03/heres-how-cyber-could-have-been-used-to-target-iran-in-operation-epic-fury/
+   Theme: JADO
+   
+   This article provides concrete operational analysis of cyber domain integration in a recent major military operation, offering practical insights into multi-domain warfare implementation. It moves beyond theoretical JADO concepts to examine actual cyber-physical domain coordination and targeting decisions that field-grade officers would encounter in planning.
+   → Excellent case study material for teaching JADO planning considerations, particularly cyber domain integration timing, targeting coordination, and cross-domain effects assessment that he can use in strategic planning curriculum.
+   Connects to: Current Conflicts, JADC2
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (7 more)
+================================================================================
+
+
+AI/ML Military (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Earning a Spot on the Team: Autonomy, Trust, and the Future of Warfare
+Modern War Institute | https://mwi.westpoint.edu/earning-a-spot-on-the-team-autonomy-trust-and-the-future-of-warfare/
+This article addresses the critical human-machine teaming aspect of military AI implementation, focusing on trust and integration challenges that field-grade officers will face operationally. The specific reference to 'Spot' robots in military training suggests practical, current applications rather than theoretical discussion.
+
+
+Current Conflicts (5 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] US, Israel launch ‘massive and ongoing operation’ inside Iran
+Breaking Defense | https://breakingdefense.com/2026/02/us-israel-launch-massive-and-ongoing-operation-inside-iran/
+A massive US-Israeli operation inside Iran represents a significant escalation with major multi-domain operational implications. This type of cross-border, multi-national operation likely involves coordinated air, cyber, space, and possibly ground elements that directly demonstrate JADO concepts in practice.
+
+
+[7/10] A Proxy Without a Purpose: Hizballah and the Iran Crisis
+War on the Rocks | https://warontherocks.com/2026/02/a-proxy-without-a-purpose-hizballah-and-the-iran-crisis/
+This article provides operational insights into proxy warfare dynamics during active conflict, offering concrete analysis of multi-domain implications when proxy forces become strategically isolated. The Iran-Hezbollah case study demonstrates real-world challenges in maintaining distributed operations across domains when traditional command relationships break down.
+
+
+[7/10] ‘Nightmare scenario’ for GCC countries, region as Iran unloads drones and missiles
+Breaking Defense | https://breakingdefense.com/2026/03/iran-attacks-uae-saudi-missiles-drones-gcc-air-defense/
+This article provides real-world case study of multi-domain Iranian attack operations against GCC countries, offering practical insights into modern missile/drone warfare tactics and air defense challenges. The operational details and regional implications provide valuable teaching material for understanding contemporary conflict dynamics and defensive integration challenges.
+
+
+[7/10] Israel says it struck more than 500 targets in Iran with 200 warplanes
+Breaking Defense | https://breakingdefense.com/2026/02/israel-says-it-struck-more-than-500-targets-in-iran-with-200-warplanes/
+This large-scale multi-domain strike operation offers concrete operational insights into modern air campaign planning, target prioritization, and cross-domain coordination that are directly applicable to JADO teaching. The scale and complexity provide real-world case study material for understanding operational-level planning challenges.
+
+
+[7/10] US confirms first combat use of LUCAS one-way attack drone in Iran strikes
+C4ISRNET | https://www.c4isrnet.com/news/your-military/2026/02/28/us-confirms-first-combat-use-of-lucas-one-way-attack-drone-in-iran-strikes/
+This represents a significant tactical development showing US adoption of Iranian drone technology, providing concrete lessons about rapid capability adaptation and one-way attack systems in modern warfare. The reverse-engineering aspect offers valuable insights into how military forces can quickly adapt enemy innovations for operational use.
+
+
+JADO (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] The Deluge, the Paper Cup, and Washington’s Lack of Urgency on Guam
+War on the Rocks | https://warontherocks.com/2026/03/the-deluge-the-paper-cup-and-washingtons-lack-of-urgency-on-guam/
+This appears to address critical infrastructure and strategic positioning challenges for Guam, which is central to Pacific JADO operations and multi-domain defense planning. The practitioner perspective from a former lieutenant governor offers real-world operational insights rather than theoretical policy discussion.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 6
+  AI/ML Military: 2
+  JADO: 2
+
+================================================================================
+END OF DIGEST
+================================================================================
