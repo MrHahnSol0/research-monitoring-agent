@@ -1,0 +1,114 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-03 11:54
+Articles reviewed: 19 | High-value (≥6/10): 13
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] Why Satellites Fail — and How to Protect Them
+   War on the Rocks | 2026-03-03 09:00
+   https://warontherocks.com/2026/03/why-satellites-fail-and-how-to-protect-them/
+   Theme: JADC2
+   
+   This practitioner interview addresses critical satellite communication vulnerabilities that directly impact JADC2 implementation and multi-domain operations. The focus on laser optical communications and satellite protection offers operational insights into space domain challenges that field-grade officers must understand for effective joint operations.
+   → Provides real-world technical expertise on space domain vulnerabilities that JJ can integrate into JADO curriculum, especially when teaching about cross-domain dependencies and single points of failure in joint operations.
+   Connects to: JADO, Current Conflicts
+
+2. [SCORE: 8/10] Washington Built the AI Infrastructure AUKUS Needs — Then Locked Allies Out
+   War on the Rocks | 2026-03-02 09:00
+   https://warontherocks.com/2026/03/washington-built-the-ai-infrastructure-aukus-needs-then-locked-allies-out/
+   Theme: AI/ML Military
+   
+   This article addresses a critical operational challenge in AI/ML military implementation - the infrastructure and alliance integration requirements that will directly impact JADO effectiveness. It connects technical AI capabilities with strategic alliance considerations, offering practical insights into implementation barriers rather than just policy discussion.
+   → Provides concrete case study material for teaching how technical infrastructure decisions create strategic operational constraints in joint and coalition operations.
+   Connects to: JADO, Quantum Technology, JADC2
+
+3. [SCORE: 8/10] Here’s how cyber could have been used to target Iran in Operation Epic Fury
+   Breaking Defense | 2026-03-01 20:19
+   https://breakingdefense.com/2026/03/heres-how-cyber-could-have-been-used-to-target-iran-in-operation-epic-fury/
+   Theme: JADO
+   
+   This article provides concrete operational analysis of cyber integration in a recent multi-domain operation, offering practical insights into how cyber capabilities can be synchronized with kinetic operations. The focus on 'how cyber could have been used' suggests tactical and operational lessons that field-grade officers can apply to future planning.
+   → This offers real-world case study material for teaching JADO integration challenges and cyber-physical domain coordination that JJ can use in strategic planning curriculum at MCU.
+   Connects to: Current Conflicts, JADC2
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (10 more)
+================================================================================
+
+
+AI/ML Military (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Earning a Spot on the Team: Autonomy, Trust, and the Future of Warfare
+Modern War Institute | https://mwi.westpoint.edu/earning-a-spot-on-the-team-autonomy-trust-and-the-future-of-warfare/
+This article addresses the critical human-machine teaming aspects of military AI implementation, focusing on trust and integration challenges that field-grade officers will face operationally. The specific focus on 'Spot' robots in military training provides concrete, practical insights beyond theoretical frameworks.
+
+
+Current Conflicts (6 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Missed Signals and Middle East Shockwaves
+War on the Rocks | https://warontherocks.com/2026/03/missed-signals-and-middle-east-shockwaves/
+This appears to be a curated digest of Ukrainian perspectives on current conflicts, offering primary source insights from practitioners experiencing multi-domain warfare firsthand. The focus on Ukrainian media analysis provides the kind of ground-truth operational perspectives JJ values over Western policy summaries.
+
+
+[7/10] How US cyber operators could take on Iran in cyberspace as Epic Fury plays out
+Breaking Defense | https://breakingdefense.com/2026/03/how-us-cyber-operators-could-take-on-iran-in-cyberspace-as-epic-fury-plays-out/
+This article examines cyber operations in the context of a current conflict scenario (Epic Fury exercise/Iran tensions), providing practical insights into how cyber domain operations integrate with broader military operations. The focus on operational cyber capabilities and their implementation offers valuable field-grade officer perspectives on multi-domain warfare execution.
+
+
+[7/10] ‘Nightmare scenario’ for GCC countries, region as Iran unloads drones and missiles
+Breaking Defense | https://breakingdefense.com/2026/03/iran-attacks-uae-saudi-missiles-drones-gcc-air-defense/
+This article provides real-world operational insights into multi-domain Iranian attack patterns against GCC air defenses, offering concrete case study material for understanding integrated drone/missile warfare tactics. The 'nightmare scenario' framing suggests analysis of layered attack methods that stress air defense systems, which has direct teaching applications for JADO concepts.
+
+
+[6/10] Caine: US objective is to keep Iran from projecting power outside own borders
+Breaking Defense | https://breakingdefense.com/2026/03/caine-us-objective-is-to-keep-iran-from-projecting-power-outside-own-borders/
+This appears to be a policy statement about containing Iranian power projection, which provides useful strategic context for understanding Middle East operations. However, without the full article content, it's unclear if it offers operational insights beyond standard containment doctrine or discusses multi-domain approaches to countering Iranian proxy networks.
+
+
+[6/10] Iran conflict expands in Lebanon, Beirut demands Hezbollah ‘hand over its weapons’
+Breaking Defense | https://breakingdefense.com/2026/03/iran-conflict-expands-in-lebanon-beirut-demands-hezbollah-hand-over-its-weapons/
+This article covers evolving dynamics in the Iran-Israel conflict with Lebanon's government challenging Hezbollah's autonomous military capabilities. It provides insights into multi-domain proxy warfare and state-within-state military dynamics, though appears to be primarily news reporting rather than operational analysis.
+
+
+[6/10] Al-Qaeda’s Third Phase
+Modern War Institute | https://mwi.westpoint.edu/al-qaedas-third-phase/
+This article analyzes the evolution of al-Qaeda's operational methods and strategic approach, which provides useful context for understanding asymmetric threats in current security environments. However, without seeing the full content, it appears to focus primarily on counterterrorism analysis rather than offering broader operational insights that would directly inform JADO concepts or strategic planning pedagogy.
+
+
+JADO (3 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Foundry, Fleet, and Fight: Hedging the U.S. Navy
+War on the Rocks | https://warontherocks.com/2026/03/foundry-fleet-and-fight-hedging-the-u-s-navy/
+This article examines Navy operations across multiple domains and theaters, providing operational insights on how naval forces integrate into broader joint campaigns. The focus on real combat operations and strategic implications offers practical case studies for understanding multi-domain integration challenges.
+
+
+[7/10] The Deluge, the Paper Cup, and Washington’s Lack of Urgency on Guam
+War on the Rocks | https://warontherocks.com/2026/03/the-deluge-the-paper-cup-and-washingtons-lack-of-urgency-on-guam/
+This appears to be a practitioner's perspective on Guam's strategic importance and Washington's policy response, likely offering operational insights about Pacific defense posture and multi-domain considerations. The author's background as lieutenant governor of Guam and military experience suggests credible, ground-truth perspective on implementation challenges.
+
+
+[7/10] Austria military’s first satellite will hunt for GPS, Galileo interference
+Breaking Defense | https://breakingdefense.com/2026/03/austria-militarys-first-satellite-will-hunt-for-gps-galileo-interference/
+This article demonstrates practical implementation of space-based ISR capabilities for multi-domain operations, specifically addressing GPS/GNSS vulnerability - a critical operational concern for JADO planning. Austria's approach to sovereignty in the space domain and counter-jamming capabilities offers concrete examples for teaching about space integration in joint operations.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 6
+  JADO: 4
+  AI/ML Military: 2
+  JADC2: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
