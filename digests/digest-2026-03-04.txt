@@ -1,0 +1,129 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-04 11:51
+Articles reviewed: 25 | High-value (≥6/10): 16
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] Why Satellites Fail — and How to Protect Them
+   War on the Rocks | 2026-03-03 09:00
+   https://warontherocks.com/2026/03/why-satellites-fail-and-how-to-protect-them/
+   Theme: JADC2
+   
+   This practitioner interview addresses critical space domain vulnerabilities that directly impact joint command and control networks. The focus on satellite failure modes and protection measures provides operational insights essential for JADO planning and multi-domain resilience.
+   → Offers real-world technical insights from industry practitioner that directly support teaching space domain considerations in joint all-domain operations planning at MCU.
+   Connects to: JADO, Current Conflicts
+
+2. [SCORE: 8/10] How tanking, airlift could be strained by Iran ops
+   Breaking Defense | 2026-03-03 15:14
+   https://breakingdefense.com/2026/03/how-tanking-airlift-could-be-strained-by-iran-ops/
+   Theme: JADO
+   
+   This article directly addresses critical operational constraints in multi-domain operations, specifically how logistics enablers (tanking and airlift) create vulnerabilities in sustained operations against Iran. It provides concrete analysis of cross-domain dependencies that field-grade officers must understand for JADO planning.
+   → This offers excellent case study material for teaching JADO students about logistics as a constraining factor in multi-domain operations planning, particularly relevant given current Middle East tensions.
+   Connects to: Current Conflicts, JADC2
+
+3. [SCORE: 8/10] ‘Simple plans, violently executed’: One Army unit’s old-school counter to high-tech chaos
+   Breaking Defense | 2026-03-03 14:32
+   https://breakingdefense.com/2026/03/simple-plans-violently-executed-one-army-units-old-school-counter-to-high-tech-chaos/
+   Theme: JADO
+   
+   This article examines how an operational unit balances high-tech capabilities with proven tactical fundamentals, directly addressing a core JADO implementation challenge. The practitioner perspective from an active Army unit provides real-world insights into multi-domain complexity management that field-grade officers face.
+   → Perfect case study for teaching strategic planning students how operational units maintain tactical effectiveness while integrating complex multi-domain technologies.
+   Connects to: AI/ML Military, PME Innovation, JADC2
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (13 more)
+================================================================================
+
+
+Current Conflicts (9 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] Tell Me How This Ends: Six Questions That Will Shape the Outcome of the US-Israeli Operations Against Iran
+Modern War Institute | https://mwi.westpoint.edu/tell-me-how-this-ends-six-questions-that-will-shape-the-outcome-of-the-us-israeli-operations-against-iran/
+This article offers strategic-level operational analysis of ongoing US-Israeli operations against Iran, providing the kind of contemporary conflict assessment that field-grade officers need for understanding multi-domain campaign design. The six-question framework likely provides a structured analytical approach that has clear teaching applications for strategic planning courses.
+
+
+[7/10] Foundry, Fleet, and Fight: Hedging the U.S. Navy
+War on the Rocks | https://warontherocks.com/2026/03/foundry-fleet-and-fight-hedging-the-u-s-navy/
+This article analyzes recent Navy operations across multiple theaters and discusses strategic implications for force structure and readiness under current operational tempo. It provides practical insights into how sustained combat operations affect naval capabilities and planning, which is valuable for understanding real-world multi-domain challenges.
+
+
+[7/10] Missed Signals and Middle East Shockwaves
+War on the Rocks | https://warontherocks.com/2026/03/missed-signals-and-middle-east-shockwaves/
+This Ukrainian digest provides primary source perspectives on how current conflicts are interconnected across regions, offering valuable insights into strategic thinking and operational lessons. The cross-regional analysis (Ukraine-Middle East connections) provides the kind of multi-domain strategic perspective useful for teaching joint operations concepts.
+
+
+[7/10] Iran mission takes toll on US munition stockpile, lawmakers weigh supplemental defense funding
+Breaking Defense | https://breakingdefense.com/2026/03/iran-mission-takes-toll-on-us-munition-stockpile-lawmakers-weigh-supplemental-defense-funding/
+This article addresses critical operational realities of munitions consumption rates and industrial base capacity during sustained operations, which are fundamental considerations for JADO planning and resource allocation. It provides practical insights into logistical constraints that directly impact multi-domain operational design and force employment decisions.
+
+
+[7/10] How US cyber operators could take on Iran in cyberspace as Epic Fury plays out
+Breaking Defense | https://breakingdefense.com/2026/03/how-us-cyber-operators-could-take-on-iran-in-cyberspace-as-epic-fury-plays-out/
+This article provides operational insights into cyber domain integration during a current conflict scenario, offering practical examples of how cyber operations support multi-domain campaigns. The Iran-focused case study delivers real-world applications that bridge theory and practice for military educators.
+
+
+[6/10] In Brief: Increasing Tensions Between China and Japan Create Risks for the Region
+War on the Rocks | https://warontherocks.com/2026/03/in-brief-increasing-tensions-between-china-and-japan-create-risks-for-the-region/
+This provides useful regional context for potential multi-domain conflict scenarios in the Pacific, particularly relevant for understanding alliance dynamics and escalation patterns. However, it appears to be more of a situational brief rather than offering deep operational insights or lessons learned.
+
+
+[6/10] Caine: US objective is to keep Iran from projecting power outside own borders
+Breaking Defense | https://breakingdefense.com/2026/03/caine-us-objective-is-to-keep-iran-from-projecting-power-outside-own-borders/
+This appears to be strategic-level policy discussion about Iran containment objectives, which could provide context for understanding regional force employment and multi-domain deterrence operations. However, without the full article content, it's unclear if this offers operational insights beyond high-level policy statements that JJ likely already understands.
+
+
+[6/10] Iran conflict expands in Lebanon, Beirut demands Hezbollah ‘hand over its weapons’
+Breaking Defense | https://breakingdefense.com/2026/03/iran-conflict-expands-in-lebanon-beirut-demands-hezbollah-hand-over-its-weapons/
+This article covers a significant escalation in Middle East conflicts with potential multi-domain implications, but appears to be breaking news rather than analytical content offering operational insights. The Lebanese government's demand for Hezbollah disarmament represents a major political shift that could reshape proxy warfare dynamics.
+
+
+[6/10] Al-Qaeda’s Third Phase
+Modern War Institute | https://mwi.westpoint.edu/al-qaedas-third-phase/
+This article examines the evolution of al-Qaeda's operational methods and strategic approach, which could provide useful case study material for understanding adaptive adversaries in multi-domain environments. However, without seeing the full content, it's unclear if it offers genuinely new operational insights or teaching applications beyond standard counterterrorism analysis.
+
+
+JADO (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] The Velocity Gap Between Pakistan and India
+War on the Rocks | https://warontherocks.com/2026/03/the-velocity-gap-between-pakistan-and-india/
+This article introduces 'velocity' as a key operational concept in modern crisis management, emphasizing speed of decision-making and narrative control over raw military power. The focus on multi-domain coordination (military action, information operations, diplomatic timing) directly applies to Joint All-Domain Operations thinking and offers a fresh analytical framework for understanding contemporary conflicts.
+
+
+[7/10] Austria military’s first satellite will hunt for GPS, Galileo interference
+Breaking Defense | https://breakingdefense.com/2026/03/austria-militarys-first-satellite-will-hunt-for-gps-galileo-interference/
+This article demonstrates practical JADO implementation through space domain integration for protecting critical navigation systems. Austria's satellite-based interference detection represents real operational capability development that connects space, cyber, and terrestrial domains in defending against multi-domain threats.
+
+
+PME Innovation (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] The Burden That Should Not Be Theirs: How Congress Turned the Military into the Last Check on Illegal War
+War on the Rocks | https://warontherocks.com/2026/03/the-burden-that-should-not-be-theirs-how-congress-turned-the-military-into-the-last-check-on-illegal-war/
+This article addresses critical constitutional and ethical issues that field-grade officers must navigate when executing strategic orders, making it highly relevant for PME curriculum on civil-military relations. It provides a framework for teaching officers about the tension between legal compliance and military subordination to civilian authority.
+
+
+[7/10] National Guard member’s invention allows cyber warfare training on the go
+C4ISRNET | https://www.c4isrnet.com/news/your-military/2026/03/03/national-guard-members-invention-allows-cyber-warfare-training-on-the-go/
+This article highlights a practitioner-driven innovation for mobile cyber training, which directly applies to PME delivery methods and could inform distributed learning approaches. The fact it's from an enlisted innovator via Spark Tank suggests genuine operational utility rather than top-down mandates.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 9
+  JADO: 4
+  PME Innovation: 2
+  JADC2: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
