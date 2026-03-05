@@ -1,0 +1,123 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-05 11:57
+Articles reviewed: 26 | High-value (≥6/10): 15
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] The Bay of Bengal Flank: India’s Three-Front Dilemma and Its Implications for Taiwan
+   War on the Rocks | 2026-03-05 08:30
+   https://warontherocks.com/2026/03/the-bay-of-bengal-flank-indias-three-front-dilemma-and-its-implications-for-taiwan/
+   Theme: JADO
+   
+   This article provides strategic-level analysis of multi-domain warfare considerations across the Indo-Pacific, examining how India's simultaneous challenges with Pakistan, China, and maritime security create operational constraints that could affect Taiwan contingency planning. It offers field-grade officers insights into theater-level strategic thinking and alliance considerations in joint all-domain operations.
+   → Excellent case study for teaching strategic planning and multi-domain operational considerations, showing how geographically separated theaters can operationally influence each other in ways students need to understand for future joint planning roles.
+   Connects to: Current Conflicts, PME Innovation
+
+2. [SCORE: 8/10] Bonus In Brief: Global Reaction to the War in Iran
+   War on the Rocks | 2026-03-04 20:05
+   https://warontherocks.com/2026/03/bonus-in-brief-global-reaction-to-the-war-in-iran/
+   Theme: Current Conflicts
+   
+   This covers a major escalation involving multi-domain operations (strikes, cyber, economic warfare) with immediate operational lessons for joint planning and cross-domain effects. The global reaction analysis provides strategic context essential for understanding modern conflict escalation dynamics.
+   → Provides real-world case study of joint all-domain operations escalation that directly supports teaching strategic planning and multi-domain warfare concepts at MCU.
+   Connects to: JADO, JADC2
+
+3. [SCORE: 8/10] The Velocity Gap Between Pakistan and India
+   War on the Rocks | 2026-03-04 08:30
+   https://warontherocks.com/2026/03/the-velocity-gap-between-pakistan-and-india/
+   Theme: JADO
+   
+   This article introduces the concept of 'velocity' as a critical factor in multi-domain operations, examining how speed of decision-making, authorization, and narrative control can be more decisive than raw military capability. The Pakistan-India case study provides concrete operational insights into how modern crises unfold across multiple domains simultaneously, offering a framework that transcends traditional kinetic-focused analysis.
+   → The velocity concept provides a powerful teaching framework for strategic planning courses, demonstrating how JADO success depends on organizational agility and cross-domain coordination rather than just technical capabilities.
+   Connects to: JADC2, PME Innovation
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (12 more)
+================================================================================
+
+
+Current Conflicts (6 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] US military uses PrSM for first time in combat, says CENTCOM
+Breaking Defense | https://breakingdefense.com/2026/03/centcom-confirms-first-combat-use-of-prsm-in-iran/
+First combat use of PrSM represents a significant tactical innovation and real-world validation of long-range precision fires doctrine. This provides concrete operational data on multi-domain integration and cross-domain effects that goes beyond theoretical frameworks.
+
+
+[8/10] Novel interceptor drones bend air-defense economics in Ukraine’s favor
+C4ISRNET | https://www.c4isrnet.com/global/europe/2026/03/05/novel-interceptor-drones-bend-air-defense-economics-in-ukraines-favor/
+This article provides concrete operational insights into innovative air defense tactics that are changing cost dynamics in warfare, offering real combat data on drone-vs-drone engagements. It demonstrates practical adaptation in multi-domain operations and presents teachable lessons about asymmetric defense strategies that field-grade officers need to understand.
+
+
+[8/10] Tell Me How This Ends: Six Questions That Will Shape the Outcome of the US-Israeli Operations Against Iran
+Modern War Institute | https://mwi.westpoint.edu/tell-me-how-this-ends-six-questions-that-will-shape-the-outcome-of-the-us-israeli-operations-against-iran/
+This MWI article likely provides strategic-level analysis of US-Israeli operations against Iran using Petraeus's famous question as a framework for examining endstate planning. The six-question structure offers both operational insights into current Middle East conflicts and a pedagogical framework for teaching strategic planning concepts.
+
+
+[7/10] Key questions, and an expert take, after US strikes Iran
+Breaking Defense | https://breakingdefense.com/2026/03/key-questions-and-an-expert-take-after-us-strikes-iran/
+US strikes on Iran represent a significant escalation with potential multi-domain operational implications that field-grade officers need to understand. The expert analysis likely provides tactical and strategic insights beyond typical news coverage, making it valuable for understanding contemporary conflict dynamics.
+
+
+[7/10] Iran mission takes toll on US munition stockpile, lawmakers weigh supplemental defense funding
+Breaking Defense | https://breakingdefense.com/2026/03/iran-mission-takes-toll-on-us-munition-stockpile-lawmakers-weigh-supplemental-defense-funding/
+This article addresses critical operational logistics challenges from active military operations, specifically munitions depletion rates and industrial base capacity - key considerations for field-grade officers planning multi-domain operations. The intersection of tactical actions, strategic resource constraints, and policy responses provides valuable case study material for understanding operational sustainability.
+
+
+[6/10] In Brief: Increasing Tensions Between China and Japan Create Risks for the Region
+War on the Rocks | https://warontherocks.com/2026/03/in-brief-increasing-tensions-between-china-and-japan-create-risks-for-the-region/
+This article provides current geopolitical context on China-Japan tensions that could inform strategic planning discussions, but appears to be more news briefing than operational analysis. The regional security implications are relevant for joint operations planning, though without seeing operational details or lessons learned.
+
+
+JADO (4 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] How tanking, airlift could be strained by Iran ops
+Breaking Defense | https://breakingdefense.com/2026/03/how-tanking-airlift-could-be-strained-by-iran-ops/
+This article addresses critical logistics constraints in multi-domain operations against a peer adversary, focusing on tanking and airlift capacity limitations that would directly impact joint operations planning. It provides operational-level insights into domain integration challenges and resource allocation decisions that field-grade officers must understand for realistic JADO implementation.
+
+
+[8/10] ‘Simple plans, violently executed’: One Army unit’s old-school counter to high-tech chaos
+Breaking Defense | https://breakingdefense.com/2026/03/simple-plans-violently-executed-one-army-units-old-school-counter-to-high-tech-chaos/
+This article appears to examine how military units are balancing high-tech capabilities with fundamental tactical principles, which directly relates to JADO implementation challenges. The tension between technological complexity and operational simplicity is a core issue field-grade officers face when integrating multi-domain capabilities.
+
+
+[7/10] Fighting an Economic War Without Fused Intelligence
+War on the Rocks | https://warontherocks.com/2026/03/fighting-an-economic-war-without-fused-intelligence/
+This article addresses a critical gap in multi-domain operations by examining how economic warfare requires intelligence fusion across traditional boundaries. It offers practical insights into how information silos undermine strategic decision-making in the economic domain, which is increasingly recognized as a key battlespace in JADO frameworks.
+
+
+[6/10] Dassault CEO: FCAS jet program ‘dead’ if clash with Airbus not resolved
+Breaking Defense | https://breakingdefense.com/2026/03/dassault-ceo-fcas-jet-program-dead-if-clash-with-airbus-not-resolved/
+The FCAS program represents Europe's attempt at developing next-generation multi-domain fighter capabilities, making industrial cooperation challenges relevant to understanding coalition JADO implementation barriers. However, this appears to focus more on corporate disputes than operational or doctrinal insights.
+
+
+PME Innovation (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] The Burden That Should Not Be Theirs: How Congress Turned the Military into the Last Check on Illegal War
+War on the Rocks | https://warontherocks.com/2026/03/the-burden-that-should-not-be-theirs-how-congress-turned-the-military-into-the-last-check-on-illegal-war/
+This article addresses critical civil-military relations concepts that are fundamental to strategic planning education and officer development. It provides a framework for teaching the constitutional constraints and ethical dilemmas field-grade officers may face when executing strategic directives.
+
+
+[7/10] National Guard member’s invention allows cyber warfare training on the go
+C4ISRNET | https://www.c4isrnet.com/news/your-military/2026/03/03/national-guard-members-invention-allows-cyber-warfare-training-on-the-go/
+A National Guard member's practical innovation for mobile cyber warfare training directly addresses training methodology challenges and could inform PME curriculum development. The Spark Tank competition context suggests this is a validated, implementable solution rather than theoretical concept.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 7
+  JADO: 6
+  PME Innovation: 2
+
+================================================================================
+END OF DIGEST
+================================================================================
