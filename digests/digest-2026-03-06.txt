@@ -1,0 +1,136 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-06 11:49
+Articles reviewed: 26 | High-value (≥6/10): 16
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] The Bay of Bengal Flank: India’s Three-Front Dilemma and Its Implications for Taiwan
+   War on the Rocks | 2026-03-05 08:30
+   https://warontherocks.com/2026/03/the-bay-of-bengal-flank-indias-three-front-dilemma-and-its-implications-for-taiwan/
+   Theme: JADO
+   
+   This article provides strategic-level analysis of multi-domain warfare considerations across the Indo-Pacific, examining how India's multi-front challenges could affect Chinese calculus regarding Taiwan. It offers the kind of cross-domain synthesis and operational planning insights valuable for teaching joint all-domain operations at the strategic level.
+   → Perfect case study for teaching strategic planning and multi-domain considerations, showing how seemingly separate theaters are interconnected in great power competition scenarios.
+   Connects to: Current Conflicts
+
+2. [SCORE: 8/10] Bonus In Brief: Global Reaction to the War in Iran
+   War on the Rocks | 2026-03-04 20:05
+   https://warontherocks.com/2026/03/bonus-in-brief-global-reaction-to-the-war-in-iran/
+   Theme: Current Conflicts
+   
+   This appears to cover a major escalation involving multi-domain operations across multiple theaters, offering potential real-time case study material for understanding joint operations under extreme conditions. The global scope and multi-actor dynamics provide rich operational lessons for field-grade officers studying modern conflict escalation.
+   → This conflict scenario provides excellent case study material for teaching joint all-domain operations escalation dynamics and multi-theater coordination challenges at MCU.
+   Connects to: JADO, JADC2
+
+3. [SCORE: 8/10] US military uses PrSM for first time in combat, says CENTCOM
+   Breaking Defense | 2026-03-04 21:51
+   https://breakingdefense.com/2026/03/centcom-confirms-first-combat-use-of-prsm-in-iran/
+   Theme: Current Conflicts
+   
+   First combat use of PrSM represents significant operational milestone with direct implications for long-range precision fires in multi-domain operations. This provides concrete case study material for teaching modern warfare capabilities and their integration across domains.
+   → Perfect teaching case for demonstrating how emerging capabilities transition from development to operational employment in joint all-domain contexts.
+   Connects to: JADO, JADC2
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (13 more)
+================================================================================
+
+
+AI/ML Military (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] How RAFT is approaching AI at the edge
+Breaking Defense | https://breakingdefense.com/2026/03/how-raft-is-approaching-ai-at-the-edge/
+RAFT's edge AI approach directly addresses practical implementation challenges that field-grade officers face in deploying AI capabilities in contested environments. The focus on edge computing solutions connects to real operational constraints around connectivity and latency in multi-domain operations.
+
+
+Current Conflicts (7 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] US and Mideast countries seek Kyiv’s drone expertise as Russia-Ukraine talks put on ice
+C4ISRNET | https://www.c4isrnet.com/industry/techwatch/2026/03/05/us-and-mideast-countries-seek-kyivs-drone-expertise-as-russia-ukraine-talks-put-on-ice/
+This article highlights a significant operational innovation from Ukraine's conflict experience - the development and export of counter-drone systems specifically designed to defeat Iranian Shaheds. The transition from wartime innovation to international technology transfer represents a real-world case study of how tactical solutions scale across domains and allies.
+
+
+[8/10] Novel interceptor drones bend air-defense economics in Ukraine’s favor
+C4ISRNET | https://www.c4isrnet.com/global/europe/2026/03/05/novel-interceptor-drones-bend-air-defense-economics-in-ukraines-favor/
+This article addresses tactical innovation with operational implications from ongoing Ukraine conflict, specifically how drone interception changes air defense cost-benefit calculations. The economic warfare angle and asymmetric tactics represent genuinely new combat developments rather than repetitive coverage.
+
+
+[7/10] The Adversarial: War in Iran Shapes Adversaries’ Calculations
+War on the Rocks | https://warontherocks.com/2026/03/the-adversarial-war-in-iran-shapes-adversaries-calculations/
+This article analyzes how ongoing conflict in Iran is influencing strategic calculations of other major adversaries like China and Russia, providing valuable insights into how adversaries adapt and learn from current military operations. The multi-adversary analysis offers operational-level insights that go beyond typical conflict coverage to examine broader strategic implications.
+
+
+[7/10] Drone Dominance: Pentagon to order 30,000 one-way drones in ‘next few days’
+Breaking Defense | https://breakingdefense.com/2026/03/drone-dominance-pentagon-to-order-30000-one-way-drones-in-next-few-days/
+Large-scale procurement of one-way attack drones reflects operational lessons from Ukraine and represents a significant tactical shift for U.S. forces. The scale (30,000 units) suggests institutional adoption of attritable systems concepts that could reshape operational planning across domains.
+
+
+[7/10] Iran can still fire drones and missiles — experts weigh the implications on the war
+C4ISRNET | https://www.c4isrnet.com/global/mideast-africa/2026/03/06/iran-can-still-fire-drones-and-missiles-experts-weigh-the-implications-on-the-war/
+This article addresses critical operational implications of asymmetric warfare economics and multi-domain defense challenges in an active conflict zone. The cost-per-intercept analysis and sustained threat capability assessment provide practical insights for field-grade officers planning defensive operations.
+
+
+[6/10] What Recent Military Operations Signal About Trump’s Grand Strategy
+War on the Rocks | https://warontherocks.com/2026/03/what-recent-military-operations-signal-about-trumps-grand-strategy/
+This article analyzes strategic decision-making patterns in ongoing Middle East operations, which could provide case study material for teaching strategic planning. However, without access to the full content, it's unclear whether it offers genuine operational insights versus political commentary.
+
+
+[6/10] Defense execs invited to White House to talk munition production amid Iran strikes
+Breaking Defense | https://breakingdefense.com/2026/03/defense-execs-invited-to-white-house-to-talk-munition-production-amid-iran-strikes/
+This article addresses industrial base capacity under operational stress, which is a critical but often overlooked aspect of sustained multi-domain operations. While likely focused on policy coordination rather than tactical innovations, it touches on the practical logistics constraints that field-grade officers must understand when planning extended operations.
+
+
+JADC2 (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Multi-channel data link reshapes Navy’s communications capabilities
+Breaking Defense | https://breakingdefense.com/2026/03/multi-channel-data-link-reshapes-navys-communications-capabilities/
+This article describes practical implementation of multi-channel data links for carrier strike groups, directly addressing JADC2 integration challenges across air and naval platforms. The focus on operational communications capabilities rather than policy makes it valuable for understanding real-world command and control evolution.
+
+
+JADO (3 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] From Hedgerows to Kill Webs: The Soldier Leads Army Transformation
+Modern War Institute | https://mwi.westpoint.edu/from-hedgerows-to-kill-webs-the-soldier-leads-army-transformation/
+This is the capstone article of an 8-part series by a former Army Vice Chief on transformation, likely offering high-level operational insights on multi-domain warfare evolution from traditional tactics to networked operations. The title suggests concrete progression from historical combat (hedgerows) to modern kill webs, indicating practical transformation insights rather than theoretical concepts.
+
+
+[7/10] Fighting an Economic War Without Fused Intelligence
+War on the Rocks | https://warontherocks.com/2026/03/fighting-an-economic-war-without-fused-intelligence/
+Economic warfare as a domain of operations directly connects to JADO concepts, particularly information fusion across domains. The focus on intelligence integration challenges offers practical insights for understanding multi-domain coordination problems that field-grade officers face.
+
+
+[6/10] Navy’s Kilby signals USS Ford could see 11-month deployment, approaching record length
+Breaking Defense | https://breakingdefense.com/2026/03/navys-kilby-signals-uss-ford-could-see-11-month-deployment-approaching-record-length/
+Extended carrier deployments reflect force structure challenges in multi-domain operations and highlight sustainability constraints in great power competition. The operational implications of pushing Ford-class capabilities to near-record deployment lengths offer insights into maritime domain capacity under strategic pressure.
+
+
+PME Innovation (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Five Questions for a General: Lieutenant General Leslie Smith
+Modern War Institute | https://mwi.westpoint.edu/five-questions-for-a-general-lieutenant-general-leslie-smith/
+This interview format with a general officer provides practical insights from a senior practitioner that can be valuable for teaching strategic thinking and leadership concepts. The 'Five Questions' series typically extracts operational wisdom and real-world experience that translates well to PME curriculum development.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 9
+  JADO: 4
+  JADC2: 1
+  AI/ML Military: 1
+  PME Innovation: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
