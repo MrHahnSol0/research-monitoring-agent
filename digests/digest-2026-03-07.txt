@@ -1,0 +1,112 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-07 11:00
+Articles reviewed: 21 | High-value (≥6/10): 12
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] 3,000 strikes, 43 ships hit: US operations against Iran by the numbers
+   Breaking Defense | 2026-03-06 19:12
+   https://breakingdefense.com/2026/03/2000-strikes-30-ships-down-us-operations-against-iran-by-the-numbers/
+   Theme: Current Conflicts
+   
+   This article provides concrete operational data from a major multi-domain conflict, offering quantifiable metrics on strike operations and naval engagements that demonstrate real-world JADO implementation. The statistical breakdown of operations across domains provides valuable case study material for understanding the scale and integration challenges of modern warfare.
+   → The numerical breakdown of cross-domain operations provides excellent teaching material for illustrating JADO principles in practice and the operational complexity of coordinating strikes across maritime and other domains.
+   Connects to: JADO, JADC2
+
+2. [SCORE: 8/10] From Hedgerows to Kill Webs: The Soldier Leads Army Transformation
+   Modern War Institute | 2026-03-06 08:22
+   https://mwi.westpoint.edu/from-hedgerows-to-kill-webs-the-soldier-leads-army-transformation/
+   Theme: JADO
+   
+   This is the capstone article of an 8-part series by a former Army Vice Chief of Staff on Army transformation, likely connecting tactical lessons from historical contexts (hedgerows) to modern multi-domain operations (kill webs). The practitioner perspective from senior leadership combined with the evolutionary framing from WWII tactics to networked warfare offers substantial operational insights for field-grade officers.
+   → The historical progression from WWII hedgerow fighting to modern kill webs provides excellent case study material for teaching joint operations evolution and could offer frameworks for explaining multi-domain integration to MCU students.
+   Connects to: JADC2, Current Conflicts, PME Innovation
+
+3. [SCORE: 7/10] The Adversarial: War in Iran Shapes Adversaries’ Calculations
+   War on the Rocks | 2026-03-05 21:25
+   https://warontherocks.com/2026/03/the-adversarial-war-in-iran-shapes-adversaries-calculations/
+   Theme: Current Conflicts
+   
+   Analysis of how ongoing Iran conflict shapes adversary decision-making provides valuable strategic context for understanding multi-domain competition dynamics. The cross-adversary perspective (China, Russia, Iran, North Korea) offers insights into how conflicts create demonstration effects and influence broader strategic calculations.
+   → This adversary calculus analysis provides excellent case study material for teaching strategic planning and multi-domain competition effects at MCU.
+   Connects to: JADO
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (9 more)
+================================================================================
+
+
+AI/ML Military (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] How RAFT is approaching AI at the edge
+Breaking Defense | https://breakingdefense.com/2026/03/how-raft-is-approaching-ai-at-the-edge/
+RAFT's focus on AI at the edge directly addresses practical deployment challenges for military AI systems in contested environments. The edge computing approach has clear operational implications for distributed military operations and could inform teaching about AI implementation constraints in JADO scenarios.
+
+
+Current Conflicts (5 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] US sinking of Iranian navy ship stirs controversy in Australia, India
+Breaking Defense | https://breakingdefense.com/2026/03/us-sinking-of-iranian-navy-ship-stirs-controversy-in-australia-india/
+This incident provides concrete case study material for examining multi-domain escalation dynamics and coalition management challenges in a maritime context. The controversy among allies offers valuable teaching scenarios about strategic decision-making under pressure and alliance cohesion during kinetic operations.
+
+
+[7/10] Drone Dominance: Pentagon to order 30,000 one-way drones in ‘next few days’
+Breaking Defense | https://breakingdefense.com/2026/03/drone-dominance-pentagon-to-order-30000-one-way-drones-in-next-few-days/
+Large-scale one-way drone procurement signals significant doctrinal shift toward attritable systems based on Ukraine lessons. Offers concrete operational implications for force structure and tactical employment that field-grade officers need to understand.
+
+
+[7/10] Iran can still fire drones and missiles — experts weigh the implications on the war
+C4ISRNET | https://www.c4isrnet.com/global/mideast-africa/2026/03/06/iran-can-still-fire-drones-and-missiles-experts-weigh-the-implications-on-the-war/
+This article analyzes the economic warfare dimension of Iran's drone/missile strategy, highlighting the asymmetric cost-exchange dynamic where cheap Iranian weapons force expensive interceptions. The focus on financial and logistical implications provides operational-level insights beyond tactical coverage.
+
+
+[7/10] US and Mideast countries seek Kyiv’s drone expertise as Russia-Ukraine talks put on ice
+C4ISRNET | https://www.c4isrnet.com/industry/techwatch/2026/03/05/us-and-mideast-countries-seek-kyivs-drone-expertise-as-russia-ukraine-talks-put-on-ice/
+This article demonstrates practical counter-UAS innovation emerging from active conflict, showing how Ukraine's operational experience has produced exportable military capabilities. It offers concrete examples of how battlefield-tested drone technology is being adapted for international markets, providing valuable lessons about rapid military innovation cycles.
+
+
+[6/10] ‘New status quo’: Germany reaches for European conventional military dominance
+Breaking Defense | https://breakingdefense.com/2026/03/new-status-quo-germany-reaches-for-european-conventional-military-dominance/
+Germany's military modernization and pursuit of European conventional dominance offers insights into allied capability development and strategic rebalancing in response to ongoing conflicts. The article likely provides operational context for understanding European defense dynamics, though without access to the full content, the depth of operational insights versus policy discussion is unclear.
+
+
+JADC2 (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Multi-channel data link reshapes Navy’s communications capabilities
+Breaking Defense | https://breakingdefense.com/2026/03/multi-channel-data-link-reshapes-navys-communications-capabilities/
+This article addresses tactical-level JADC2 implementation with the Navy's Network Tactical Common Data Link system, showing real operational integration across air and naval assets within carrier strike groups. It provides concrete examples of cross-domain communications rather than high-level policy discussions, which offers practical insights for understanding JADC2 execution challenges.
+
+
+JADO (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] Air Force seeks additional vendors for radar-killing missile
+Breaking Defense | https://breakingdefense.com/2026/03/air-force-seeks-additional-vendors-for-radar-killing-missile/
+The article discusses SEAD/DEAD capabilities which are critical components of multi-domain operations, particularly air-domain enablement for joint operations. However, without full content access, this appears to be primarily an acquisition/industry news piece rather than operational doctrine or implementation insights.
+
+
+[6/10] Navy’s Kilby signals USS Ford could see 11-month deployment, approaching record length
+Breaking Defense | https://breakingdefense.com/2026/03/navys-kilby-signals-uss-ford-could-see-11-month-deployment-approaching-record-length/
+Extended carrier deployments have operational implications for JADO force projection and sustainability, but this appears to be primarily a force management/readiness story rather than offering deep operational insights. The Ford-class represents advanced naval capabilities relevant to multi-domain operations, but the article likely focuses on deployment length rather than operational integration challenges.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 7
+  JADO: 3
+  JADC2: 1
+  AI/ML Military: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
