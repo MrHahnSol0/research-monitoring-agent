@@ -1,0 +1,47 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-08 11:00
+Articles reviewed: 9 | High-value (≥6/10): 3
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] 3,000 strikes, 43 ships hit: US operations against Iran by the numbers
+   Breaking Defense | 2026-03-06 19:12
+   https://breakingdefense.com/2026/03/2000-strikes-30-ships-down-us-operations-against-iran-by-the-numbers/
+   Theme: Current Conflicts
+   
+   This provides concrete operational data from recent multi-domain strikes against Iran, offering quantifiable insights into modern maritime-air integrated operations. The scale and specificity of the numbers (3,000 strikes, 43 ships) suggests substantial lessons learned for joint operations planning and execution that would be valuable for teaching strategic planning.
+   → The operational metrics from this Iran campaign would provide excellent case study material for teaching joint all-domain operations coordination and the practical challenges of multi-platform targeting at scale.
+   Connects to: JADO, JADC2
+
+2. [SCORE: 7/10] US sinking of Iranian navy ship stirs controversy in Australia, India
+   Breaking Defense | 2026-03-06 16:25
+   https://breakingdefense.com/2026/03/us-sinking-of-iranian-navy-ship-stirs-controversy-in-australia-india/
+   Theme: Current Conflicts
+   
+   This article covers a significant naval incident involving US-Iranian tensions that likely demonstrates multi-domain escalation dynamics and alliance coordination challenges. The international controversy angle suggests important lessons about coalition warfare and strategic communication in contested maritime environments.
+   → This incident provides a real-world case study for teaching joint operations decision-making, alliance management, and the strategic implications of tactical actions across multiple domains.
+   Connects to: JADO, JADC2
+
+3. [SCORE: 6/10] ‘New status quo’: Germany reaches for European conventional military dominance
+   Breaking Defense | 2026-03-06 14:47
+   https://breakingdefense.com/2026/03/new-status-quo-germany-reaches-for-european-conventional-military-dominance/
+   Theme: Current Conflicts
+   
+   Germany's military buildup and pursuit of European conventional dominance provides important strategic context for understanding shifting alliance dynamics and burden-sharing in the wake of Ukraine conflict lessons. However, without access to the full article content, this appears to focus more on policy and procurement rather than operational innovations or tactical lessons.
+   → Understanding European allies' evolving military capabilities and strategic postures is relevant for teaching joint operations and alliance integration in a multi-domain context.
+   Connects to: JADO
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 3
+
+================================================================================
+END OF DIGEST
+================================================================================
