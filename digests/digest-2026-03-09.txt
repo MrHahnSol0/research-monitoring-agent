@@ -1,0 +1,83 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-09 11:57
+Articles reviewed: 8 | High-value (≥6/10): 7
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] AI and the New Blueprint of Terrorism
+   War on the Rocks | 2026-03-09 07:30
+   https://warontherocks.com/2026/03/ai-and-the-new-blueprint-of-terrorism/
+   Theme: AI/ML Military
+   
+   This article addresses the operational implications of AI democratizing advanced violence capabilities, which directly impacts threat assessment and defensive planning across all domains. The focus on how small groups can leverage AI for targeted violence provides practical insights for military planners rather than theoretical discussion.
+   → Excellent case study material for teaching how emerging technologies create asymmetric threats that require joint all-domain defensive responses and updated operational planning assumptions.
+   Connects to: JADO, Current Conflicts
+
+2. [SCORE: 8/10] Meet the startups trying to build military-specific AI
+   Defense One | 2026-03-08 12:00
+   https://www.defenseone.com/technology/2026/03/meet-startups-trying-build-military-specific-ai/411969/
+   Theme: AI/ML Military
+   
+   This article directly addresses the critical gap between frontier AI capabilities and actual military operational needs, which is central to practical AI implementation. The focus on military-specific startups suggests concrete examples of how AI is being tailored for real tactical and operational challenges rather than theoretical applications.
+   → Provides excellent case studies for teaching the difference between commercial AI hype and operationally-relevant military AI applications, directly supporting his curriculum development at MCU.
+   Connects to: JADO, JADC2
+
+3. [SCORE: 8/10] Networked for War: Lessons from Ukraine’s Ground Robots
+   Modern War Institute | 2026-03-09 08:17
+   https://mwi.westpoint.edu/networked-for-war-lessons-from-ukraines-ground-robots/
+   Theme: Current Conflicts
+   
+   This article provides concrete operational lessons from Ukraine's ground robotics implementation, offering practical insights beyond the typical aerial drone coverage. The focus on networked ground systems and real battlefield applications aligns with JJ's need for current conflict lessons with operational implications for field-grade officers.
+   → The ground robotics networking lessons provide excellent case studies for teaching multi-domain integration challenges and AI orchestration concepts in his JADO curriculum at MCU.
+   Connects to: JADO, AI/ML Military, JADC2
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (4 more)
+================================================================================
+
+
+AI/ML Military (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] AI-Ready Biodata Is America’s Next Strategic Infrastructure
+War on the Rocks | https://warontherocks.com/2026/03/ai-ready-biodata-is-americas-next-strategic-infrastructure/
+This article explores AI-ready biodata as strategic infrastructure, which represents a novel intersection of AI/ML capabilities with national security strategy. The concept of biodata as infrastructure likely offers operational insights beyond typical AI hype, particularly relevant for understanding emerging domains in multi-domain operations.
+
+
+Current Conflicts (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] As War With Iran Rages, the Axis of Resistance is in Survival Mode
+War on the Rocks | https://warontherocks.com/2026/03/as-war-with-iran-rages-the-axis-of-resistance-is-in-survival-mode/
+This article provides operational insights into how Iran's proxy network adapts and maintains resilience under sustained pressure, offering valuable case study material on networked warfare and organizational survival. The focus on leadership decapitation effects and network reconstitution has direct applications for understanding multi-domain operations against distributed adversaries.
+
+
+[7/10] MWI Podcast: The Iran Conflict’s Strategic Dimension
+Modern War Institute | https://mwi.westpoint.edu/mwi-podcast-the-iran-conflicts-strategic-dimension/
+This podcast examines strategic-level decision-making in a current major conflict involving multi-domain operations across Iran's nuclear, naval, and missile capabilities. The strategic dimension analysis provides valuable case study material for understanding how senior leaders calculate risks and coordinate operations across domains.
+
+
+JADO (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] Pentagon and FAA agree to conduct anti-drone laser tests in New Mexico
+C4ISRNET | https://www.c4isrnet.com/native/2026/03/08/pentagon-and-faa-agree-to-conduct-anti-drone-laser-tests-in-new-mexico/
+This represents a practical implementation challenge in multi-domain operations where counter-UAS systems must integrate with civilian airspace management. The FAA-DoD coordination highlights real operational constraints that field-grade officers face when deploying emerging technologies across domains.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  AI/ML Military: 3
+  Current Conflicts: 3
+  JADO: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
