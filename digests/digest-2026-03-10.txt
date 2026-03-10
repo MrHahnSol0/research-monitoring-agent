@@ -1,0 +1,103 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-10 11:55
+Articles reviewed: 16 | High-value (≥6/10): 11
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] Meet the startups trying to build military-specific AI
+   Defense One | 2026-03-08 12:00
+   https://www.defenseone.com/technology/2026/03/meet-startups-trying-build-military-specific-ai/411969/
+   Theme: AI/ML Military
+   
+   This article directly addresses the critical gap between theoretical AI capabilities and practical military needs, offering insights into specialized startups developing military-specific AI solutions. It provides operational context about what troops actually need versus what commercial AI offers, which is essential for understanding practical AI implementation in military settings.
+   → This fills a crucial knowledge gap for teaching AI orchestration by highlighting the disconnect between frontier models and operational requirements, providing real-world examples for PME curriculum development.
+   Connects to: JADO, JADC2
+
+2. [SCORE: 8/10] Sea Denial Deep Inside Russia: The Role of Special Operations Forces in Countering Warships on Inland Waters
+   Modern War Institute | 2026-03-10 06:48
+   https://mwi.westpoint.edu/sea-denial-deep-inside-russia-the-role-of-special-operations-forces-in-countering-warships-on-inland-waters/
+   Theme: JADO
+   
+   This article addresses multi-domain warfare by examining how naval assets operating in inland waterways create cross-domain targeting challenges that require joint solutions. It offers specific operational insights on countering distributed maritime threats using special operations forces, demonstrating practical JADO implementation concepts.
+   → Provides a concrete case study for teaching cross-domain targeting and the integration of SOF with maritime operations, illustrating how adversaries blur traditional domain boundaries in ways that demand joint solutions.
+   Connects to: Current Conflicts
+
+3. [SCORE: 8/10] Networked for War: Lessons from Ukraine’s Ground Robots
+   Modern War Institute | 2026-03-09 08:17
+   https://mwi.westpoint.edu/networked-for-war-lessons-from-ukraines-ground-robots/
+   Theme: Current Conflicts
+   
+   This article provides concrete operational lessons from Ukraine's use of ground robotics, offering practitioner insights into networked unmanned systems implementation. The focus on ground robots complements the widely covered aerial drone story, providing novel tactical and operational perspectives from an active conflict.
+   → The networked ground robotics lessons directly support JJ's JADO teaching by providing real-world case studies of multi-domain integration and autonomous system orchestration challenges.
+   Connects to: JADO, AI/ML Military, JADC2
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (8 more)
+================================================================================
+
+
+AI/ML Military (3 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] AI and the New Blueprint of Terrorism
+War on the Rocks | https://warontherocks.com/2026/03/ai-and-the-new-blueprint-of-terrorism/
+This article addresses a critical strategic challenge for military planners - how AI democratizes advanced capabilities for non-state actors, fundamentally changing threat assessments across all domains. It offers operational implications for understanding asymmetric threats and force protection in a multi-domain environment.
+
+
+[7/10] 2nd Cavalry tests ground robots for xTech contest, struggles with  ‘navigating’ UGV costs
+Breaking Defense | https://breakingdefense.com/2026/03/2nd-cavalry-tests-ground-robots-for-xtech-contest-struggles-with-navigating-ugv-costs/
+This article provides practical field testing insights on UGV implementation challenges, particularly cost-benefit analysis from an operational unit perspective. The 2nd Cavalry's hands-on experience with ground robots offers real practitioner insights beyond typical acquisition announcements, with direct relevance to multi-domain operations integration.
+
+
+[6/10] AI-Ready Biodata Is America’s Next Strategic Infrastructure
+War on the Rocks | https://warontherocks.com/2026/03/ai-ready-biodata-is-americas-next-strategic-infrastructure/
+Article addresses strategic AI infrastructure from a biodata/biotechnology angle, which is emerging but not yet operationally mature for field-grade officers. While it touches on AI military applications, the biodata focus is more strategic policy than immediate operational implementation.
+
+
+Current Conflicts (3 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] As War With Iran Rages, the Axis of Resistance is in Survival Mode
+War on the Rocks | https://warontherocks.com/2026/03/as-war-with-iran-rages-the-axis-of-resistance-is-in-survival-mode/
+This article provides operational insights into network resilience and adaptation patterns of proxy forces during multi-domain conflict, offering case study material for understanding how distributed command structures survive targeted elimination campaigns. The focus on leadership succession and organizational survival mechanisms has direct teaching applications for strategic planning courses.
+
+
+[7/10] MWI Podcast: The Iran Conflict’s Strategic Dimension
+Modern War Institute | https://mwi.westpoint.edu/mwi-podcast-the-iran-conflicts-strategic-dimension/
+This podcast analyzes strategic-level decision-making in a major regional conflict involving US forces, offering insights into multi-domain escalation dynamics and strategic planning processes. The strategic dimension focus provides operational-level lessons rather than just tactical updates, making it valuable for understanding how conflicts develop across domains.
+
+
+[6/10] On the flightline with Swedish fighter jets in Iceland, in Cold War 2.0
+Breaking Defense | https://breakingdefense.com/2026/03/on-the-flightline-with-swedish-fighter-jets-in-iceland-in-cold-war-2-0/
+This appears to be a field reporting piece on Swedish air operations in Iceland during heightened tensions, which could provide tactical insights into Nordic air policing and alliance cooperation. However, without access to the full content, it's unclear if this offers genuine operational lessons or is primarily descriptive coverage of routine deployments.
+
+
+JADO (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] Navy, Marine Corps amphibious readiness board launches as services put issue on ‘front burner’
+Breaking Defense | https://breakingdefense.com/2026/03/navy-marine-corps-amphibious-readiness-board-launches-as-services-put-issue-on-front-burner/
+The launch of a Navy-Marine Corps amphibious readiness board addresses critical domain integration challenges relevant to JADO implementation. However, without access to the full article content beyond the summary, this appears to be an organizational announcement rather than operational insights or lessons learned.
+
+
+[6/10] Pentagon and FAA agree to conduct anti-drone laser tests in New Mexico
+C4ISRNET | https://www.c4isrnet.com/native/2026/03/08/pentagon-and-faa-agree-to-conduct-anti-drone-laser-tests-in-new-mexico/
+This article addresses counter-UAS operations which are relevant to multi-domain warfare, but appears to focus on regulatory coordination rather than operational insights. The FAA-Pentagon cooperation on airspace management for directed energy weapons has JADO implications but lacks the tactical/operational depth that would make it highly valuable.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  AI/ML Military: 4
+  Current Conflicts: 4
+  JADO: 3
+
+================================================================================
+END OF DIGEST
+================================================================================
