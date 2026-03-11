@@ -1,0 +1,122 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-11 11:09
+Articles reviewed: 22 | High-value (≥6/10): 14
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] Lessons from Ukraine for Defending Gulf Airspace from Shaheds
+   War on the Rocks | 2026-03-11 08:00
+   https://warontherocks.com/2026/03/lessons-from-ukraine-for-defending-gulf-airspace-from-shaheds/
+   Theme: Current Conflicts
+   
+   This article provides operational lessons from Ukraine's drone defense experiences applied to Gulf theater scenarios, offering practical insights for multi-domain defensive operations. The focus on counter-drone systems and their operational limitations provides actionable intelligence for field-grade officers planning integrated air defense.
+   → Excellent case study for teaching JADO defensive integration challenges, particularly how single-domain solutions fail without cross-domain coordination in contested airspace.
+   Connects to: JADO, JADC2
+
+2. [SCORE: 8/10] Gaza and the Logic of High-Intensity Urban Warfare
+   War on the Rocks | 2026-03-11 07:15
+   https://warontherocks.com/2026/03/gaza-and-the-logic-of-high-intensity-urban-warfare/
+   Theme: Current Conflicts
+   
+   This article provides analytical framework for understanding high-intensity urban warfare through the Gaza conflict, offering operational insights beyond typical news coverage. The focus on analytical methodology and 'actual character' of warfare suggests practitioner-level analysis that challenges conventional assessments.
+   → The emphasis on applying appropriate analytical frameworks to assess conflict character directly supports JJ's teaching of strategic planning and JADO concepts at MCU.
+   Connects to: JADO, PME Innovation
+
+3. [SCORE: 8/10] The Menace of Misunderstanding: Learning the Wrong Lessons from Ukraine’s Drone-Saturated Battlefields
+   Modern War Institute | 2026-03-11 10:06
+   https://mwi.westpoint.edu/the-menace-of-misunderstanding-learning-the-wrong-lessons-from-ukraines-drone-saturated-battlefields/
+   Theme: Current Conflicts
+   
+   This article directly addresses the critical challenge of extracting correct operational lessons from Ukraine's drone warfare, warning against misinterpretation of tactical innovations. The focus on 'learning the wrong lessons' provides exactly the kind of analytical framework JJ needs for teaching strategic thinking about emerging technologies.
+   → This provides a perfect case study for PME on how to critically analyze emerging battlefield technologies and avoid the historical trap of misapplying tactical innovations to broader strategic contexts.
+   Connects to: JADO, AI/ML Military
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (11 more)
+================================================================================
+
+
+AI/ML Military (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] 2nd Cavalry tests ground robots for xTech contest, struggles with  ‘navigating’ UGV costs
+Breaking Defense | https://breakingdefense.com/2026/03/2nd-cavalry-tests-ground-robots-for-xtech-contest-struggles-with-navigating-ugv-costs/
+This article provides real-world field testing insights from an operational unit (2nd Cavalry) on UGV implementation, including practical challenges like cost and navigation issues that are crucial for field-grade officers to understand. The focus on actual testing results and operational constraints offers concrete lessons beyond theoretical AI/robotics discussions.
+
+
+Current Conflicts (4 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Arab States Scramble to Adapt to New Regional War
+War on the Rocks | https://warontherocks.com/2026/03/arab-states-scramble-to-adapt-to-new-regional-war/
+This article provides real-world operational insights into multi-domain conflict escalation and regional adaptation strategies during active hostilities. It offers concrete examples of how Arab states are responding to cross-domain Iranian retaliation, which has strong teaching applications for understanding modern conflict dynamics and alliance management.
+
+
+[7/10] The latest in Iran and an update in the Anthropic saga
+Breaking Defense | https://breakingdefense.com/2026/03/the-latest-in-iran-and-an-update-in-the-anthropic-saga/
+This article covers developments in Iran operations and AI policy developments with Anthropic, offering current conflict insights and AI military applications. The combination of operational updates from an active theater and AI technology developments relevant to military decision-making provides valuable contemporary case material.
+
+
+[7/10] A two-front war should be no problem for Israel, analysts say
+Breaking Defense | https://breakingdefense.com/2026/03/a-two-front-war-should-be-no-problem-for-israel-analysts-say/
+Multi-front warfare analysis provides relevant operational insights for understanding domain coordination and resource allocation challenges. The Israeli context offers concrete examples of how modern militaries manage simultaneous operations across different theaters, which has direct applications to JADO concepts.
+
+
+[7/10] MWI Podcast: The Weapons Defining the Iran Conflict
+Modern War Institute | https://mwi.westpoint.edu/mwi-podcast-the-weapons-defining-the-iran-conflict/
+This podcast discusses weapons systems and tactics from active U.S.-Israel operations against Iran, providing current operational insights that could inform JADO doctrine and strategic planning education. The focus on specific weapons and their effectiveness offers practical lessons for field-grade officers, though being a podcast limits detailed technical analysis.
+
+
+JADC2 (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] Special ops leader Rudd confirmed to helm CYBERCOM and NSA
+Breaking Defense | https://breakingdefense.com/2026/03/special-ops-leader-rudd-confirmed-to-helm-cybercom-and-nsa/
+Leadership transition at CYBERCOM/NSA is operationally significant given cyber's role in multi-domain operations, but this appears to be primarily a personnel announcement. The special operations background of the new leader could signal interesting doctrinal shifts in cyber-physical domain integration.
+
+
+JADO (5 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] Sea Denial Deep Inside Russia: The Role of Special Operations Forces in Countering Warships on Inland Waters
+Modern War Institute | https://mwi.westpoint.edu/sea-denial-deep-inside-russia-the-role-of-special-operations-forces-in-countering-warships-on-inland-waters/
+This article examines innovative multi-domain operations where SOF conducts maritime denial operations against naval assets operating from inland waterways, demonstrating practical JADO implementation. It provides operational insights into cross-domain targeting and unconventional approaches to sea denial that challenge traditional domain boundaries.
+
+
+[6/10] Robinson Helicopter launches unmanned division, envisions next-gen helo drones
+Breaking Defense | https://breakingdefense.com/2026/03/robinson-helicopter-launches-unmanned-division-envisions-next-gen-helo-drones/
+Robinson's entry into unmanned helicopters represents a potential shift in rotary-wing capabilities for multi-domain operations, particularly relevant given their widespread use in military training and light utility roles. However, this is primarily an industry announcement without operational details or implementation insights that would elevate its immediate relevance.
+
+
+[6/10] Powering up: Air Force eyes ‘broad reaching’ battery, energy storage research
+Breaking Defense | https://breakingdefense.com/2026/03/powering-up-air-force-eyes-broad-reaching-battery-energy-storage-research/
+Energy storage research has clear operational implications for multi-domain operations, particularly affecting unmanned systems endurance and forward base sustainment. However, this appears to be early-stage research announcement rather than implementable solutions or operational insights.
+
+
+[6/10] Navy, Marine Corps amphibious readiness board launches as services put issue on ‘front burner’
+Breaking Defense | https://breakingdefense.com/2026/03/navy-marine-corps-amphibious-readiness-board-launches-as-services-put-issue-on-front-burner/
+This article addresses amphibious readiness, which is foundational to Marine Corps operations and relevant to multi-domain warfare concepts. However, it appears to be primarily about organizational structure and policy rather than operational insights or tactical innovations that would provide deep teaching value.
+
+
+[6/10] On the flightline with Swedish fighter jets in Iceland, in Cold War 2.0
+Breaking Defense | https://breakingdefense.com/2026/03/on-the-flightline-with-swedish-fighter-jets-in-iceland-in-cold-war-2-0/
+This article provides real-world operational insights into NATO air policing and coalition integration in contested Arctic airspace. While valuable for understanding multi-domain operations in practice, it appears to be primarily observational reporting rather than deep operational analysis.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 7
+  JADO: 5
+  AI/ML Military: 1
+  JADC2: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
