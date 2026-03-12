@@ -1,0 +1,162 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-12 11:09
+Articles reviewed: 26 | High-value (≥6/10): 22
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] How China Views the Cognitive Element of a War for Taiwan
+   War on the Rocks | 2026-03-11 17:30
+   https://warontherocks.com/2026/03/how-china-views-the-cognitive-element-of-a-war-for-taiwan/
+   Theme: AI/ML Military
+   
+   This article provides operational insights into China's integration of AI and cognitive warfare specifically for Taiwan scenarios, offering concrete enemy perspective analysis that field-grade officers need for strategic planning. The focus on evolved AI capabilities since 2022 and specific cognitive domain applications gives practical intelligence rather than theoretical discussion.
+   → Essential for teaching JADO at MCU as it provides enemy doctrine perspective on cognitive domain integration and AI orchestration in multi-domain operations, with direct applicability to Taiwan scenario planning exercises.
+   Connects to: JADO, Current Conflicts
+
+2. [SCORE: 8/10] Lessons from Ukraine for Defending Gulf Airspace from Shaheds
+   War on the Rocks | 2026-03-11 08:00
+   https://warontherocks.com/2026/03/lessons-from-ukraine-for-defending-gulf-airspace-from-shaheds/
+   Theme: Current Conflicts
+   
+   This article provides operational lessons from Ukraine's counter-drone experience applied to a current Gulf conflict scenario, offering practical insights for multi-domain defensive operations. The focus on 'most threats intercepted but mission failure' highlights critical operational planning considerations for field-grade officers.
+   → Perfect case study for teaching joint all-domain operations integration challenges, particularly how air defense connects to broader operational objectives and cross-domain vulnerabilities.
+   Connects to: JADO, JADC2
+
+3. [SCORE: 8/10] Gaza and the Logic of High-Intensity Urban Warfare
+   War on the Rocks | 2026-03-11 07:15
+   https://warontherocks.com/2026/03/gaza-and-the-logic-of-high-intensity-urban-warfare/
+   Theme: Current Conflicts
+   
+   This article provides analytical framework for understanding high-intensity urban warfare characteristics, offering operational insights from Gaza that can inform doctrine and training. The focus on applying appropriate analytical frameworks to assess conflict character aligns with strategic thinking education needs.
+   → The analytical framework approach to conflict assessment provides excellent case study material for teaching strategic planning and multi-domain urban warfare considerations at MCU.
+   Connects to: JADO, PME Innovation
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (19 more)
+================================================================================
+
+
+AI/ML Military (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] Shared Understanding at Machine Speed: Preserving Coherence in AI-Enabled Joint Operations
+Modern War Institute | https://mwi.westpoint.edu/shared-understanding-at-machine-speed-preserving-coherence-in-ai-enabled-joint-operations/
+This article directly addresses a critical operational challenge in AI-enabled military operations - maintaining shared understanding and coherence when AI accelerates decision-making beyond human cognitive speeds. The focus on preserving command coherence while leveraging AI speed offers practical insights for field-grade officers implementing AI in joint operations.
+
+
+Current Conflicts (10 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] A Worst-Case Scenario for the War with Iran
+War on the Rocks | https://warontherocks.com/2026/03/a-worst-case-scenario-for-the-war-with-iran/
+This article analyzes operational and strategic implications of a major regional conflict, providing scenario-based analysis that would be highly valuable for teaching strategic planning and understanding multi-domain warfare dynamics in a critical theater. The focus on 'what comes next' questions aligns with the type of strategic thinking JJ needs to develop in his students.
+
+
+[8/10] Ukrainian advisors to teach German army how to win a modern war by 2029
+C4ISRNET | https://www.c4isrnet.com/global/europe/2026/03/12/ukrainian-advisors-to-teach-german-army-how-to-win-a-modern-war-by-2029/
+This represents a significant paradigm shift where battle-tested Ukrainian forces are training Western militaries, offering concrete lessons from modern multi-domain warfare. The role reversal provides rich case study material for understanding how real combat experience translates to institutional military education and doctrine development.
+
+
+[8/10] Ukraine’s top drone units to bring frontline lessons to Washington this month
+C4ISRNET | https://www.c4isrnet.com/industry/techwatch/2026/03/11/ukraines-top-drone-units-to-bring-frontline-lessons-to-washington-this-month/
+Direct access to frontline drone commanders offers genuine operational insights from ongoing conflict, providing primary source material on tactical innovations and real-world implementation challenges. This represents practitioner knowledge rather than theoretical frameworks, with immediate teaching applications for JADO coursework.
+
+
+[8/10] These are Ukraine’s $1,000 interceptor drones the Pentagon wants to buy
+C4ISRNET | https://www.c4isrnet.com/news/pentagon-congress/2026/03/11/these-are-ukraines-1000-interceptor-drones-the-pentagon-wants-to-buy/
+This article demonstrates practical, cost-effective solutions emerging from real combat experience that directly challenges expensive traditional air defense approaches. It provides operational insights about asymmetric warfare innovations that have clear implications for U.S. military planning and resource allocation.
+
+
+[8/10] The Menace of Misunderstanding: Learning the Wrong Lessons from Ukraine’s Drone-Saturated Battlefields
+Modern War Institute | https://mwi.westpoint.edu/the-menace-of-misunderstanding-learning-the-wrong-lessons-from-ukraines-drone-saturated-battlefields/
+This article directly addresses a critical challenge for military educators: distinguishing genuine tactical innovations from misinterpreted lessons in Ukraine's drone warfare. The focus on 'learning the wrong lessons' suggests it provides analytical framework for evaluating emerging technologies rather than breathless commentary.
+
+
+[7/10] The Blank Check: How an Unconditional Alliance Took America to War in Iran
+War on the Rocks | https://warontherocks.com/2026/03/the-blank-check-how-an-unconditional-alliance-took-america-to-war-in-iran/
+This article provides strategic-level analysis of alliance dynamics and escalation patterns in a major conflict, offering valuable case study material for understanding how strategic decisions cascade into operational commitments. The focus on decision-making processes and alliance obligations provides practical insights for field-grade officers studying strategic planning and multi-domain warfare.
+
+
+[7/10] Arab States Scramble to Adapt to New Regional War
+War on the Rocks | https://warontherocks.com/2026/03/arab-states-scramble-to-adapt-to-new-regional-war/
+This article provides real-time operational insights into multi-domain warfare dynamics as Arab states adapt defensive and diplomatic strategies to Iranian retaliation across multiple domains. The regional conflict demonstrates practical JADO challenges including air defense integration, cross-border coordination, and civilian-military infrastructure protection in a live conflict scenario.
+
+
+[7/10] The latest in Iran and an update in the Anthropic saga
+Breaking Defense | https://breakingdefense.com/2026/03/the-latest-in-iran-and-an-update-in-the-anthropic-saga/
+This article combines current operational developments in Iran with AI technology developments (Anthropic), potentially offering insights into both kinetic operations and AI implementation challenges. The dual focus on active conflict and AI systems could provide valuable cross-domain teaching material for JADO instruction.
+
+
+[7/10] A two-front war should be no problem for Israel, analysts say
+Breaking Defense | https://breakingdefense.com/2026/03/a-two-front-war-should-be-no-problem-for-israel-analysts-say/
+Multi-front warfare analysis provides operational insights relevant to JADO concepts and strategic planning education. The assessment of Israel's capabilities across multiple domains offers practical case study material for understanding operational challenges in simultaneous conflicts.
+
+
+[7/10] MWI Podcast: The Weapons Defining the Iran Conflict
+Modern War Institute | https://mwi.westpoint.edu/mwi-podcast-the-weapons-defining-the-iran-conflict/
+This podcast analyzes weapons systems and their operational effectiveness in a current major conflict, providing real-world case studies of multi-domain warfare capabilities. The focus on specific weapons and their tactical/operational implications offers concrete examples for teaching JADO concepts.
+
+
+JADC2 (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] Special ops leader Rudd confirmed to helm CYBERCOM and NSA
+Breaking Defense | https://breakingdefense.com/2026/03/special-ops-leader-rudd-confirmed-to-helm-cybercom-and-nsa/
+Leadership appointment at CYBERCOM/NSA is significant for understanding command structures in cyber domain operations, but without operational insights or policy details, it's primarily organizational news. The special operations background could indicate interesting cross-domain perspectives for JADC2 implementation.
+
+
+JADO (7 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] Air denial is not air control, and the Air Force should not pretend it is
+Breaking Defense | https://breakingdefense.com/2026/03/air-denial-is-not-air-control-and-the-air-force-should-not-pretend-it-is/
+This article addresses a fundamental doctrinal distinction that's critical for JADO implementation - the difference between air denial and air control has major operational implications for how joint forces plan and execute multi-domain operations. The piece likely challenges conventional Air Force thinking about air superiority in contested environments, which is essential knowledge for field-grade officers planning joint operations.
+
+
+[7/10] Magazine Breadth — Not Just Depth — Is Key to Munitions Industrial Base Resilience
+War on the Rocks | https://warontherocks.com/2026/03/magazine-breadth-not-just-depth-is-key-to-munitions-industrial-base-resilience/
+This article addresses a critical operational constraint in joint all-domain operations - munitions availability and industrial base capacity - using current conflict data from Middle East operations. It likely provides practical insights into how munitions diversity affects sustained multi-domain operations, which is essential for understanding JADO implementation challenges.
+
+
+[7/10] Testing Denial: The Philippine Alliance in America’s First Island Chain Strategy
+War on the Rocks | https://warontherocks.com/2026/03/testing-denial-the-philippine-alliance-in-americas-first-island-chain-strategy/
+This article addresses critical operational challenges in multi-domain warfare within the first island chain, specifically examining how alliance capabilities (like runway repair under fire) translate to denial strategy effectiveness. The focus on infrastructure resilience and alliance integration in contested environments provides concrete operational insights for field-grade officers planning joint operations.
+
+
+[6/10] Anduril to buy space/missile tracking firm ExoAnalytic
+Breaking Defense | https://breakingdefense.com/2026/03/anduril-to-buy-space-missile-tracking-firm-exoanalytic/
+This acquisition connects space-based tracking capabilities with AI-driven defense systems, relevant to multi-domain operations integration. However, it's primarily a business transaction announcement rather than operational analysis or lessons learned.
+
+
+[6/10] Australia to get 40 more Bluebottle unmanned surface vessels
+Breaking Defense | https://breakingdefense.com/2026/03/australia-to-get-40-more-bluebottle-unmanned-surface-vessels/
+Australia's acquisition of 40 Bluebottle USVs represents a practical implementation of unmanned systems in maritime domain operations, offering insights into allied force structure decisions for multi-domain operations. However, without access to operational details, employment concepts, or integration challenges, this appears to be primarily a procurement announcement with limited tactical or strategic depth.
+
+
+[6/10] Robinson Helicopter launches unmanned division, envisions next-gen helo drones
+Breaking Defense | https://breakingdefense.com/2026/03/robinson-helicopter-launches-unmanned-division-envisions-next-gen-helo-drones/
+Robinson's entry into unmanned helicopters represents a significant development in rotary-wing drone capabilities that could impact multi-domain operations, particularly in contested environments where manned helicopters face increased risk. However, this appears to be an industry announcement rather than operational analysis or lessons learned.
+
+
+[6/10] Powering up: Air Force eyes ‘broad reaching’ battery, energy storage research
+Breaking Defense | https://breakingdefense.com/2026/03/powering-up-air-force-eyes-broad-reaching-battery-energy-storage-research/
+Energy storage and battery technology has direct operational implications for multi-domain operations, particularly for distributed operations, unmanned systems, and forward-deployed forces. However, without access to the full article content, this appears to be early-stage research rather than near-term operational capabilities.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 12
+  JADO: 7
+  AI/ML Military: 2
+  JADC2: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
