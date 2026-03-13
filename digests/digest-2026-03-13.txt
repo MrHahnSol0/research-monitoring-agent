@@ -1,0 +1,158 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-13 11:07
+Articles reviewed: 28 | High-value (≥6/10): 21
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] Military Senior Service Colleges Require Reform, But There Sure Are Some Bad Ideas Out There
+   War on the Rocks | 2026-03-13 07:15
+   https://warontherocks.com/2026/03/military-senior-service-colleges-require-reform-but-there-sure-are-some-bad-ideas-out-there/
+   Theme: PME Innovation
+   
+   This article directly addresses military education reform at the senior service college level, which is highly relevant to JJ's role as Military Faculty Advisor at MCU. The focus on critical thinking development and challenging assumptions aligns with his interest in what makes officers better strategic thinkers.
+   → As JJ transitions to MCU to teach JADO and strategic planning, this critique of senior service college approaches will provide valuable context for curriculum development and teaching methodologies that foster the critical thinking essential for multi-domain operations.
+   Connects to: JADO
+
+2. [SCORE: 8/10] Magazine Breadth — Not Just Depth — Is Key to Munitions Industrial Base Resilience
+   War on the Rocks | 2026-03-12 08:00
+   https://warontherocks.com/2026/03/magazine-breadth-not-just-depth-is-key-to-munitions-industrial-base-resilience/
+   Theme: JADO
+   
+   This article addresses critical operational implications of munitions industrial base limitations on multi-domain operations, providing practical insights into how supply chain constraints affect strategic planning. The focus on breadth versus depth of munitions stocks offers valuable operational considerations for field-grade officers planning joint operations.
+   → Provides excellent case study material for teaching strategic planning constraints and resource allocation challenges in joint all-domain operations at MCU.
+   Connects to: Current Conflicts, JADC2
+
+3. [SCORE: 8/10] How China Views the Cognitive Element of a War for Taiwan
+   War on the Rocks | 2026-03-11 17:30
+   https://warontherocks.com/2026/03/how-china-views-the-cognitive-element-of-a-war-for-taiwan/
+   Theme: AI/ML Military
+   
+   This article provides updated analysis of China's cognitive warfare capabilities and AI integration from a practitioner researcher, offering concrete insights into adversary capabilities that directly inform JADO planning and operations. The cognitive domain is increasingly critical for field-grade officers to understand as it intersects with all physical domains.
+   → Essential reading for teaching JADO as it provides specific adversary cognitive warfare doctrine that students need to understand when planning multi-domain operations against peer competitors.
+   Connects to: JADO, Current Conflicts, JADC2
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (18 more)
+================================================================================
+
+
+AI/ML Military (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] Shared Understanding at Machine Speed: Preserving Coherence in AI-Enabled Joint Operations
+Modern War Institute | https://mwi.westpoint.edu/shared-understanding-at-machine-speed-preserving-coherence-in-ai-enabled-joint-operations/
+This article directly addresses the critical challenge of maintaining command coherence when AI systems operate at machine speed, combining historical operational lessons with practical AI integration challenges. The focus on shared understanding and coherence preservation offers actionable insights for field-grade officers implementing AI-enabled operations.
+
+
+[7/10] DIU, Navy tap Anduril to prototype Dive-XL autonomous submarine
+Breaking Defense | https://breakingdefense.com/2026/03/diu-navy-tap-anduril-to-prototype-dive-xl-autonomous-submarine/
+This covers practical AI/ML implementation in autonomous systems with clear operational implications for undersea warfare. The DIU partnership suggests serious development beyond prototype stage, and autonomous submarines represent a significant capability shift for naval operations.
+
+
+Current Conflicts (6 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] Ukrainian advisors to teach German army how to win a modern war by 2029
+C4ISRNET | https://www.c4isrnet.com/global/europe/2026/03/12/ukrainian-advisors-to-teach-german-army-how-to-win-a-modern-war-by-2029/
+This represents a significant role reversal with Ukraine now training Western forces, indicating substantial tactical/operational innovations from the conflict that warrant study. The multi-year timeline suggests systematic doctrine development rather than just tactical tips, making this highly relevant for understanding how modern warfare lessons are being institutionalized.
+
+
+[8/10] Ukraine’s top drone units to bring frontline lessons to Washington this month
+C4ISRNET | https://www.c4isrnet.com/industry/techwatch/2026/03/11/ukraines-top-drone-units-to-bring-frontline-lessons-to-washington-this-month/
+Direct access to frontline drone unit commanders offers rare primary source operational insights from active combat. These practitioners will likely share tactical innovations and lessons learned that can't be found in secondary reporting, making this highly valuable for understanding modern warfare evolution.
+
+
+[8/10] These are Ukraine’s $1,000 interceptor drones the Pentagon wants to buy
+C4ISRNET | https://www.c4isrnet.com/news/pentagon-congress/2026/03/11/these-are-ukraines-1000-interceptor-drones-the-pentagon-wants-to-buy/
+This article provides concrete operational insights about cost-effective counter-UAS solutions proven in combat, addressing a critical capability gap that traditional missile-based systems cannot economically fill. It offers real-world data on Ukrainian innovations that directly challenge conventional U.S. air defense approaches and spending priorities.
+
+
+[7/10] A Blank Check for Israel and the War with Iran
+War on the Rocks | https://warontherocks.com/2026/03/the-blank-check-for-israel-and-the-war-with-iran/
+This article provides strategic-level analysis of escalation dynamics and decision-making in a major regional conflict involving key U.S. allies. The focus on how involvement became 'unavoidable' offers valuable case study material for understanding alliance commitments and strategic decision-making under pressure.
+
+
+[7/10] Leonardo to launch Michelangelo air defense dome test in Ukraine
+Breaking Defense | https://breakingdefense.com/2026/03/leonardo-to-launch-michelangelo-air-defense-dome-test-in-ukraine/
+This article provides concrete operational insights from an active conflict zone about integrated air defense systems, which directly informs JADO implementation. The real-world testing of multi-layered defense systems in Ukraine offers practical lessons for field-grade officers on air domain integration challenges.
+
+
+[6/10] Iran supplemental to fund mix of ‘new things’ and legacy systems: Pentagon comptroller
+Breaking Defense | https://breakingdefense.com/2026/03/iran-supplemental-to-fund-mix-of-new-things-and-legacy-systems-pentagon-comptroller/
+This article provides insights into DOD funding priorities during active conflict operations, showing the balance between legacy systems replenishment and new capability investments. While useful for understanding resource allocation during multi-domain operations, it appears to be primarily budgetary news without deep operational insights.
+
+
+JADC2 (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] New Army Data Operation Center will be ‘9-1-1’ for moving info around the globe
+Breaking Defense | https://breakingdefense.com/2026/03/new-army-data-operation-center-will-be-9-1-1-for-moving-info-around-the-globe/
+This article describes a concrete implementation of command and control infrastructure for global data movement, which directly relates to JADC2 operational challenges. The '9-1-1' analogy suggests a practical approach to data orchestration that field-grade officers would need to understand and potentially utilize in joint operations.
+
+
+JADO (9 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] Air denial is not air control, and the Air Force should not pretend it is
+Breaking Defense | https://breakingdefense.com/2026/03/air-denial-is-not-air-control-and-the-air-force-should-not-pretend-it-is/
+This article directly addresses a critical conceptual distinction in air domain operations that has major implications for Joint All-Domain Operations planning and execution. The distinction between air denial and air control is fundamental to understanding domain effects and multi-domain integration, particularly relevant for field-grade officers planning JADO operations.
+
+
+[8/10] The Chokepoint We Missed: Sulfur, Hormuz, and the Threats to Military Readiness
+Modern War Institute | https://mwi.westpoint.edu/the-chokepoint-we-missed-sulfur-hormuz-and-the-threats-to-military-readiness/
+This article addresses critical supply chain vulnerabilities (sulfur) that span multiple domains and operational planning considerations, offering concrete lessons from an active conflict scenario. It connects strategic chokepoint analysis with tactical military readiness implications, providing the kind of cross-domain operational insights valuable for field-grade officers.
+
+
+[7/10] Testing Denial: The Philippine Alliance in America’s First Island Chain Strategy
+War on the Rocks | https://warontherocks.com/2026/03/testing-denial-the-philippine-alliance-in-americas-first-island-chain-strategy/
+This article directly addresses multi-domain operational challenges in the Indo-Pacific, focusing on alliance integration and infrastructure resilience under contested conditions. The emphasis on practical runway repair capabilities and frontline ally coordination offers concrete operational insights beyond typical policy discussions.
+
+
+[7/10] The Pentagon wants to buy 30,000 new drones. Here are the key questions.
+Breaking Defense | https://breakingdefense.com/2026/03/the-pentagon-wants-to-buy-30000-new-drones-heres-the-key-questions/
+A Pentagon procurement of 30,000 drones represents a significant shift in force structure with major implications for multi-domain operations and integration challenges. The scale suggests institutional commitment to distributed operations concepts that are central to JADO implementation, though the article's value depends on whether it addresses operational integration rather than just acquisition details.
+
+
+[7/10] US Navy partners with Anduril to develop XL underwater vessel
+C4ISRNET | https://www.c4isrnet.com/news/your-military/2026/03/12/us-navy-partners-with-anduril-to-develop-xl-underwater-vessel/
+XL-AUV development represents significant maritime domain capability advancement with clear operational implications for multi-domain operations. The successful completion of the longest-ever demonstration suggests this moves beyond experimental to potential operational capability, relevant for understanding evolving undersea warfare dynamics.
+
+
+[6/10] Southeast Asia’s Nuclear Blind Spot: Latent Pathways and Explicit Pressures
+War on the Rocks | https://warontherocks.com/2026/03/southeast-asias-nuclear-blind-spot-latent-pathways-and-explicit-pressures/
+This article addresses regional nuclear dynamics that could significantly impact joint all-domain planning and operations in the Pacific theater. While it focuses on strategic policy implications rather than operational tactics, it provides important context for understanding the evolving threat environment that JADO concepts must address.
+
+
+[6/10] Europe can lead its conventional defense ‘by 2035’, EUCOM commander says
+Breaking Defense | https://breakingdefense.com/2026/03/europe-can-lead-its-conventional-defense-by-2035-eucom-commander-says/
+A EUCOM commander's operational assessment of European conventional defense capabilities by 2035 provides strategic-level insights relevant to joint operations planning. However, without access to the full article content, this appears to be primarily a policy/strategic announcement rather than detailed operational doctrine or implementation guidance that would score higher.
+
+
+[6/10] Anduril to buy space/missile tracking firm ExoAnalytic
+Breaking Defense | https://breakingdefense.com/2026/03/anduril-to-buy-space-missile-tracking-firm-exoanalytic/
+This acquisition signals important industry consolidation in multi-domain sensing capabilities, combining Anduril's AI-driven defense platform with ExoAnalytic's space-based tracking expertise. While primarily a business development story, it reflects the practical integration challenges and commercial solutions emerging in joint all-domain operations, particularly for space domain awareness.
+
+
+[6/10] Australia to get 40 more Bluebottle unmanned surface vessels
+Breaking Defense | https://breakingdefense.com/2026/03/australia-to-get-40-more-bluebottle-unmanned-surface-vessels/
+This article covers Australia's procurement of 40 additional Bluebottle unmanned surface vessels, which represents a concrete example of maritime domain capabilities within multi-domain operations. While it provides real-world implementation data useful for teaching JADO concepts, it appears to be primarily a procurement announcement rather than offering deep operational insights or tactical innovations.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  JADO: 10
+  Current Conflicts: 6
+  AI/ML Military: 3
+  PME Innovation: 1
+  JADC2: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
