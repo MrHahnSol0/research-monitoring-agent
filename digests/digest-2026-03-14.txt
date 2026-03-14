@@ -1,0 +1,115 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-14 10:56
+Articles reviewed: 21 | High-value (≥6/10): 13
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] Military Senior Service Colleges Require Reform, But There Sure Are Some Bad Ideas Out There
+   War on the Rocks | 2026-03-13 07:15
+   https://warontherocks.com/2026/03/military-senior-service-colleges-require-reform-but-there-sure-are-some-bad-ideas-out-there/
+   Theme: PME Innovation
+   
+   This article directly addresses military education reform at the senior service college level, which is highly relevant to JJ's transition to MCU as Military Faculty Advisor. The focus on critical thinking development and challenging assumptions aligns with his teaching responsibilities for strategic planning and JADO concepts.
+   → As JJ transitions to teaching JADO and strategic planning at MCU, this critique of senior service college reform will provide valuable context for understanding broader PME challenges and opportunities for innovation in military education.
+   Connects to: JADO
+
+2. [SCORE: 8/10] The Class of 1982 Modern War Journal, Issue 2: Innovation and Autonomy in Future War
+   Modern War Institute | 2026-03-13 23:37
+   https://mwi.westpoint.edu/the-class-of-1982-modern-war-journal-issue-2-innovation-and-autonomy-in-future-war/
+   Theme: AI/ML Military
+   
+   This is a peer-reviewed military journal issue focused on innovation and autonomy in future warfare, directly addressing AI/ML military applications with likely practitioner insights from West Point faculty and researchers. The academic journal format suggests rigorous analysis rather than surface-level coverage, making it valuable for both operational understanding and teaching applications.
+   → As an academic military journal from West Point, this provides credible source material for teaching JADO concepts while offering research-backed insights on autonomy integration that JJ can incorporate into strategic planning curriculum.
+   Connects to: JADO, PME Innovation, Current Conflicts
+
+3. [SCORE: 8/10] The Chokepoint We Missed: Sulfur, Hormuz, and the Threats to Military Readiness
+   Modern War Institute | 2026-03-13 07:49
+   https://mwi.westpoint.edu/the-chokepoint-we-missed-sulfur-hormuz-and-the-threats-to-military-readiness/
+   Theme: Current Conflicts
+   
+   This article addresses critical supply chain vulnerabilities revealed by current Middle East operations, focusing on an overlooked strategic material (sulfur) that impacts military readiness. It provides operational-level insights into how maritime chokepoint disruption creates cascading effects beyond traditional fuel/shipping concerns.
+   → Excellent case study for teaching strategic planning and cross-domain thinking, demonstrating how seemingly mundane industrial inputs become critical vulnerabilities in multi-domain operations.
+   Connects to: JADO
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (10 more)
+================================================================================
+
+
+Current Conflicts (5 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] How US military space operators are likely aiding the fight in Iran
+Breaking Defense | https://breakingdefense.com/2026/03/how-us-military-space-operators-are-likely-aiding-the-fight-in-iran/
+This article provides concrete operational insights into how space domain capabilities are being integrated into current kinetic operations, offering real-world examples of multi-domain integration rather than theoretical frameworks. The focus on military space operators' roles in active conflict provides practical case study material for understanding cross-domain effects.
+
+
+[7/10] UAE fights off outsized share of Iranian attacks, pulls back on sharing interception rates
+Breaking Defense | https://breakingdefense.com/2026/03/uae-fights-off-outsized-share-of-iranian-attacks-pulls-back-on-sharing-interception-rates/
+This article provides concrete operational data on Iranian multi-domain attack patterns against UAE, including air defense effectiveness and strategic implications of information sharing decisions. The UAE's pullback on sharing interception rates reveals important lessons about information operations and strategic communications in modern conflict.
+
+
+[7/10] Leonardo to launch Michelangelo air defense dome test in Ukraine
+Breaking Defense | https://breakingdefense.com/2026/03/leonardo-to-launch-michelangelo-air-defense-dome-test-in-ukraine/
+Real-world testing of integrated air defense systems in active conflict provides valuable operational lessons for multi-domain defense concepts. The practical implementation of layered defense architecture offers concrete insights beyond theoretical frameworks.
+
+
+[7/10] After Ukraine, FPV drones could take on Arctic warfare
+C4ISRNET | https://www.c4isrnet.com/industry/techwatch/2026/03/13/after-ukraine-fpv-drones-could-take-on-arctic-warfare/
+This article explores tactical innovation transfer from Ukraine to a new operational environment (Arctic), offering practical insights into drone adaptation across different terrains and conditions. It connects combat lessons learned with multi-domain implications for cold weather operations, which is operationally relevant for field-grade officers planning future conflicts.
+
+
+[6/10] Iran supplemental to fund mix of ‘new things’ and legacy systems: Pentagon comptroller
+Breaking Defense | https://breakingdefense.com/2026/03/iran-supplemental-to-fund-mix-of-new-things-and-legacy-systems-pentagon-comptroller/
+This article provides insight into DoD funding priorities and resource allocation for Iran-related operations, mixing legacy systems with emerging capabilities. While it offers some operational context about force structure decisions, it appears to be primarily budget/policy focused rather than tactical innovation or lessons learned.
+
+
+JADC2 (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] New Army Data Operation Center will be ‘9-1-1’ for moving info around the globe
+Breaking Defense | https://breakingdefense.com/2026/03/new-army-data-operation-center-will-be-9-1-1-for-moving-info-around-the-globe/
+This article describes a practical implementation of data operations infrastructure that directly supports JADC2 capabilities. The '9-1-1 for data' concept provides a concrete example of how information flow challenges are being addressed operationally, which is valuable for understanding real-world JADC2 implementation beyond policy announcements.
+
+
+[6/10] Following congressional rebuke, Air Force awards E-7 contracts
+Breaking Defense | https://breakingdefense.com/2026/03/following-congressional-rebuke-air-force-awards-e-7-contracts/
+The E-7 Wedgetail is a critical airborne early warning and control platform that serves as a key node in JADC2 architecture, providing multi-domain situational awareness and command/control capabilities. While the article likely focuses on acquisition/contracting details rather than operational implications, the E-7's role in enabling joint operations makes it moderately relevant.
+
+
+JADO (3 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] UK Navy buys 20 USVs to act as unmanned ‘proving ground’
+Breaking Defense | https://breakingdefense.com/2026/03/uk-navy-buys-20-usvs-to-act-as-unmanned-proving-ground/
+The UK's procurement of 20 USVs as an 'unmanned proving ground' represents a practical approach to developing multi-domain capabilities that directly relates to JADO implementation. This reflects the iterative, experimentation-based approach needed for integrating unmanned systems across domains, offering concrete insights into how allied nations are building operational capacity.
+
+
+[6/10] Europe can lead its conventional defense ‘by 2035’, EUCOM commander says
+Breaking Defense | https://breakingdefense.com/2026/03/europe-can-lead-its-conventional-defense-by-2035-eucom-commander-says/
+A EUCOM commander's assessment of European defense capabilities by 2035 likely contains strategic insights about alliance burden-sharing and multi-domain operational planning. However, without the full article content, this appears to be more strategic policy discussion than operational implementation details that would directly benefit field-grade officers.
+
+
+[6/10] US Navy partners with Anduril to develop XL underwater vessel
+C4ISRNET | https://www.c4isrnet.com/news/your-military/2026/03/12/us-navy-partners-with-anduril-to-develop-xl-underwater-vessel/
+XL-AUV development represents significant capability advancement in the maritime domain with potential JADO implications, but the article appears to focus on acquisition news rather than operational concepts or integration challenges. The longest-ever demonstration suggests meaningful technical progress, but without details on multi-domain integration or operational employment, it remains primarily a platform development story.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 6
+  JADO: 3
+  JADC2: 2
+  PME Innovation: 1
+  AI/ML Military: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
