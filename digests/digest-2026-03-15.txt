@@ -1,0 +1,83 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-15 10:58
+Articles reviewed: 10 | High-value (≥6/10): 7
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 7/10] How US military space operators are likely aiding the fight in Iran
+   Breaking Defense | 2026-03-13 19:41
+   https://breakingdefense.com/2026/03/how-us-military-space-operators-are-likely-aiding-the-fight-in-iran/
+   Theme: Current Conflicts
+   
+   This article provides operational insights into how space domain capabilities are being integrated into current military operations in Iran, offering practical examples of multi-domain warfare in action. It demonstrates real-world application of space-based assets in support of ground operations, which is valuable for understanding JADO implementation.
+   → This provides concrete case study material for teaching how space domain operations integrate with other domains in current conflicts, directly supporting JADO curriculum development at MCU.
+   Connects to: JADO, JADC2
+
+2. [SCORE: 7/10] UAE fights off outsized share of Iranian attacks, pulls back on sharing interception rates
+   Breaking Defense | 2026-03-13 16:10
+   https://breakingdefense.com/2026/03/uae-fights-off-outsized-share-of-iranian-attacks-pulls-back-on-sharing-interception-rates/
+   Theme: Current Conflicts
+   
+   This article provides operational insights into air defense effectiveness and information warfare tactics in an active conflict zone, with the UAE's decision to limit transparency on interception rates revealing important lessons about operational security versus deterrence messaging. The defensive operations against Iranian attacks offer concrete data points for understanding multi-domain defensive strategies.
+   → The UAE case study demonstrates how air defense operations intersect with information operations and strategic messaging, providing a real-world example for teaching integrated defense planning in JADO coursework.
+   Connects to: JADO, JADC2
+
+3. [SCORE: 7/10] After Epic Fury, a munitions supplemental becomes imperative
+   Breaking Defense | 2026-03-13 14:01
+   https://breakingdefense.com/2026/03/after-epic-fury-a-munitions-supplemental-becomes-imperative/
+   Theme: Current Conflicts
+   
+   This article provides operational lessons from a recent conflict exercise/operation that directly impacts munitions planning and logistics considerations for JADO operations. The focus on munitions expenditure rates and resupply challenges offers practical insights for field-grade officers planning multi-domain operations.
+   → The munitions consumption data and logistics lessons from Epic Fury provide concrete case study material for teaching sustainable operations planning in JADO scenarios at MCU.
+   Connects to: JADO, JADC2
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (4 more)
+================================================================================
+
+
+Current Conflicts (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Inside the IDF’s newest military division securing the Jordan Valley
+Breaking Defense | https://breakingdefense.com/2026/03/inside-the-idfs-newest-military-division-securing-the-jordan-valley/
+This provides operational insights into IDF's organizational adaptation and tactical innovations in a specific operational environment, offering concrete examples of how military forces restructure to address evolving threats. The Jordan Valley context likely includes multi-domain security challenges that could inform teaching about operational adaptation and force employment.
+
+
+[7/10] After Ukraine, FPV drones could take on Arctic warfare
+C4ISRNET | https://www.c4isrnet.com/industry/techwatch/2026/03/13/after-ukraine-fpv-drones-could-take-on-arctic-warfare/
+This article connects tactical innovations from Ukraine to new operational environments, offering practical insights on drone adaptation across different warfare domains. It provides concrete lessons from current conflicts that have direct implications for future multi-domain operations planning.
+
+
+JADC2 (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] Following congressional rebuke, Air Force awards E-7 contracts
+Breaking Defense | https://breakingdefense.com/2026/03/following-congressional-rebuke-air-force-awards-e-7-contracts/
+The E-7 Wedgetail AWACS procurement represents a significant capability for joint all-domain command and control, providing airborne battle management and sensor integration across domains. However, this appears to be primarily a contracting/acquisition news story rather than deep operational analysis of how E-7 capabilities enable JADC2 concepts.
+
+
+JADO (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] UK Navy buys 20 USVs to act as unmanned ‘proving ground’
+Breaking Defense | https://breakingdefense.com/2026/03/uk-navy-buys-20-usvs-to-act-as-unmanned-proving-ground/
+The UK's acquisition of 20 USVs as an 'unmanned proving ground' represents practical implementation of unmanned systems in naval operations, which is relevant to multi-domain integration concepts. However, without access to the full article details about operational concepts, integration challenges, or lessons learned, this appears to be primarily an acquisition announcement rather than deep operational insights.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 5
+  JADO: 1
+  JADC2: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
