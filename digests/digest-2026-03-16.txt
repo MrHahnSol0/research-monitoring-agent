@@ -1,0 +1,62 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-16 11:28
+Articles reviewed: 5 | High-value (≥6/10): 4
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] Don’t Count Launches: Misreading Iran’s Drone Capacity
+   War on the Rocks | 2026-03-16 07:30
+   https://warontherocks.com/2026/03/dont-count-launches-misreading-irans-drone-capacity/
+   Theme: Current Conflicts
+   
+   This article addresses critical intelligence assessment failures in evaluating adversary capabilities, using historical precedent (Gulf War BDA errors) to illuminate current misunderstandings of Iran's drone warfare capacity. It offers practical lessons on avoiding cognitive biases in threat assessment that are directly applicable to modern multi-domain operations.
+   → Provides excellent case study material for teaching strategic planning students about intelligence assessment pitfalls and the importance of understanding adversary capabilities across domains, particularly relevant given Iran's recent drone operations.
+   Connects to: JADO, AI/ML Military
+
+2. [SCORE: 7/10] The Danger of Vibe Patriotism in Defense Tech
+   War on the Rocks | 2026-03-16 08:00
+   https://warontherocks.com/2026/03/the-danger-of-vibe-patriotism-in-defense-tech/
+   Theme: AI/ML Military
+   
+   This article addresses critical cultural and institutional issues in defense technology procurement and startup culture that directly impact how AI/ML military capabilities are developed and fielded. It provides practitioner insights into the gap between marketing rhetoric and actual military utility, which is essential for officers evaluating and implementing new technologies.
+   → This offers valuable teaching material for helping officers critically evaluate defense tech vendors and understand the institutional dynamics that affect technology integration in military operations.
+   Connects to: PME Innovation, JADC2
+
+3. [SCORE: 7/10] The Navy’s Latest Is Not a Plan, Not a Strategy, and Not Fighting Instructions
+   War on the Rocks | 2026-03-16 07:15
+   https://warontherocks.com/2026/03/the-navys-latest-is-not-a-plan-not-a-strategy-and-not-fighting-instructions/
+   Theme: JADO
+   
+   This appears to be a critical analysis of Navy doctrine development, likely examining gaps between stated multi-domain concepts and actual operational guidance. The critique of 'Fighting Instructions' suggests examination of how services translate JADO concepts into actionable doctrine for practitioners.
+   → Provides a case study in doctrinal critique that JJ could use to teach students how to evaluate whether institutional guidance translates JADO theory into practical operational frameworks.
+   Connects to: PME Innovation
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (1 more)
+================================================================================
+
+
+JADO (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] Retreat at the Bottom of the World: US Polar Policy’s Arctic Surge and Antarctic Drawdown
+Modern War Institute | https://mwi.westpoint.edu/retreat-at-the-bottom-of-the-world-us-polar-policys-arctic-surge-and-antarctic-drawdown/
+This article addresses polar domain competition and resource allocation decisions that impact multi-domain operations in extreme environments. While not directly about JADO doctrine, it explores strategic trade-offs between Arctic and Antarctic presence that could inform discussions about domain prioritization and resource constraints in joint operations.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  JADO: 2
+  Current Conflicts: 1
+  AI/ML Military: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
