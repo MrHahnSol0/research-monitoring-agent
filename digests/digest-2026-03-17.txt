@@ -1,0 +1,108 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-17 11:25
+Articles reviewed: 17 | High-value (≥6/10): 12
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] Don’t Count Launches: Misreading Iran’s Drone Capacity
+   War on the Rocks | 2026-03-16 07:30
+   https://warontherocks.com/2026/03/dont-count-launches-misreading-irans-drone-capacity/
+   Theme: Current Conflicts
+   
+   This article addresses critical assessment methodologies for understanding adversary capabilities, using Iran's drone capacity as a case study while drawing lessons from Gulf War intelligence failures. It offers practical insights for field-grade officers on avoiding metrics-based assessment pitfalls that could mislead operational planning.
+   → The article's focus on intelligence assessment methodologies and cross-domain threat evaluation provides excellent teaching material for strategic planning courses, especially regarding how to properly assess multi-domain adversary capabilities.
+   Connects to: JADO, AI/ML Military
+
+2. [SCORE: 8/10] You Can’t Stockpile AI: Military Advantage in the Age of Algorithmic Diffusion
+   Modern War Institute | 2026-03-17 06:51
+   https://mwi.westpoint.edu/you-cant-stockpile-ai-military-advantage-in-the-age-of-algorithmic-diffusion/
+   Theme: AI/ML Military
+   
+   This article addresses a critical strategic concept about AI's non-stockpilable nature and algorithmic diffusion, which has direct implications for military planning and resource allocation. The focus on US advantages and competitive dynamics provides operational insights beyond typical AI hype, making it valuable for understanding how AI reshapes military advantage.
+   → The concept of algorithmic diffusion and non-stockpilable AI advantage provides a compelling framework for teaching strategic planning considerations in joint operations and AI orchestration to field-grade officers.
+   Connects to: JADO, JADC2
+
+3. [SCORE: 7/10] Open War at the Durand Line: Can Pakistan’s Escalation Compel a Taliban Recalculation?
+   War on the Rocks | 2026-03-17 07:15
+   https://warontherocks.com/2026/03/open-war-at-the-durand-line-can-pakistans-escalation-compel-a-taliban-recalculation/
+   Theme: Current Conflicts
+   
+   This article examines a significant escalation in regional conflict with potential implications for multi-domain operations and strategic planning lessons. The Pakistan-Taliban conflict offers case study material for understanding escalation dynamics and cross-border operations that could inform JADO teaching applications.
+   → The escalation dynamics and cross-border targeting decisions provide excellent case study material for teaching strategic planning and multi-domain considerations in his JADO coursework.
+   Connects to: JADO, PME Innovation
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (9 more)
+================================================================================
+
+
+AI/ML Military (3 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] The Danger of Vibe Patriotism in Defense Tech
+War on the Rocks | https://warontherocks.com/2026/03/the-danger-of-vibe-patriotism-in-defense-tech/
+This article directly addresses critical issues in defense technology acquisition and the culture around defense innovation, which is highly relevant to understanding AI/ML implementation challenges. It likely provides practical insights into the gap between defense tech hype and operational reality, which is valuable for teaching strategic thinking about technology adoption.
+
+
+[7/10] Baykar unveils K2 Kamikaze drone with AI, swarming capabilities
+Breaking Defense | https://breakingdefense.com/2026/03/baykar-unveils-k2-kamikaze-drone-with-swarming-capabilities/
+This article presents concrete technical capabilities (AI-enabled swarming kamikaze drones) from a major defense manufacturer with proven battlefield experience, offering operational insights into emerging autonomous weapons systems. The K2 represents a significant evolution in loitering munition capabilities that field-grade officers need to understand for both employment and defense planning.
+
+
+[6/10] Navy taps Gecko Robotics for ship-scaling robots to identify repairs in Pacific Fleet
+Breaking Defense | https://breakingdefense.com/2026/03/navy-taps-gecko-robotics-for-ship-scaling-robots-to-identify-repairs-in-pacific-fleet/
+This article demonstrates practical AI/ML implementation in military logistics and maintenance operations, showing how robotics can address real operational challenges like ship readiness in the Pacific Fleet. While operationally relevant, it's primarily a procurement announcement rather than deep analysis of implementation challenges or lessons learned.
+
+
+Current Conflicts (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Israel’s defense industry accelerates production amid multi-front war
+Breaking Defense | https://breakingdefense.com/2026/03/israels-defense-industry-accelerates-production-as-israel-fights-multi-front-war/
+This article provides valuable insights into defense industrial base adaptation during active multi-front warfare, which offers practical lessons for understanding logistical and production constraints in JADO operations. The real-world case study of Israel's defense industry scaling under pressure provides concrete examples of how industrial capacity affects operational planning across domains.
+
+
+[6/10] How Does the Iran War Affect China’s Energy Security?
+War on the Rocks | https://warontherocks.com/2026/03/how-does-the-iran-war-affect-chinas-energy-security/
+The article addresses strategic implications of a major regional conflict involving key global powers, which provides valuable geopolitical context for understanding multi-domain operations. However, it appears focused on economic analysis rather than tactical innovations or operational lessons that would directly inform military planning.
+
+
+JADO (4 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] The Navy’s Latest Is Not a Plan, Not a Strategy, and Not Fighting Instructions
+War on the Rocks | https://warontherocks.com/2026/03/the-navys-latest-is-not-a-plan-not-a-strategy-and-not-fighting-instructions/
+This article provides critical analysis of naval doctrine development and strategic planning processes, which directly relates to JADO implementation challenges. The critique of how the Navy approaches fighting instructions offers valuable insights into institutional barriers to multi-domain integration that field-grade officers face.
+
+
+[7/10] Lockheed completes first flight test for PrSM Inc 2 aimed at hitting moving maritime targets
+Breaking Defense | https://breakingdefense.com/2026/03/lockheed-completes-first-flight-test-for-prsm-inc-2-aimed-at-hitting-moving-maritime-targets/
+PrSM Inc 2's capability to hit moving maritime targets represents a concrete cross-domain fires solution that directly supports JADO concepts by enabling land-based systems to engage naval targets. This operational capability demonstrates practical multi-domain integration that field-grade officers need to understand for planning and execution.
+
+
+[7/10] Turkey’s Baykar tests swarm behavior of its K2 one-way attack drone
+C4ISRNET | https://www.c4isrnet.com/global/europe/2026/03/16/turkeys-baykar-tests-swarm-behavior-of-its-k2-one-way-attack-drone/
+Drone swarm behavior represents a significant tactical innovation with direct implications for multi-domain operations, particularly air-ground integration. The focus on low-cost, large-scale fielding addresses key operational questions about mass vs. sophistication in future warfare.
+
+
+[6/10] Retreat at the Bottom of the World: US Polar Policy’s Arctic Surge and Antarctic Drawdown
+Modern War Institute | https://mwi.westpoint.edu/retreat-at-the-bottom-of-the-world-us-polar-policys-arctic-surge-and-antarctic-drawdown/
+This article addresses strategic domain considerations in polar regions, which connects to JADO's multi-domain approach and geographic battlespace expansion. However, it appears more focused on policy analysis than operational implications for field-grade officers.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 4
+  AI/ML Military: 4
+  JADO: 4
+
+================================================================================
+END OF DIGEST
+================================================================================
