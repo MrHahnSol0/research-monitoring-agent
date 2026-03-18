@@ -1,0 +1,137 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-18 11:27
+Articles reviewed: 27 | High-value (≥6/10): 17
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] Military Operational Thinking in an Age of Artificial Intelligence
+   War on the Rocks | 2026-03-18 08:00
+   https://warontherocks.com/2026/03/military-operational-thinking-in-an-age-of-artificial-intelligence/
+   Theme: AI/ML Military
+   
+   This article directly addresses the critical gap between AI capabilities and operational planning effectiveness, focusing on practitioner concerns about integration and coherence - exactly the type of operational insight JJ values. The emphasis on persistent challenges despite improved tools suggests substantive analysis of real implementation issues rather than AI hype.
+   → This provides essential teaching material for JJ's JADO courses by examining why AI-enhanced planning still fails at integration and coherence - core challenges he'll need to address when teaching strategic planning to field-grade officers.
+   Connects to: JADO, PME Innovation
+
+2. [SCORE: 8/10] You Can’t Stockpile AI: Military Advantage in the Age of Algorithmic Diffusion
+   Modern War Institute | 2026-03-17 06:51
+   https://mwi.westpoint.edu/you-cant-stockpile-ai-military-advantage-in-the-age-of-algorithmic-diffusion/
+   Theme: AI/ML Military
+   
+   This article directly addresses a critical strategic question about AI's military applications - the sustainability of technological advantage in an era of rapid algorithmic diffusion. The focus on 'stockpiling' versus continuous innovation offers operational insights relevant to force planning and capability development that field-grade officers need to understand.
+   → The algorithmic diffusion concept provides a compelling framework for teaching students about the temporal nature of technological advantages in joint operations and the operational imperative for continuous AI/ML capability evolution.
+   Connects to: JADO, JADC2
+
+3. [SCORE: 7/10] Drinking from the Bitter Chalice in the Middle East, Again
+   War on the Rocks | 2026-03-18 07:00
+   https://warontherocks.com/2026/03/drinking-from-the-bitter-chalice-in-the-middle-east-again/
+   Theme: Current Conflicts
+   
+   This article provides historical strategic context for understanding Iranian decision-making and conflict termination, which is highly relevant given ongoing Middle East tensions. The focus on strategic exhaustion, economic warfare impacts, and leadership decision-making under pressure offers valuable case study material for strategic planning education.
+   → The Iran-Iraq War case study offers excellent material for teaching strategic planning and conflict termination theory, particularly how nations calculate costs and make difficult strategic decisions under extreme pressure.
+   Connects to: PME Innovation
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (14 more)
+================================================================================
+
+
+AI/ML Military (3 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Baykar unveils K2 Kamikaze drone with AI, swarming capabilities
+Breaking Defense | https://breakingdefense.com/2026/03/baykar-unveils-k2-kamikaze-drone-with-swarming-capabilities/
+This article showcases practical AI implementation in autonomous weapons systems with swarming capabilities, representing real technological advancement rather than theoretical concepts. The operational implications of AI-enabled kamikaze drones with swarming behavior are directly relevant to understanding how AI/ML is reshaping battlefield dynamics and multi-domain operations.
+
+
+[6/10] Navy taps Gecko Robotics for ship-scaling robots to identify repairs in Pacific Fleet
+Breaking Defense | https://breakingdefense.com/2026/03/navy-taps-gecko-robotics-for-ship-scaling-robots-to-identify-repairs-in-pacific-fleet/
+This represents a practical AI/ML application for naval maintenance operations with potential JADO implications for distributed fleet readiness. However, it appears to be primarily a procurement announcement rather than offering deep operational insights or lessons learned from implementation.
+
+
+[6/10] US Navy taps Gecko Robotics to help remedy maintenance headaches
+C4ISRNET | https://www.c4isrnet.com/industry/techwatch/2026/03/17/us-navy-taps-gecko-robotics-to-help-remedy-maintenance-headaches/
+This article covers practical AI/robotics implementation in naval maintenance operations, showing real-world deployment across 18 Pacific Fleet ships. While operationally relevant, it appears to focus on a specific vendor solution rather than broader strategic implications or cross-domain applications.
+
+
+Current Conflicts (6 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] How Does the Iran War Affect China’s Energy Security?
+War on the Rocks | https://warontherocks.com/2026/03/how-does-the-iran-war-affect-chinas-energy-security/
+This article provides strategic-level analysis of how major power competition intersects with regional conflicts, offering insights into economic vulnerabilities and strategic calculations that field-grade officers need to understand. The focus on China's actual energy security position versus common assumptions provides valuable analytical framework for understanding great power dynamics in conflict scenarios.
+
+
+[7/10] Open War at the Durand Line: Can Pakistan’s Escalation Compel a Taliban Recalculation?
+War on the Rocks | https://warontherocks.com/2026/03/open-war-at-the-durand-line-can-pakistans-escalation-compel-a-taliban-recalculation/
+This article provides tactical and operational insights from an active conflict that demonstrates escalation dynamics and threshold-crossing decisions relevant to strategic planning education. The Pakistan-Taliban conflict offers real-world case study material on how state actors calibrate responses against non-state actors transitioning to governing entities.
+
+
+[7/10] In tiny Estonia, drones lead booming defense expansion
+Breaking Defense | https://breakingdefense.com/2026/03/in-tiny-estonia-drones-lead-booming-defense-expansion/
+Estonia's drone-centric defense expansion offers concrete insights into how small nations are implementing multi-domain operations against peer threats. The article likely details practical integration of unmanned systems across domains, providing real-world case studies of JADO implementation by a nation facing direct Russian threat.
+
+
+[7/10] Iran conflict shines a light on UK’s ‘stretched’ naval capabilities: Analysts
+Breaking Defense | https://breakingdefense.com/2026/03/iran-conflict-shines-a-light-on-uks-stretched-naval-capabilities-analysts/
+This article provides operational insights into how current Middle East conflicts are exposing naval capability gaps and force structure limitations, which offers practical lessons for multi-domain operations planning. The focus on 'stretched' capabilities and analyst assessments provides real-world case study material rather than generic conflict coverage.
+
+
+[6/10] Army awards Anduril counter-drone task order as first in new $20B ‘contract vehicle’
+Breaking Defense | https://breakingdefense.com/2026/03/army-awards-anduril-counter-drone-task-order-as-first-in-new-20b-contract-vehicle/
+This covers counter-drone capabilities being rapidly fielded based on Ukraine lessons, but appears to be primarily an acquisition announcement rather than operational analysis. The contract vehicle approach and industry partnership model may offer insights for JADO implementation challenges.
+
+
+[6/10] Israel’s defense industry accelerates production amid multi-front war
+Breaking Defense | https://breakingdefense.com/2026/03/israels-defense-industry-accelerates-production-as-israel-fights-multi-front-war/
+This article addresses defense industrial capacity challenges during multi-domain warfare, which has operational implications for sustained operations. However, without the full article content, it appears to focus more on production metrics than tactical innovations or lessons learned from the multi-front conflict itself.
+
+
+JADC2 (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] UK defense official: Boeing has been ‘troubled partner’ in much delayed E-7 program
+Breaking Defense | https://breakingdefense.com/2026/03/uk-defense-official-boeing-has-been-troubled-partner-in-much-delayed-e-7-program/
+The E-7 Wedgetail is a critical airborne early warning and control platform that serves as a key node in joint command and control networks, making Boeing's delivery troubles operationally significant. However, this appears to be primarily a defense acquisition news story rather than offering deep insights into C2 integration challenges or solutions.
+
+
+JADO (4 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] New Space Force acquisition portfolios include space control, orbital warfare
+Breaking Defense | https://breakingdefense.com/2026/03/new-space-force-acquisition-portfolios-include-space-control-orbital-warfare/
+Space Force's new acquisition portfolios for space control and orbital warfare represent concrete operational developments in the space domain that directly impact Joint All-Domain Operations planning and execution. This moves beyond policy announcements to actual capability development that field-grade officers need to understand for multi-domain integration.
+
+
+[7/10] On the flightline with Swedish fighter jets on a NATO mission
+Breaking Defense | https://breakingdefense.com/2026/03/on-the-flightline-with-swedish-fighter-jets-on-a-nato-mission/
+This article provides practical insights into NATO integration challenges and multi-domain operations through Sweden's recent membership experience. The flightline perspective likely offers operational-level details about interoperability, command structures, and tactical integration that are valuable for understanding JADO implementation in real allied operations.
+
+
+[7/10] Lockheed completes first flight test for PrSM Inc 2 aimed at hitting moving maritime targets
+Breaking Defense | https://breakingdefense.com/2026/03/lockheed-completes-first-flight-test-for-prsm-inc-2-aimed-at-hitting-moving-maritime-targets/
+PrSM Inc 2's anti-ship capability represents significant cross-domain integration, enabling land-based fires to engage maritime targets - a core JADO concept. This capability development has direct operational implications for multi-domain planning and demonstrates practical implementation of cross-domain targeting chains.
+
+
+[7/10] Who Owns the Drones? Why Modernization of Army Small Unmanned Aircraft Systems Should Be a Maneuver Responsibility
+Modern War Institute | https://mwi.westpoint.edu/who-owns-the-drones-why-modernization-of-army-small-unmanned-aircraft-systems-should-be-a-maneuver-responsibility/
+This article addresses a critical organizational challenge in multi-domain operations: how military services structure ownership and control of emerging capabilities that blur traditional domain boundaries. The debate over sUAS ownership between aviation and maneuver communities reflects broader JADO integration challenges that field-grade officers will face operationally.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 7
+  AI/ML Military: 5
+  JADO: 4
+  JADC2: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
