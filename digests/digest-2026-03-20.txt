@@ -1,0 +1,134 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-20 11:07
+Articles reviewed: 31 | High-value (≥6/10): 18
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] Countering Drones and the Pace of Modern War
+   War on the Rocks | 2026-03-19 08:00
+   https://warontherocks.com/2026/03/countering-drones-and-the-pace-of-modern-war/
+   Theme: Current Conflicts
+   
+   Features practitioner insights from three industry leaders developing counter-drone solutions, offering operational perspectives on how modern warfare pace affects American military preparation and tactics. The focus on enemies' adaptations and America's response provides concrete lessons from ongoing conflicts rather than theoretical discussion.
+   → Provides real-world case studies of multi-domain integration challenges and industry solutions that directly support teaching Joint All-Domain Operations concepts at MCU.
+   Connects to: JADO, AI/ML Military, JADC2
+
+2. [SCORE: 8/10] The Industrial Window of War: How to Measure Russia’s Munitions Throughput—and How to Disrupt It
+   Modern War Institute | 2026-03-20 07:29
+   https://mwi.westpoint.edu/the-industrial-window-of-war-how-to-measure-russias-munitions-throughput-and-how-to-disrupt-it/
+   Theme: Current Conflicts
+   
+   This article provides operational-level analysis of industrial capacity as a domain of warfare, offering a framework for measuring and disrupting enemy production capabilities. It connects industrial capacity to battlefield outcomes with practical implications for strategic planning and multi-domain operations.
+   → The industrial capacity analysis framework provides excellent teaching material for strategic planning courses, demonstrating how economic/industrial domains integrate with traditional military operations in JADO concepts.
+   Connects to: JADO, PME Innovation
+
+3. [SCORE: 8/10] Urban Warfare Project Podcast: Drones and Urban Warfare in Ukraine
+   Modern War Institute | 2026-03-20 07:00
+   https://mwi.westpoint.edu/urban-warfare-project-podcast-drones-and-urban-warfare-in-ukraine/
+   Theme: Current Conflicts
+   
+   Primary source insights from researcher with nine Ukraine trips offers genuine operational lessons on drone employment in urban environments. Combines tactical innovations with cross-domain implications for JADO concepts.
+   → Direct practitioner insights on urban drone warfare provide excellent case study material for teaching multi-domain integration challenges in contested environments.
+   Connects to: JADO, AI/ML Military
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (15 more)
+================================================================================
+
+
+Current Conflicts (7 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] Drone Warfare and the Future of Korean Armor
+Modern War Institute | https://mwi.westpoint.edu/drone-warfare-and-the-future-of-korean-armor/
+This article provides concrete operational lessons from the Ukraine conflict applied to a specific theater (Korea), demonstrating how drone warfare is fundamentally changing mechanized operations. The NATO exercise context offers real-world validation of tactical innovations that field-grade officers need to understand for future planning.
+
+
+[7/10] Islamic State Containment Is Collapsing in Syria
+War on the Rocks | https://warontherocks.com/2026/03/islamic-state-containment-is-collapsing-in-syria/
+This article provides operational insights into rapid territorial shifts and multi-actor conflict dynamics in Syria, offering real-world case study material on coalition fragmentation and containment strategy failure. The specific focus on how political changes (sanctions repeal) cascade into military consequences demonstrates complex cause-and-effect relationships valuable for strategic planning education.
+
+
+[7/10] Gulf nations ‘trying to reach out’ for Ukrainian counter-drone capability
+Breaking Defense | https://breakingdefense.com/2026/03/gulf-nations-trying-to-reach-out-for-ukrainian-counter-drone-capability/
+This article demonstrates real-world technology transfer from combat-proven Ukrainian counter-drone systems to Gulf nations, showing how tactical innovations from current conflicts are being operationalized by other militaries. It provides concrete examples of how battlefield lessons are being adapted and scaled internationally.
+
+
+[7/10] The Pentagon wants to field laser weapons at scale within 3 years
+C4ISRNET | https://www.c4isrnet.com/industry/techwatch/2026/03/18/the-pentagon-wants-to-field-laser-weapons-at-scale-within-3-years/
+This article addresses a tactical response to current Iranian drone threats, providing insights into how operational urgency is driving weapons system fielding timelines. The focus on scaling laser weapons addresses a real operational gap exposed by recent conflicts, making it valuable for understanding current defense priorities and their operational implications.
+
+
+[7/10] Israel to mount lasers on fighter jets and helicopters
+C4ISRNET | https://www.c4isrnet.com/global/mideast-africa/2026/03/18/israel-to-mount-lasers-on-fighter-jets-and-helicopters/
+Airborne laser systems represent a significant tactical innovation emerging from ongoing Middle East conflicts, offering operational insights into close-air-support evolution and multi-domain defensive capabilities. This development has direct implications for how air assets integrate with ground operations and counter emerging drone/missile threats.
+
+
+[6/10] Indirect Fire in the Global War on Terror and Today
+War on the Rocks | https://warontherocks.com/2026/03/indirect-fire-in-the-global-war-on-terror-and-today/
+This podcast episode offers practitioner insights on indirect fire evolution from GWOT to current conflicts, providing personal experiences that could inform teaching. However, as a podcast summary rather than detailed analysis, it likely lacks the depth of operational insights and cross-domain synthesis JJ typically values.
+
+
+[6/10] The Inevitability of Chinese Military Purges
+War on the Rocks | https://warontherocks.com/2026/03/the-inevitability-of-chinese-military-purges/
+While not about kinetic conflict, this analysis of PLA institutional instability provides strategic context for understanding Chinese military capabilities and decision-making under pressure. The purges reveal potential vulnerabilities in command structure and civil-military relations that could affect Chinese multi-domain operations.
+
+
+JADO (8 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] EXCLUSIVE: US poised to accept new F-35s without radars, sources say
+Breaking Defense | https://breakingdefense.com/2026/03/exclusive-us-poised-to-accept-new-f-35s-without-radars-sources-say/
+This reveals critical operational implications for multi-domain warfare when key platforms lack essential sensors, forcing adaptation in tactical employment and cross-domain integration. The article exposes real-world acquisition challenges that directly impact how JADO concepts must be implemented with degraded capabilities.
+
+
+[7/10] Army’s new, flexible approach to EW could lead to programmatic changes: Official
+Breaking Defense | https://breakingdefense.com/2026/03/armys-new-flexible-approach-to-ew-could-lead-to-programmatic-changes-official/
+The Army's flexible approach to electronic warfare represents a significant shift in multi-domain operations thinking, moving away from rigid, stovepiped EW capabilities toward adaptive, cross-domain integration. This programmatic change signals how services are restructuring to enable true all-domain operations, offering concrete examples of implementation challenges JJ teaches about.
+
+
+[7/10] Apache helicopter shoots down drones in Europe for first time in combat exercise
+C4ISRNET | https://www.c4isrnet.com/news/your-military/2026/03/19/apache-helicopter-shoots-down-drones-in-europe-for-first-time-in-combat-exercise/
+This represents a concrete operational development in multi-domain warfare where traditional air assets are adapting to counter emerging threats. The Apache-drone engagement demonstrates practical cross-domain integration and tactical evolution that field-grade officers need to understand for JADO implementation.
+
+
+[6/10] Capacity gap for 9 specialized components gnarls space supply chain: Study
+Breaking Defense | https://breakingdefense.com/2026/03/capacity-gap-for-9-specialized-components-gnarls-space-supply-chain-study/
+Space supply chain vulnerabilities directly impact joint all-domain operations capabilities and resilience. The identification of specific component bottlenecks provides concrete operational planning considerations for space domain integration.
+
+
+[6/10] In new timeline, Army set to take full control of THAAD missile program by 2027
+Breaking Defense | https://breakingdefense.com/2026/03/in-new-timeline-army-set-to-take-full-control-of-thaad-missile-program-by-2027/
+The Army taking control of THAAD represents a significant shift in multi-domain operations architecture, particularly for integrated air and missile defense across domains. However, this appears to be primarily an organizational transition announcement rather than offering deep operational insights or new doctrinal implications.
+
+
+[6/10] It’s a flight-proven hypersonic missile powered for the first time by a storable liquid engine
+Breaking Defense | https://breakingdefense.com/2026/03/its-a-flight-proven-hypersonic-missile-powered-for-the-first-time-by-a-storable-liquid-engine/
+This hypersonic missile development represents a significant technological advancement in the fires domain that could impact multi-domain operations planning and integration. However, as a Breaking Defense article, it's likely more technical announcement than operational analysis, limiting its immediate teaching utility.
+
+
+[6/10] High-speed combat drone production starts at new US Anduril plant in days
+C4ISRNET | https://www.c4isrnet.com/unmanned/2026/03/19/high-speed-combat-drone-production-starts-at-new-us-anduril-plant-in-days/
+This covers production of loyal wingman drones which are key enablers for multi-domain operations, but appears to be primarily a manufacturing/industry announcement rather than operational insights. The timing and scale implications for JADO implementation could be relevant but would depend on article depth.
+
+
+[6/10] Lockheed tests upgraded Precision Strike Missile designed to strike ships
+C4ISRNET | https://www.c4isrnet.com/news/your-military/2026/03/18/lockheed-tests-upgraded-precision-strike-missile-designed-to-strike-ships/
+This represents a concrete example of multi-domain capability development (land-based fires targeting maritime domain) which aligns with JADO concepts. However, it appears to be primarily a brief technology development update without deeper operational analysis or tactical implications that would make it highly valuable for teaching strategic planning.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 10
+  JADO: 8
+
+================================================================================
+END OF DIGEST
+================================================================================
