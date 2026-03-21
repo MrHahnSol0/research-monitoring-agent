@@ -1,0 +1,123 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-21 10:56
+Articles reviewed: 28 | High-value (≥6/10): 14
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] Marine lance corporal develops $10 solution to $5,600 antenna problem
+   C4ISRNET | 2026-03-20 13:32
+   https://www.c4isrnet.com/news/your-military/2026/03/20/marine-lance-corporal-develops-10-solution-to-5600-antenna-problem/
+   Theme: PME Innovation
+   
+   This showcases bottom-up innovation and problem-solving that directly challenges traditional acquisition processes, providing a compelling case study for teaching strategic thinking and resource optimization. The dramatic cost differential ($10 vs $5,600) and practical impact ($600K savings) make this an excellent teaching tool for discussing innovation culture and empowering junior personnel.
+   → Perfect case study for teaching how junior Marines can drive operational innovation and cost-effectiveness, demonstrating principles JJ can use to encourage creative problem-solving in strategic planning coursework.
+   Connects to: JADO, JADC2
+
+2. [SCORE: 8/10] The Industrial Window of War: How to Measure Russia’s Munitions Throughput—and How to Disrupt It
+   Modern War Institute | 2026-03-20 07:29
+   https://mwi.westpoint.edu/the-industrial-window-of-war-how-to-measure-russias-munitions-throughput-and-how-to-disrupt-it/
+   Theme: Current Conflicts
+   
+   This article provides analytical framework for understanding industrial capacity as a key operational factor in sustained conflict, offering practical methodology for assessing adversary endurance beyond traditional metrics. The focus on measuring and disrupting production capacity connects industrial base analysis to operational planning in ways directly applicable to strategic education.
+   → The industrial window concept provides an excellent case study for teaching strategic planning students how to analyze multi-domain factors (industrial, economic, logistical) that determine operational feasibility in prolonged conflicts.
+   Connects to: JADO, PME Innovation
+
+3. [SCORE: 8/10] Urban Warfare Project Podcast: Drones and Urban Warfare in Ukraine
+   Modern War Institute | 2026-03-20 07:00
+   https://mwi.westpoint.edu/urban-warfare-project-podcast-drones-and-urban-warfare-in-ukraine/
+   Theme: Current Conflicts
+   
+   John Spencer's Urban Warfare Project provides high-quality practitioner insights, and Dr. Tingle's nine trips to Ukraine offer primary source battlefield observations about drone employment in urban terrain. This combines current conflict lessons with tactical innovations that have broader operational implications across domains.
+   → Spencer's urban warfare expertise combined with first-hand Ukraine observations provides excellent case study material for teaching multi-domain operations integration in complex terrain.
+   Connects to: JADO, AI/ML Military
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (11 more)
+================================================================================
+
+
+AI/ML Military (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] DARPA-developed autonomous helicopter technology transitions to U.S. Army
+DARPA | https://www.darpa.mil/news/2026/uh-60mx-black-hawk-army
+This represents a significant transition from experimental to operational AI/ML capabilities in rotary-wing aviation, with clear implications for autonomous operations across domains. The move from DARPA research to Army testing indicates maturation of technology that could reshape air mobility and logistics in joint operations.
+
+
+Current Conflicts (6 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Israel’s Elbit reveals military contract to put high-powered laser weapon on aircraft
+Breaking Defense | https://breakingdefense.com/2026/03/israels-elbit-reveals-military-contract-to-put-high-powered-laser-weapon-on-aircraft/
+This reveals operational implementation of directed energy weapons in a real combat environment, providing concrete insights into air-based laser systems beyond theoretical discussions. The Israeli experience offers practical lessons for multi-domain operations integration that field-grade officers need to understand.
+
+
+[7/10] Gulf nations ‘trying to reach out’ for Ukrainian counter-drone capability
+Breaking Defense | https://breakingdefense.com/2026/03/gulf-nations-trying-to-reach-out-for-ukrainian-counter-drone-capability/
+This article demonstrates real-world operational learning transfer from Ukraine's drone warfare innovations to Gulf nations, showing how tactical innovations from current conflicts are being rapidly adopted by other militaries. It provides concrete examples of counter-drone capabilities that have proven effective in combat, making it valuable for understanding emerging threats and solutions in the small UAS domain.
+
+
+[7/10] US countered drone threat over ‘strategic’ installation in early hours of Operation Epic Fury: Guillot
+C4ISRNET | https://www.c4isrnet.com/news/your-military/2026/03/20/us-countered-drone-threat-over-strategic-installation-in-early-hours-of-operation-epic-fury-guillot/
+This article provides real operational details about counter-drone tactics using specific equipment (Fly-Away Kit) during an active operation, offering concrete examples of how forces are adapting to drone threats in current conflicts. The mention of protecting 'strategic installations' and the operational context provides valuable case study material beyond generic policy discussions.
+
+
+[7/10] Ukraine deploys units to 5 Middle East countries to intercept drones
+C4ISRNET | https://www.c4isrnet.com/global/mideast-africa/2026/03/20/ukraine-deploys-units-to-5-middle-east-countries-to-intercept-drones/
+This represents a significant operational development showing Ukraine leveraging its hard-won drone warfare expertise as a strategic asset across multiple theaters. The cross-regional deployment demonstrates practical all-domain operations and creates rich case study material for teaching strategic resource allocation and capability transfer.
+
+
+[6/10] What It Was Like to Be Under Incoming Fire from the War on Terror to Today
+War on the Rocks | https://warontherocks.com/2026/03/indirect-fire-in-the-global-war-on-terror-and-today/
+This practitioner-focused discussion of indirect fire experiences from multiple conflicts offers valuable tactical evolution insights and potential teaching case studies. However, without reading the full content, it's unclear if it provides genuinely new operational lessons or cross-domain implications beyond traditional fire support.
+
+
+[6/10] US greenlights over $16B in ’emergency’ radar and missile sales to Middle East
+Breaking Defense | https://breakingdefense.com/2026/03/us-greenlights-over-16b-in-emergency-radar-and-missile-sales-to-middle-east/
+This arms sale reflects operational lessons from recent Middle East conflicts and demonstrates integrated air defense architecture development, but appears to be primarily a policy/acquisition announcement rather than offering deep operational insights or tactical innovations.
+
+
+JADC2 (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] What is the Pentagon’s ‘Space Data Network,’ and why does it matter for Golden Dome?
+Breaking Defense | https://breakingdefense.com/2026/03/what-is-the-pentagons-space-data-network-and-why-does-it-matter-for-golden-dome/
+Space Data Network represents a critical component of JADC2 infrastructure, connecting space-based sensors and communications to joint operations. The Golden Dome connection suggests practical missile defense applications that directly relate to multi-domain command and control integration.
+
+
+JADO (3 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] EXCLUSIVE: US poised to accept new F-35s without radars, sources say
+Breaking Defense | https://breakingdefense.com/2026/03/exclusive-us-poised-to-accept-new-f-35s-without-radars-sources-say/
+This reveals critical gaps in multi-domain sensor integration that directly impact JADO operations, where F-35s serve as key sensor nodes. The radar deficiency exposes vulnerabilities in the distributed sensing architecture that underpins Joint All-Domain Command and Control concepts.
+
+
+[7/10] Apache helicopter shoots down drones in Europe for first time in combat exercise
+C4ISRNET | https://www.c4isrnet.com/news/your-military/2026/03/19/apache-helicopter-shoots-down-drones-in-europe-for-first-time-in-combat-exercise/
+This demonstrates practical multi-domain integration with rotary-wing assets engaging aerial threats, representing a tactical evolution in counter-UAS operations. The exercise reveals operational implications for how traditional air-to-ground platforms adapt to contested airspace with proliferated drone threats.
+
+
+[6/10] High-speed combat drone production starts at new US Anduril plant in days
+C4ISRNET | https://www.c4isrnet.com/unmanned/2026/03/19/high-speed-combat-drone-production-starts-at-new-us-anduril-plant-in-days/
+This article addresses loyal wingman drone production, which is directly relevant to multi-domain operations and air-ground integration concepts. However, it appears to be primarily a manufacturing/industry announcement rather than offering deep operational insights or tactical implications for field-grade officers.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 8
+  JADO: 3
+  PME Innovation: 1
+  JADC2: 1
+  AI/ML Military: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
