@@ -1,0 +1,72 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-22 10:55
+Articles reviewed: 12 | High-value (≥6/10): 6
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] Marine lance corporal develops $10 solution to $5,600 antenna problem
+   C4ISRNET | 2026-03-20 13:32
+   https://www.c4isrnet.com/news/your-military/2026/03/20/marine-lance-corporal-develops-10-solution-to-5600-antenna-problem/
+   Theme: PME Innovation
+   
+   This showcases bottom-up innovation and practical problem-solving that directly challenges traditional acquisition processes. The massive cost savings ($5,600 to $10) and elimination of supply delays demonstrates the value of empowering junior personnel to innovate, making it an excellent case study for teaching adaptive leadership and systems thinking.
+   → Perfect teaching case study for demonstrating how operational innovation can emerge from any level and the importance of creating environments that encourage creative problem-solving in PME curriculum.
+   Connects to: JADO, JADC2
+
+2. [SCORE: 7/10] What is the Pentagon’s ‘Space Data Network,’ and why does it matter for Golden Dome?
+   Breaking Defense | 2026-03-20 13:26
+   https://breakingdefense.com/2026/03/what-is-the-pentagons-space-data-network-and-why-does-it-matter-for-golden-dome/
+   Theme: JADC2
+   
+   The article connects space-based data networks to missile defense operations, showing practical JADC2 implementation in the space domain. It demonstrates how data sharing architectures enable cross-domain operations, though the Golden Dome focus may limit broader applicability.
+   → This provides a concrete example of space-terrestrial data integration for JADO teaching scenarios, especially relevant for explaining how C2 networks enable multi-domain defensive operations.
+   Connects to: JADO, Current Conflicts
+
+3. [SCORE: 7/10] Air Force counter-drone lab requests ideas to track and kill small UAS
+   Breaking Defense | 2026-03-20 11:29
+   https://breakingdefense.com/2026/03/air-force-counter-drone-lab-requests-ideas-to-track-and-kill-small-uas/
+   Theme: Current Conflicts
+   
+   Counter-drone operations represent a critical tactical innovation emerging from current conflicts, with direct operational implications for field-grade officers planning multi-domain operations. The Air Force's systematic approach to soliciting detection and defeat solutions provides practical insights into capability development processes.
+   → This offers concrete teaching material for JADO coursework, demonstrating how emerging threats drive cross-domain integration requirements and capability development timelines that officers must understand for operational planning.
+   Connects to: JADO, AI/ML Military, JADC2
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (3 more)
+================================================================================
+
+
+Current Conflicts (3 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] US countered drone threat over ‘strategic’ installation in early hours of Operation Epic Fury: Guillot
+C4ISRNET | https://www.c4isrnet.com/news/your-military/2026/03/20/us-countered-drone-threat-over-strategic-installation-in-early-hours-of-operation-epic-fury-guillot/
+This article provides real-world operational details about counter-drone capabilities and tactical implementation during an active operation, offering practical insights into emerging threats and defensive measures. The mention of specific equipment (Fly-Away Kit) and strategic installation defense gives concrete operational context that goes beyond generic policy discussion.
+
+
+[7/10] Ukraine deploys units to 5 Middle East countries to intercept drones
+C4ISRNET | https://www.c4isrnet.com/global/mideast-africa/2026/03/20/ukraine-deploys-units-to-5-middle-east-countries-to-intercept-drones/
+This represents a significant operational development showing Ukraine leveraging its hard-earned drone warfare expertise as a strategic asset across multiple theaters. The deployment demonstrates practical cross-domain operations and real-world application of lessons learned from high-intensity conflict.
+
+
+[6/10] Conflict and Consequences
+War on the Rocks | https://warontherocks.com/2026/03/conflict-and-consequences/
+This appears to be a newsletter introduction covering current adversaries and recent Israeli-Iranian escalation, which provides contextual awareness for strategic planning education. However, the summary is incomplete and doesn't indicate operational insights or tactical innovations beyond basic conflict updates.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 4
+  PME Innovation: 1
+  JADC2: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
