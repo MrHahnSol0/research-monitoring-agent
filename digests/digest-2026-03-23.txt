@@ -1,0 +1,39 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-23 11:25
+Articles reviewed: 4 | High-value (≥6/10): 2
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] Discovery Before Disaster: The Louisiana Maneuvers and the Untested Warfighting Concepts of Today’s Army
+   Modern War Institute | 2026-03-23 10:23
+   https://mwi.westpoint.edu/discovery-before-disaster-the-louisiana-maneuvers-and-the-untested-warfighting-concepts-of-todays-army/
+   Theme: JADO
+   
+   This article uses historical analysis of the Louisiana Maneuvers to examine how large-scale exercises can test and validate new warfighting concepts, which is directly applicable to current JADO implementation challenges. The historical parallel provides a framework for understanding how to properly test multi-domain operations concepts before they're needed in combat.
+   → The Louisiana Maneuvers case study offers a proven pedagogical approach for teaching strategic planning and concept validation that JJ can apply when instructing officers on JADO implementation and testing methodologies.
+   Connects to: PME Innovation, Current Conflicts
+
+2. [SCORE: 6/10] US-made naval drone with active warhead washes up in northern Turkey, gets blown up
+   C4ISRNET | 2026-03-23 10:54
+   https://www.c4isrnet.com/global/europe/2026/03/23/us-made-naval-drone-with-active-warhead-washes-up-in-northern-turkey-gets-blown-up/
+   Theme: Current Conflicts
+   
+   This incident provides a concrete example of naval drone operations in current conflicts and highlights practical challenges of autonomous systems deployment, including unintended consequences and operational security risks. However, the article appears to be primarily news reporting rather than deep operational analysis.
+   → Offers a real-world case study for teaching about maritime domain operations, autonomous systems risks, and the operational implications of losing control of unmanned assets in joint operations.
+   Connects to: JADO, JADC2
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  JADO: 1
+  Current Conflicts: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
