@@ -1,0 +1,112 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-24 11:26
+Articles reviewed: 16 | High-value (≥6/10): 12
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] The Battlefield is the Next Betting Market
+   War on the Rocks | 2026-03-23 07:30
+   https://warontherocks.com/2026/03/the-battlefield-is-the-next-betting-market/
+   Theme: Current Conflicts
+   
+   This article appears to explore how prediction markets and information warfare intersect with operational security and strategic surprise in modern conflicts. The contrast between concealed operations (US-Israel Iran strike) and publicly observable ones (Operation Epic Fury) suggests insights into information domain operations and multi-domain planning considerations.
+   → The information domain implications of battlefield prediction markets offers rich case study material for teaching joint planning and information warfare integration in JADO coursework.
+   Connects to: JADO, AI/ML Military
+
+2. [SCORE: 8/10] Discovery Before Disaster: The Louisiana Maneuvers and the Untested Warfighting Concepts of Today’s Army
+   Modern War Institute | 2026-03-23 10:23
+   https://mwi.westpoint.edu/discovery-before-disaster-the-louisiana-maneuvers-and-the-untested-warfighting-concepts-of-todays-army/
+   Theme: JADO
+   
+   This article examines historical large-scale exercises (Louisiana Maneuvers) to critique current Army training gaps in multi-domain operations, providing operational insights about testing untested warfighting concepts. The historical parallel offers valuable lessons for implementing and validating JADO doctrine at scale.
+   → The Louisiana Maneuvers case study provides excellent teaching material for strategic planning courses on how to test and validate new operational concepts before combat implementation.
+   Connects to: PME Innovation, Current Conflicts
+
+3. [SCORE: 7/10] Space Force anticipates first Kronos C2 contracts in April
+   Breaking Defense | 2026-03-23 21:08
+   https://breakingdefense.com/2026/03/space-force-anticipates-first-kronos-c2-contracts-in-april/
+   Theme: JADC2
+   
+   Kronos C2 represents a concrete implementation of space-based command and control systems with direct implications for joint all-domain operations. The contractual timing and operational details provide practical insights into how JADC2 capabilities are actually being fielded, moving beyond policy announcements to real acquisition.
+   → This provides a tangible case study for teaching how space domain C2 systems integrate into joint operations and could illustrate the practical challenges of multi-domain command and control implementation.
+   Connects to: JADO, AI/ML Military
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (9 more)
+================================================================================
+
+
+AI/ML Military (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Army receives first autonomous-ready, optionally piloted Black Hawk
+Breaking Defense | https://breakingdefense.com/2026/03/army-receives-first-autonomous-ready-optionally-piloted-black-hawk/
+This represents a significant milestone in autonomous military systems transitioning from concept to operational reality, offering concrete insights into AI implementation challenges and cross-domain integration. The article likely contains practitioner perspectives on human-machine teaming and operational implications that go beyond typical policy announcements.
+
+
+Current Conflicts (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] Dutch armed forces to add drone operators to combat brigades
+C4ISRNET | https://www.c4isrnet.com/global/europe/2026/03/23/dutch-armed-forces-to-add-drone-operators-to-combat-brigades/
+The Dutch force structure adaptation reflects lessons learned from Ukraine conflict regarding drone integration at brigade level. While organizationally significant, the article likely provides limited operational details about implementation or tactical integration methods.
+
+
+[6/10] US-made naval drone with active warhead washes up in northern Turkey, gets blown up
+C4ISRNET | https://www.c4isrnet.com/global/europe/2026/03/23/us-made-naval-drone-with-active-warhead-washes-up-in-northern-turkey-gets-blown-up/
+This incident provides a concrete example of naval drone warfare challenges including operational security, weapon system reliability, and unintended consequences in maritime domains. While newsworthy, it offers limited tactical insights beyond highlighting risks of autonomous weapon deployment and recovery procedures.
+
+
+JADC2 (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] Space Force to overhaul legacy ground-based missile defense radar systems
+Breaking Defense | https://breakingdefense.com/2026/03/space-force-to-overhaul-legacy-ground-based-missile-defense-radar-systems/
+Ground-based radar system overhauls directly relate to JADC2 sensor integration and multi-domain awareness capabilities. However, without details on specific technological upgrades, AI integration, or cross-domain implications, this appears to be primarily a modernization announcement rather than offering deep operational insights.
+
+
+JADO (5 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Space Force’s two new cyber squadrons to defend space launch operations
+Breaking Defense | https://breakingdefense.com/2026/03/space-forces-two-new-cyber-squadrons-to-defend-space-launch-operations/
+This article demonstrates practical implementation of multi-domain integration by establishing cyber units specifically to protect space operations, showing concrete organizational steps toward JADO implementation. The focus on defending critical space launch infrastructure highlights the operational interdependencies between space and cyber domains that field-grade officers need to understand.
+
+
+[7/10] US and UK teaming up to destroy underwater drones
+C4ISRNET | https://www.c4isrnet.com/naval/2026/03/23/us-and-uk-teaming-up-to-destroy-underwater-drones/
+US-UK cooperation on underwater drone threats demonstrates multi-domain defensive operations and alliance integration challenges that are core to JADO implementation. The maritime domain's intersection with critical infrastructure protection offers practical case study material for understanding cross-domain vulnerabilities and defensive coordination.
+
+
+[7/10] The US Army is already ditching its most powerful laser weapon yet
+C4ISRNET | https://www.c4isrnet.com/industry/techwatch/2026/03/23/the-us-army-is-already-ditching-its-most-powerful-laser-weapon-yet/
+This article provides a concrete case study of capability development challenges in multi-domain operations, specifically how directed energy weapons fit into joint fires and air defense architecture. The Army's decision to abandon a 300kW laser system despite its power offers practical insights into the gap between technical capability and operational utility in JADO implementation.
+
+
+[6/10] The Next Transformation of U.S. Shipbuilding
+War on the Rocks | https://warontherocks.com/2026/03/the-next-transformation-of-u-s-shipbuilding/
+While shipbuilding industrial capacity is foundational to maritime domain operations within JADO, this appears to be primarily an industry executive interview focused on business strategy rather than operational doctrine or multi-domain integration concepts. The practitioner insights from a major defense contractor could provide useful context for understanding maritime domain constraints.
+
+
+[6/10] Lockheed Martin Australia, Rheinmetall exploring HIMARS sustainment Down Under
+Breaking Defense | https://breakingdefense.com/2026/03/lockheed-martin-australia-rheinmetall-exploring-himars-sustainment-down-under/
+This article addresses operational sustainment challenges in multi-domain operations, specifically how allied industrial partnerships enable distributed logistics for precision strike capabilities in the Pacific theater. While focused on a specific weapon system, it touches on broader JADO sustainment concepts relevant to distributed operations.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  JADO: 6
+  Current Conflicts: 3
+  JADC2: 2
+  AI/ML Military: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
