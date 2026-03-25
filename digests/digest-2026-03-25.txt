@@ -1,0 +1,148 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-25 11:25
+Articles reviewed: 28 | High-value (≥6/10): 19
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 9/10] Cognitive Fratricide: How the Transparent Battlefield Creates Decision Paralysis
+   Modern War Institute | 2026-03-25 07:45
+   https://mwi.westpoint.edu/cognitive-fratricide-how-the-transparent-battlefield-creates-decision-paralysis/
+   Theme: AI/ML Military
+   
+   This article directly challenges a core assumption of current military AI/sensor integration efforts - that more information always leads to better decisions. It addresses cognitive overload in networked warfare environments, which is a critical operational concern for implementing JADC2 systems that JJ will need to teach officers to navigate effectively.
+   → This provides a perfect case study for teaching strategic thinking about unintended consequences of technological integration, helping officers understand the human factors limitations in all-domain operations.
+   Connects to: JADO, JADC2, PME Innovation
+
+2. [SCORE: 8/10] Your Defense Code Is Already AI-Generated. Now What?
+   War on the Rocks | 2026-03-25 08:00
+   https://warontherocks.com/2026/03/your-defense-code-is-already-ai-generated-now-what/
+   Theme: AI/ML Military
+   
+   This article addresses a critical practical reality that defense organizations must confront - AI code is already embedded in systems regardless of policy decisions. It focuses on operational implications and implementation challenges rather than theoretical frameworks, directly relevant to field-grade officers dealing with AI integration.
+   → Perfect case study for teaching strategic planning students about the gap between policy intentions and technological reality, while connecting to his AI orchestration expertise in defense contexts.
+   Connects to: JADC2, PME Innovation
+
+3. [SCORE: 8/10] Five Wargames Every Force Design Process Needs
+   War on the Rocks | 2026-03-25 07:30
+   https://warontherocks.com/2026/03/five-wargames-every-force-design-process-needs/
+   Theme: PME Innovation
+   
+   This article directly addresses wargaming methodology within force design processes, offering practical frameworks that bridge strategic planning and educational applications. Given JJ's transition to MCU and focus on teaching JADO, this provides concrete tools for integrating wargaming into PME curricula while connecting to real Marine Corps force development challenges.
+   → This offers a structured approach to incorporating wargaming into JADO instruction at MCU, providing both pedagogical tools and connections to the Marine Corps' ongoing force design evolution that JJ can leverage in his teaching role.
+   Connects to: JADO, Current Conflicts
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (16 more)
+================================================================================
+
+
+AI/ML Military (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] Can Biometric Data Make Units More Combat Ready? Yes, and this Brigade Gunnery Exercise Showed How
+Modern War Institute | https://mwi.westpoint.edu/can-biometric-data-make-units-more-combat-ready-yes-and-this-brigade-gunnery-exercise-showed-how/
+This appears to be a practitioner-focused case study demonstrating actual implementation of biometric data analysis to enhance combat readiness during a real training exercise. The brigade gunnery context suggests concrete operational applications rather than theoretical discussion, with potential insights into how data-driven decision making can improve unit performance.
+
+
+[7/10] Army receives first autonomous-ready, optionally piloted Black Hawk
+Breaking Defense | https://breakingdefense.com/2026/03/army-receives-first-autonomous-ready-optionally-piloted-black-hawk/
+This represents a significant milestone in autonomous military systems transitioning from concept to operational reality, offering concrete insights into AI/ML implementation in aviation platforms. The operational implications of optionally piloted aircraft directly impact multi-domain operations and command/control integration.
+
+
+Current Conflicts (4 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] The War in Iran and Implications for the Nuclear Non-Proliferation Regime
+War on the Rocks | https://warontherocks.com/2026/03/the-war-in-iran-and-implications-for-the-nuclear-non-proliferation-regime/
+This article addresses a major contemporary conflict with significant strategic implications for multi-domain operations, particularly the intersection of conventional warfare and nuclear deterrence dynamics. The analysis of how active conflict affects international regimes provides valuable strategic context for understanding escalation management and alliance coordination in contested environments.
+
+
+[6/10] AV unveils LOCUST X3, latest entrant into laser counter-drone race
+Breaking Defense | https://breakingdefense.com/2026/03/av-unveils-locust-x3-latest-entrant-into-laser-counter-drone-race/
+This article covers tactical-level counter-drone technology developments, which are relevant to current operational needs but appears to be primarily a product announcement. The laser counter-drone capability connects to multi-domain defensive operations, though without deeper operational analysis it's moderately useful rather than essential reading.
+
+
+[6/10] Dutch armed forces to add drone operators to combat brigades
+C4ISRNET | https://www.c4isrnet.com/global/europe/2026/03/23/dutch-armed-forces-to-add-drone-operators-to-combat-brigades/
+This article provides concrete organizational adaptation data from a NATO ally implementing lessons from Ukraine regarding drone integration at the tactical level. While valuable for understanding how militaries are restructuring for modern warfare, it appears to be more of a policy announcement than deep operational analysis.
+
+
+[6/10] Podcast: The Spear – Staying Alive in Iraq and Afghanistan
+Modern War Institute | https://mwi.westpoint.edu/podcast-the-spear-staying-alive-in-iraq-and-afghanistan/
+This podcast offers practitioner insights from a Special Forces officer's experiences in Iraq and Afghanistan, focusing on operational lessons and adaptation under fire. While valuable for understanding combat experiences, it appears to cover historical conflicts rather than current developments with new tactical innovations.
+
+
+JADC2 (3 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] Kratos scores $447M Space Force award for missile tracking ground system
+Breaking Defense | https://breakingdefense.com/2026/03/kratos-scores-447m-space-force-award-for-missile-tracking-ground-system/
+This contract award represents a concrete implementation of space-based missile tracking integration into joint command and control systems, which has operational implications for multi-domain operations. However, it appears to be primarily a procurement announcement rather than detailed analysis of operational capabilities or integration challenges.
+
+
+[6/10] What new weapons could a supplemental buy, plus news on the Army’s C5ISR plans
+Breaking Defense | https://breakingdefense.com/2026/03/what-new-weapons-could-a-supplemental-buy-plus-news-on-the-armys-c5isr-plans/
+This article covers Army C5ISR developments and supplemental weapons procurement, which relates to command and control systems but appears to be more news reporting than operational analysis. Without deeper technical details or operational implications, it provides moderate value for understanding current military technology investments.
+
+
+[6/10] Space Force anticipates first Kronos C2 contracts in April
+Breaking Defense | https://breakingdefense.com/2026/03/space-force-anticipates-first-kronos-c2-contracts-in-april/
+Space Force C2 system procurement represents concrete JADC2 implementation progress, but the article appears to focus on contracting timelines rather than operational capabilities or integration challenges. Without technical details about how Kronos enables cross-domain operations, this falls into the 'policy announcement' category rather than providing deeper operational insights.
+
+
+JADO (7 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Follow the Money: Finance and the Future of Allied Economic Statecraft
+War on the Rocks | https://warontherocks.com/2026/03/follow-the-money-finance-and-the-future-of-allied-economic-statecraft/
+Economic statecraft and financial warfare represent a critical domain in multi-domain operations that's often overlooked in military education. The article likely provides operational insights into how economic instruments integrate with traditional military domains in great-power competition.
+
+
+[7/10] America must adopt a Sixth Domain of warfare doctrine
+Breaking Defense | https://breakingdefense.com/2026/03/america-must-adopt-a-sixth-domain-of-warfare-doctrine/
+An article proposing a sixth domain of warfare directly challenges current JADO doctrine and would provide valuable material for teaching strategic thinking about domain evolution. The concept forces examination of existing multi-domain integration assumptions and could offer fresh operational perspectives for field-grade officers.
+
+
+[7/10] General Dynamics-led team unveils self-driving truck with microwave counter-drone tech
+Breaking Defense | https://breakingdefense.com/2026/03/general-dynamics-led-team-unveils-self-driving-truck-with-microwave-counter-drone-tech/
+This demonstrates practical integration of autonomous systems (AI/ML) with counter-drone capabilities across land and air domains, showing concrete JADO implementation rather than just concepts. The combination of self-driving logistics platforms with active defense systems represents the kind of multi-domain integration that field-grade officers need to understand operationally.
+
+
+[7/10] As Fury production starts, Anduril pledging a different production approach at Arsenal-1
+Breaking Defense | https://breakingdefense.com/2026/03/as-fury-production-starts-anduril-pledging-a-different-production-approach-at-arsenal-1/
+Anduril's Arsenal-1 production facility represents a significant shift in defense manufacturing that directly impacts multi-domain operations capabilities and autonomous systems integration. The production approach for systems like Fury demonstrates how modern defense industrial base innovations enable the distributed, autonomous platforms essential for JADO concepts.
+
+
+[7/10] The US Army is already ditching its most powerful laser weapon yet
+C4ISRNET | https://www.c4isrnet.com/industry/techwatch/2026/03/23/the-us-army-is-already-ditching-its-most-powerful-laser-weapon-yet/
+This article provides concrete operational insights into the challenges of integrating emerging technologies across domains, specifically how promising capabilities can fail to transition from prototype to operational reality. The Army's decision to discontinue its most powerful laser weapon despite its technical capabilities offers valuable lessons about the gap between technological possibility and operational practicality in multi-domain operations.
+
+
+[6/10] The Next Transformation of U.S. Shipbuilding
+War on the Rocks | https://warontherocks.com/2026/03/the-next-transformation-of-u-s-shipbuilding/
+This interview with HII's executive VP provides practitioner insights into maritime industrial base challenges that directly impact naval capabilities in multi-domain operations. While focused on shipbuilding transformation, it offers real-world perspective on defense industrial capacity constraints that affect JADO implementation timelines and maritime domain contributions.
+
+
+[6/10] US and UK teaming up to destroy underwater drones
+C4ISRNET | https://www.c4isrnet.com/naval/2026/03/23/us-and-uk-teaming-up-to-destroy-underwater-drones/
+US-UK cooperation on underwater drone threats demonstrates maritime domain integration within JADO frameworks and addresses emerging asymmetric threats to critical infrastructure. However, without operational details or tactical innovations, this appears to be primarily a policy/partnership announcement rather than deep operational insights.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  JADO: 7
+  AI/ML Military: 4
+  Current Conflicts: 4
+  JADC2: 3
+  PME Innovation: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
