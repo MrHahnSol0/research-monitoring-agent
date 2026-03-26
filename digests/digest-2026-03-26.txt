@@ -1,0 +1,176 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-26 11:30
+Articles reviewed: 32 | High-value (≥6/10): 24
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 9/10] 10 Ukrainians Humbled Two NATO Battalions. When Will NATO Wake Up?
+   War on the Rocks | 2026-03-26 07:30
+   https://warontherocks.com/2026/03/10-ukrainians-humbled-two-nato-battalions-when-will-nato-wake-up/
+   Theme: Current Conflicts
+   
+   This article provides concrete operational insights from Ukrainian practitioners who demonstrated tactical innovations against conventional NATO forces, offering real combat lessons rather than theoretical frameworks. The asymmetric tactics and small-unit effectiveness have direct implications for how NATO forces should adapt their training and operations based on actual battlefield experience.
+   → Perfect case study for teaching adaptive tactics and challenging conventional assumptions about force structure effectiveness in his JADO curriculum at MCU.
+   Connects to: JADO, PME Innovation
+
+2. [SCORE: 8/10] A Torpedo in the Trade Lanes: Naval Warfare Returns to the Indo-Pacific
+   War on the Rocks | 2026-03-26 07:15
+   https://warontherocks.com/2026/03/a-torpedo-in-the-trade-lanes-naval-warfare-returns-to-the-indo-pacific/
+   Theme: Current Conflicts
+   
+   This article analyzes a significant naval engagement in critical maritime trade routes, offering operational lessons from real combat. The incident provides concrete case study material for understanding modern naval warfare dynamics and strategic implications in contested waters.
+   → This real-world naval engagement provides excellent case study material for teaching JADO concepts, particularly maritime domain operations and their strategic implications for joint planning.
+   Connects to: JADO, JADC2
+
+3. [SCORE: 8/10] Your Defense Code Is Already AI-Generated. Now What?
+   War on the Rocks | 2026-03-25 08:00
+   https://warontherocks.com/2026/03/your-defense-code-is-already-ai-generated-now-what/
+   Theme: AI/ML Military
+   
+   This addresses a critical operational reality that defense organizations must confront - AI code generation is already embedded in military systems whether acknowledged or not. The focus on practical implementation challenges over policy debates aligns with operational needs for field-grade officers managing AI integration.
+   → Provides excellent case study material for teaching the gap between AI policy aspirations and ground truth realities in defense acquisition and system integration.
+   Connects to: JADC2, PME Innovation
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (21 more)
+================================================================================
+
+
+AI/ML Military (3 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] Will too much AI weaken troops' judgement?
+Defense One | https://www.defenseone.com/technology/2026/03/military-ai-troops-judgement/412390/
+This article directly addresses a critical concern for military AI implementation - the potential degradation of human decision-making capabilities when over-relying on AI tools. Given JJ's AI/ML background and role teaching strategic planning, this provides valuable insight into the human factors challenges of AI integration that goes beyond technical capabilities to operational readiness.
+
+
+[8/10] Can Biometric Data Make Units More Combat Ready? Yes, and this Brigade Gunnery Exercise Showed How
+Modern War Institute | https://mwi.westpoint.edu/can-biometric-data-make-units-more-combat-ready-yes-and-this-brigade-gunnery-exercise-showed-how/
+This article demonstrates practical implementation of biometric data analytics to enhance combat readiness at the unit level, offering concrete operational insights rather than theoretical frameworks. The brigade gunnery exercise provides real-world validation of how data-driven approaches can improve training effectiveness and unit performance.
+
+
+[7/10] German army eyes AI tools to expedite wartime decision-making
+C4ISRNET | https://www.c4isrnet.com/global/europe/2026/03/25/german-army-eyes-ai-tools-to-expedite-wartime-decision-making/
+German army's practical application of AI for battlefield decision-making, drawing from Ukraine combat lessons, offers concrete operational insights beyond theoretical frameworks. The focus on exploiting battlefield data to predict conflict dynamics aligns with JJ's AI orchestration interests and provides real-world implementation examples.
+
+
+Current Conflicts (6 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] How Are Iran’s Partnerships with Belarus and Russia Holding Up During War?
+War on the Rocks | https://warontherocks.com/2026/03/how-are-irans-partnerships-with-belarus-and-russia-holding-up-during-war/
+This article analyzes real-time partnership dynamics between adversary nations during active conflict, providing insights into how alliance structures adapt under wartime stress. The focus on Iran-Belarus-Russia cooperation offers valuable lessons about multi-national coordination challenges that directly parallel coalition warfare concepts.
+
+
+[7/10] Proxy Pressure on Iran: The Promise and Pitfalls of Arming the Kurds
+War on the Rocks | https://warontherocks.com/2026/03/proxy-pressure-on-iran-the-promise-and-pitfalls-of-arming-the-kurds/
+This article examines proxy warfare tactics and irregular warfare applications in a current conflict scenario, offering operational insights into multi-domain irregular operations that extend beyond traditional kinetic approaches. The Kurdish proxy element provides concrete case study material for understanding decentralized operations across political, information, and human domains.
+
+
+[7/10] The War in Iran and Implications for the Nuclear Non-Proliferation Regime
+War on the Rocks | https://warontherocks.com/2026/03/the-war-in-iran-and-implications-for-the-nuclear-non-proliferation-regime/
+This article addresses strategic implications of an ongoing conflict involving nuclear proliferation dynamics, which directly impacts multi-domain operational planning and strategic decision-making. The nuclear dimension adds complexity to joint operations planning and offers rich case study material for strategic planning education.
+
+
+[7/10] War as a Force of Destruction, Change, and Opportunity
+War on the Rocks | https://warontherocks.com/2026/03/war-as-a-force-of-destruction-change-and-opportunity/
+This weekly Ukrainian digest provides direct insight into how Ukrainians themselves view the evolving conflict, offering primary source perspectives that are valuable for understanding operational realities beyond Western military analysis. The Ukrainian viewpoint on how war drives transformation could provide teaching case studies for strategic planning courses at MCU.
+
+
+[7/10] The Army wants to use bullets, mortars, and artillery rounds to take out small drones
+Defense One | https://www.defenseone.com/technology/2026/03/army-wants-use-bullets-mortars-and-artillery-rounds-take-out-small-drones/412392/
+This addresses a critical operational challenge emerging from Ukraine and other conflicts where small drone swarms pose significant threats to ground forces. The focus on adapting existing kinetic systems rather than relying solely on expensive dedicated counter-UAS systems offers practical insights for field-grade officers planning multi-domain operations.
+
+
+[6/10] AV unveils LOCUST X3, latest entrant into laser counter-drone race
+Breaking Defense | https://breakingdefense.com/2026/03/av-unveils-locust-x3-latest-entrant-into-laser-counter-drone-race/
+Counter-drone systems represent a critical operational capability emerging from current conflicts, particularly Ukraine where drone warfare has evolved rapidly. However, this appears to be a standard product announcement rather than analysis of operational lessons or tactical innovations.
+
+
+JADC2 (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] Kratos scores $447M Space Force award for missile tracking ground system
+Breaking Defense | https://breakingdefense.com/2026/03/kratos-scores-447m-space-force-award-for-missile-tracking-ground-system/
+This contract award represents concrete implementation of space-based missile tracking within the broader JADC2 architecture, showing real progress in multi-domain sensing capabilities. However, as a contract announcement it likely lacks the operational details and practitioner insights that would make it highly valuable for teaching strategic planning.
+
+
+[6/10] What new weapons could a supplemental buy, plus news on the Army’s C5ISR plans
+Breaking Defense | https://breakingdefense.com/2026/03/what-new-weapons-could-a-supplemental-buy-plus-news-on-the-armys-c5isr-plans/
+Article covers Army C5ISR plans and weapons supplemental funding, which relates to command and control systems but appears to be standard defense procurement news rather than deep operational insights. The weapons procurement aspect may offer some tactical relevance but likely lacks the analytical depth for strategic teaching applications.
+
+
+JADO (8 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] How South Korea Can Bring Iron to the Strait of Hormuz
+War on the Rocks | https://warontherocks.com/2026/03/how-south-korea-can-bring-iron-to-the-strait-of-hormuz/
+This article examines multi-domain resource allocation and allied integration challenges as the US redeploys missile defense assets from Korea to the Middle East. It likely explores how South Korea can contribute capabilities to Middle East operations, demonstrating cross-theater JADO planning and alliance interoperability - core concepts for teaching joint operations.
+
+
+[7/10] Follow the Money: Finance and the Future of Allied Economic Statecraft
+War on the Rocks | https://warontherocks.com/2026/03/follow-the-money-finance-and-the-future-of-allied-economic-statecraft/
+Economic statecraft as a domain of competition directly relates to Joint All-Domain Operations by expanding the operational environment beyond traditional kinetic domains. The focus on capital mobilization across defense, infrastructure, and technology sectors provides concrete examples of how economic tools integrate with military operations in great-power competition.
+
+
+[7/10] Requirements without factories: Why the Pentagon must reconnect design to production
+Breaking Defense | https://breakingdefense.com/2026/03/requirements-without-factories-why-the-pentagon-must-reconnect-design-to-production/
+This article addresses a critical operational challenge in JADO implementation - the disconnect between military requirements and industrial production capacity. It likely provides practical insights into acquisition and logistics constraints that field-grade officers must understand when planning multi-domain operations.
+
+
+[7/10] Army’s digital marketplace for drones is officially open
+Breaking Defense | https://breakingdefense.com/2026/03/armys-digital-marketplace-for-drones-is-officially-open/
+This digital marketplace represents a practical implementation of multi-domain operations capability development, showing how the Army is operationalizing drone integration across domains. The marketplace approach offers insights into how services are adapting acquisition processes for rapidly evolving JADO requirements.
+
+
+[7/10] Ocean Aero Triton’s Minesweepers are ready now
+Breaking Defense | https://breakingdefense.com/2026/03/ocean-aero-tritons-minesweepers-are-ready-now/
+This article covers operational deployment of autonomous minesweeping systems, which directly relates to maritime domain operations within JADO concepts. The focus on ready-now capabilities and real-world deployment provides practical insights beyond theoretical frameworks.
+
+
+[7/10] America must adopt a Sixth Domain of warfare doctrine
+Breaking Defense | https://breakingdefense.com/2026/03/america-must-adopt-a-sixth-domain-of-warfare-doctrine/
+Proposes expanding multi-domain operations framework to include a sixth domain, directly relevant to JADO doctrine development. Offers conceptual framework that could challenge current five-domain thinking and provide teaching material for joint operations courses.
+
+
+[7/10] The Infantry Division Transformed: Four Fighting Principles
+Modern War Institute | https://mwi.westpoint.edu/the-infantry-division-transformed-four-fighting-principles/
+This article addresses division-level transformation principles that are directly relevant to joint all-domain operations implementation at the operational level. The focus on how divisions adapt their warfighting approach provides practical insights for field-grade officers teaching JADO concepts.
+
+
+[6/10] ‘Too early to tell’ if timeline holds for delivery of Army’s tilt-rotor MV-75 for testing: Official
+Breaking Defense | https://breakingdefense.com/2026/03/too-early-to-tell-if-timeline-holds-for-delivery-of-armys-tilt-rotor-mv-75-for-testing-official/
+The MV-75 tilt-rotor represents a platform capability relevant to multi-domain operations, particularly air-ground integration and rapid mobility across domains. However, this appears to be a status update on acquisition timelines rather than operational doctrine or implementation insights.
+
+
+PME Innovation (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] Five Wargames Every Force Design Process Needs
+War on the Rocks | https://warontherocks.com/2026/03/five-wargames-every-force-design-process-needs/
+This article directly addresses wargaming methodology for force design, which is highly relevant to strategic planning instruction at MCU. It connects Marine Corps Force Design 2030 with practical wargaming applications, offering concrete educational tools for teaching strategic thinking.
+
+
+[6/10] Podcast: The Spear – Staying Alive in Iraq and Afghanistan
+Modern War Institute | https://mwi.westpoint.edu/podcast-the-spear-staying-alive-in-iraq-and-afghanistan/
+This podcast offers practitioner insights from a retired Special Forces officer about learning from failure and embracing difficulty, which could provide valuable case studies for strategic thinking education. However, it appears focused on historical lessons from Iraq/Afghanistan rather than current operational innovations or multi-domain concepts.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 8
+  JADO: 8
+  AI/ML Military: 4
+  PME Innovation: 2
+  JADC2: 2
+
+================================================================================
+END OF DIGEST
+================================================================================
