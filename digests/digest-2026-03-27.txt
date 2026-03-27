@@ -1,0 +1,147 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-27 11:25
+Articles reviewed: 27 | High-value (≥6/10): 19
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 9/10] Hellscape Taiwan: A Porcupine Defense in the Drone Age
+   War on the Rocks | 2026-03-27 07:30
+   https://warontherocks.com/2026/03/hellscape-taiwan-a-porcupine-defense-in-the-drone-age/
+   Theme: JADO
+   
+   This scenario-based analysis of Taiwan defense through multi-domain operations (drone swarms, electronic warfare, naval operations) provides concrete operational insights for field-grade officers studying cross-domain integration. The 'porcupine defense' concept using distributed autonomous systems exemplifies JADO principles in a realistic high-stakes scenario that's central to current strategic planning.
+   → Perfect teaching case study for JADO coursework, offering a concrete scenario to explore multi-domain coordination challenges and AI-enabled autonomous systems integration that field-grade officers will face in Pacific operations.
+   Connects to: AI/ML Military, JADC2, Current Conflicts
+
+2. [SCORE: 9/10] 10 Ukrainians Humbled Two NATO Battalions. When Will NATO Wake Up?
+   War on the Rocks | 2026-03-26 07:30
+   https://warontherocks.com/2026/03/10-ukrainians-humbled-two-nato-battalions-when-will-nato-wake-up/
+   Theme: Current Conflicts
+   
+   This article provides concrete operational lessons from Ukrainian forces demonstrating tactical innovations against conventional NATO forces in a controlled exercise setting. The specific metrics (10 personnel neutralizing two battalions, 17 vehicles destroyed, 30 strikes in half a day) offer quantifiable evidence of how modern conflict tactics can overwhelm traditional approaches.
+   → This provides an excellent case study for teaching JADO concepts at MCU, showing how small units using multi-domain tactics can achieve disproportionate effects against conventionally superior forces.
+   Connects to: JADO, PME Innovation
+
+3. [SCORE: 9/10] The real danger of military AI isn’t killer robots; it’s worse human judgement
+   Defense One | 2026-03-26 01:48
+   https://www.defenseone.com/technology/2026/03/military-ai-troops-judgement/412390/
+   Theme: AI/ML Military
+   
+   This article addresses critical operational concerns about AI's impact on military decision-making quality, directly challenging the rush to deploy LLM tools without understanding cognitive consequences. The focus on how AI undermines human judgment rather than replaces it offers practical insights for field-grade officers implementing AI systems.
+   → Essential reading for teaching AI orchestration and strategic planning, as it provides evidence-based warnings about cognitive degradation that directly impact the human-AI teaming concepts central to JADO implementation.
+   Connects to: JADO, PME Innovation, JADC2
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (16 more)
+================================================================================
+
+
+AI/ML Military (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Companies to enter negotiations to build commercial data centers on Army installations
+Breaking Defense | https://breakingdefense.com/2026/03/companies-to-enter-negotiations-to-build-commercial-data-center-on-army-installations/
+This development has significant operational implications for military AI/ML capabilities by potentially providing the computational infrastructure needed for advanced military applications. The co-location of commercial data centers on military installations could enable rapid deployment of AI systems while raising important questions about security, integration, and dual-use considerations.
+
+
+[7/10] German army eyes AI tools to expedite wartime decision-making
+C4ISRNET | https://www.c4isrnet.com/global/europe/2026/03/25/german-army-eyes-ai-tools-to-expedite-wartime-decision-making/
+This article addresses practical AI implementation for military decision-making with lessons from Ukraine, directly relevant to JJ's AI/ML expertise and teaching focus. The German army's approach to battlefield data exploitation offers concrete operational insights rather than theoretical frameworks.
+
+
+Current Conflicts (5 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] A Torpedo in the Trade Lanes: Naval Warfare Returns to the Indo-Pacific
+War on the Rocks | https://warontherocks.com/2026/03/a-torpedo-in-the-trade-lanes-naval-warfare-returns-to-the-indo-pacific/
+This article analyzes a significant naval engagement in a critical maritime corridor, likely offering operational insights about modern naval warfare tactics and strategic implications for Indo-Pacific operations. The incident provides concrete case study material for understanding how naval domain operations intersect with broader strategic objectives in contested waters.
+
+
+[7/10] How Are Iran’s Partnerships with Belarus and Russia Holding Up During War?
+War on the Rocks | https://warontherocks.com/2026/03/how-are-irans-partnerships-with-belarus-and-russia-holding-up-during-war/
+This article analyzes evolving strategic partnerships during active conflict, providing insights into how multi-national coalitions adapt under wartime pressure. The focus on Iran-Belarus-Russia dynamics during a hypothetical US-Iran conflict offers valuable case study material for understanding alliance resilience and operational coordination across domains.
+
+
+[7/10] The Army wants to use bullets, mortars, and artillery to take out small drones
+Defense One | https://www.defenseone.com/technology/2026/03/army-wants-use-bullets-mortars-and-artillery-rounds-take-out-small-drones/412392/
+This addresses a critical tactical problem emerging from Ukraine and other conflicts where small drone swarms pose significant threats. The focus on adapting existing kinetic systems rather than relying solely on expensive directed energy solutions offers practical operational insights for field-grade officers dealing with real counter-UAS challenges.
+
+
+[6/10] MBDA plans $5.8B investment in missile production as demand soars
+Breaking Defense | https://breakingdefense.com/2026/03/mbda-plans-5-8b-investment-in-missile-production-as-demand-soars/
+This industrial base expansion reflects operational lessons from Ukraine and Middle East conflicts about missile consumption rates and supply chain vulnerabilities. The $5.8B investment signals industry response to demonstrated wartime demands, providing insights into sustainment challenges for multi-domain operations.
+
+
+[6/10] France sets up ‘urgent’ $9.8B munitions top-up package
+Breaking Defense | https://breakingdefense.com/2026/03/france-sets-up-urgent-9-8b-munitions-top-up-package/
+This munitions procurement story reflects operational lessons from Ukraine about consumption rates and industrial base capacity, but appears to be primarily a financial/policy announcement without deep operational insights. The scale and urgency suggest recognition of multi-domain munitions requirements, but lacks practitioner details about specific capabilities or integration challenges.
+
+
+JADC2 (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] SDA hopes to bring satellite laser links into use within next 6 months
+Breaking Defense | https://breakingdefense.com/2026/03/sda-hopes-to-bring-satellite-laser-links-into-use-within-next-6-months/
+Satellite laser communication links are a critical infrastructure component for JADC2 implementation, providing secure, high-bandwidth connectivity across domains. The 6-month timeline indicates this is moving from concept to operational reality, with direct implications for how joint forces will communicate and share data in contested environments.
+
+
+[7/10] New joint intel report warns of cyber threats to growing LEO satellite constellations
+Breaking Defense | https://breakingdefense.com/2026/03/new-joint-intel-report-warns-of-cyber-threats-to-growing-leo-satellite-constellations/
+This article addresses critical vulnerabilities in space-based C2 infrastructure that underpins JADC2 operations, with direct operational implications for joint force commanders. The focus on LEO constellation cyber threats connects space domain security to command and control resilience across all domains.
+
+
+JADO (7 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[9/10] How to Kill a Multidomain Task Force
+Modern War Institute | https://mwi.westpoint.edu/how-to-kill-a-multidomain-task-force/
+This article directly examines vulnerabilities and countermeasures against multidomain task forces, providing critical operational insights for understanding both offensive and defensive aspects of JADO implementation. The 'red team' perspective offers practical understanding of how adversaries might target multi-domain operations, which is essential knowledge for field-grade officers planning and executing JADO concepts.
+
+
+[7/10] How South Korea Can Bring Iron to the Strait of Hormuz
+War on the Rocks | https://warontherocks.com/2026/03/how-south-korea-can-bring-iron-to-the-strait-of-hormuz/
+This article addresses multi-domain operations through the lens of allied burden-sharing and strategic asset redeployment across theaters. It offers practical insights into how allies can contribute capabilities across domains and geographic regions, which is directly relevant to JADO implementation and coalition warfare dynamics.
+
+
+[7/10] Navy nixes MASC program, unveils new MUSV ‘marketplace’ amid Golden Fleet push
+Breaking Defense | https://breakingdefense.com/2026/03/navy-nixes-masc-program-unveils-new-musv-marketplace-amid-golden-fleet-push/
+The Navy's shift from MASC to a MUSV 'marketplace' approach represents a significant operational change in unmanned surface vessel integration that directly impacts multi-domain operations. This programmatic pivot offers concrete lessons about acquisition flexibility and distributed operations concepts that field-grade officers need to understand.
+
+
+[7/10] Requirements without factories: Why the Pentagon must reconnect design to production
+Breaking Defense | https://breakingdefense.com/2026/03/requirements-without-factories-why-the-pentagon-must-reconnect-design-to-production/
+This article addresses a critical gap in defense acquisition that directly impacts JADO implementation - the disconnect between operational requirements and industrial capacity to deliver multi-domain capabilities. It likely provides practical insights into why joint all-domain systems face production bottlenecks and integration challenges.
+
+
+[7/10] Army’s digital marketplace for drones is officially open
+Breaking Defense | https://breakingdefense.com/2026/03/armys-digital-marketplace-for-drones-is-officially-open/
+This represents a practical implementation of multi-domain operations integration, showing how the Army is operationalizing drone capabilities across domains through digital procurement and deployment systems. The marketplace approach offers insights into how services are actually executing JADO concepts at the tactical level, moving beyond doctrine to real-world implementation.
+
+
+[7/10] The Infantry Division Transformed: Four Fighting Principles
+Modern War Institute | https://mwi.westpoint.edu/the-infantry-division-transformed-four-fighting-principles/
+This article addresses division-level transformation in multi-domain operations, which directly relates to JADO implementation at the operational level. The focus on warfighting principles for transformed infantry divisions provides practical insights for field-grade officers understanding how ground forces adapt to multi-domain warfare.
+
+
+[6/10] ‘Jury’s still out’ on future of Army’s mobile prepositioned stock: AMC head
+Breaking Defense | https://breakingdefense.com/2026/03/jurys-still-out-on-future-of-armys-mobile-prepositioned-stock-amc-head/
+Mobile prepositioned stock represents a critical logistics enabler for multi-domain operations, affecting force projection and sustainment across domains. However, this appears to be early-stage policy discussion rather than operational insights or lessons learned from implementation.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  JADO: 8
+  Current Conflicts: 6
+  AI/ML Military: 3
+  JADC2: 2
+
+================================================================================
+END OF DIGEST
+================================================================================
