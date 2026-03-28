@@ -1,0 +1,108 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-28 11:00
+Articles reviewed: 20 | High-value (≥6/10): 12
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 9/10] Hellscape Taiwan: A Porcupine Defense in the Drone Age
+   War on the Rocks | 2026-03-27 07:30
+   https://warontherocks.com/2026/03/hellscape-taiwan-a-porcupine-defense-in-the-drone-age/
+   Theme: JADO
+   
+   This scenario-based analysis directly addresses multi-domain defense integration in a high-stakes operational context, examining how drone swarms, electronic warfare, and traditional forces coordinate across domains. The Taiwan strait scenario provides concrete operational insights for understanding JADO implementation challenges and tactical innovations that field-grade officers need to grasp.
+   → Perfect case study material for teaching JADO concepts through realistic scenario analysis, connecting drone orchestration (his AI expertise) with multi-domain operational planning that Marine officers will face in Pacific operations.
+   Connects to: Current Conflicts, AI/ML Military, JADC2
+
+2. [SCORE: 8/10] The military’s fabled ‘human in the loop’ for AI is dangerously misleading
+   C4ISRNET | 2026-03-26 13:56
+   https://www.c4isrnet.com/opinion/2026/03/26/the-militarys-fabled-human-in-the-loop-for-ai-is-dangerously-misleading/
+   Theme: AI/ML Military
+   
+   This article directly challenges a fundamental assumption in military AI implementation - that 'human in the loop' is inherently safe - with practical operational implications. Given JJ's AI/ML background and focus on teaching strategic thinking, this provides both technical depth and contrarian viewpoint valuable for PME discussions.
+   → This challenges conventional military AI wisdom and provides excellent case study material for teaching critical thinking about AI integration in joint operations at MCU.
+   Connects to: JADO, JADC2, PME Innovation
+
+3. [SCORE: 8/10] How to Kill a Multidomain Task Force
+   Modern War Institute | 2026-03-27 08:46
+   https://mwi.westpoint.edu/how-to-kill-a-multidomain-task-force/
+   Theme: JADO
+   
+   This article directly addresses vulnerabilities and operational challenges of multidomain task forces, providing critical analysis of JADO implementation from an adversarial perspective. The 'red team' approach to examining MDTF weaknesses offers practical insights for both operational planning and educational applications.
+   → The adversarial analysis framework provides an excellent case study methodology for teaching strategic thinking about JADO vulnerabilities and defensive planning at MCU.
+   Connects to: JADC2, Current Conflicts, PME Innovation
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (9 more)
+================================================================================
+
+
+AI/ML Military (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Judge grants Anthropic preliminary injunction but Pentagon CTO says ban still stands
+Breaking Defense | https://breakingdefense.com/2026/03/judge-grants-anthropic-preliminary-injunction-but-pentagon-cto-says-ban-still-stands/
+This article addresses a significant legal/regulatory challenge affecting military AI implementation, which has direct operational implications for how DoD can deploy AI tools. The tension between judicial decisions and Pentagon policy creates real-world constraints that field-grade officers need to understand when planning AI integration.
+
+
+[6/10] Companies to enter negotiations to build commercial data centers on Army installations
+Breaking Defense | https://breakingdefense.com/2026/03/companies-to-enter-negotiations-to-build-commercial-data-center-on-army-installations/
+This addresses critical infrastructure needs for military AI/ML operations and JADC2 systems, but appears to be early-stage procurement news without operational insights. The commercial-military partnership model for data centers could have significant implications for distributed computing and resilience in multi-domain operations.
+
+
+Current Conflicts (3 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Will the Pentagon have to cut exercises to pay for the Iran war?
+Breaking Defense | https://breakingdefense.com/2026/03/will-the-pentagon-have-to-cut-exercises-to-pay-for-the-iran-war/
+This article addresses critical resource allocation decisions during active conflict that directly impact training and readiness - a key operational concern for field-grade officers. The tension between immediate operational demands and long-term training requirements offers valuable case study material for strategic planning instruction.
+
+
+[7/10] Ukrainian drones hit all three Baltic States − did Russia redirect them?
+C4ISRNET | https://www.c4isrnet.com/global/europe/2026/03/27/ukrainian-drones-hit-all-three-baltic-states-did-russia-redirect-them/
+This article examines a complex operational scenario involving drone warfare, electronic warfare countermeasures, and multi-domain effects across international boundaries. It presents real tactical implications of EW systems potentially redirecting adversary drones rather than simply defeating them, which has significant operational and strategic consequences for commanders.
+
+
+[6/10] MBDA plans $5.8B investment in missile production as demand soars
+Breaking Defense | https://breakingdefense.com/2026/03/mbda-plans-5-8b-investment-in-missile-production-as-demand-soars/
+The massive industrial investment reflects lessons learned from Ukraine about missile consumption rates and production bottlenecks in sustained conflict. While primarily an industry news piece, it highlights critical logistics and sustainment challenges that impact operational planning across domains.
+
+
+JADO (4 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] State Department clears $340M FMS request for hypersonic missile testing support for Japan
+Breaking Defense | https://breakingdefense.com/2026/03/state-department-clears-340m-fms-request-for-hypersonic-missile-testing-support-for-japan/
+This FMS approval for Japan's hypersonic testing capabilities has operational relevance for Pacific theater multi-domain operations and alliance integration. However, it's primarily a policy/procurement announcement rather than providing deep operational insights or lessons learned from testing programs.
+
+
+[6/10] NATO sees $145B in munitions needs, as members all hit 2 percent GDP for first time
+Breaking Defense | https://breakingdefense.com/2026/03/nato-sees-145b-in-munitions-needs-as-members-all-hit-2-percent-gdp-for-first-time/
+This article addresses critical munitions requirements for multi-domain operations and alliance interoperability, which are core JADO implementation challenges. However, it appears to focus more on budget figures and policy announcements rather than operational implications or tactical insights from current conflicts.
+
+
+[6/10] Vulcan grounding could impact multiple Space Force, NRO satellite launches
+Breaking Defense | https://breakingdefense.com/2026/03/vulcan-grounding-could-impact-multiple-space-force-nro-satellite-launches/
+This article addresses space domain operational readiness and launch capability disruptions, which are critical components of multi-domain operations. While it's primarily a logistics/industrial base issue, it highlights the vulnerabilities in space domain access that field-grade officers need to understand for operational planning.
+
+
+[6/10] ‘Jury’s still out’ on future of Army’s mobile prepositioned stock: AMC head
+Breaking Defense | https://breakingdefense.com/2026/03/jurys-still-out-on-future-of-armys-mobile-prepositioned-stock-amc-head/
+The Army's mobile prepositioned stock concept directly relates to multi-domain logistics and force projection capabilities essential for JADO implementation. However, this appears to be early-stage policy discussion rather than operational insights or lessons learned from implementation.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  JADO: 6
+  AI/ML Military: 3
+  Current Conflicts: 3
+
+================================================================================
+END OF DIGEST
+================================================================================
