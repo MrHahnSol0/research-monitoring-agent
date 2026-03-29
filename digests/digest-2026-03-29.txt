@@ -1,0 +1,75 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-29 11:02
+Articles reviewed: 10 | High-value (≥6/10): 6
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 7/10] Judge grants Anthropic preliminary injunction but Pentagon CTO says ban still stands
+   Breaking Defense | 2026-03-27 19:55
+   https://breakingdefense.com/2026/03/judge-grants-anthropic-preliminary-injunction-but-pentagon-cto-says-ban-still-stands/
+   Theme: AI/ML Military
+   
+   This article addresses critical operational implications of AI vendor relationships and procurement challenges that directly affect military AI implementation. The legal battle between Anthropic and Pentagon procurement policies reveals practical constraints field-grade officers face when integrating AI capabilities into operations.
+   → This case study provides concrete examples of AI procurement challenges that JJ can use to teach students about the practical barriers to implementing AI orchestration in joint operations beyond just the technical considerations.
+   Connects to: JADO, JADC2
+
+2. [SCORE: 7/10] Will the Pentagon have to cut exercises to pay for the Iran war?
+   Breaking Defense | 2026-03-27 16:05
+   https://breakingdefense.com/2026/03/will-the-pentagon-have-to-cut-exercises-to-pay-for-the-iran-war/
+   Theme: Current Conflicts
+   
+   This article addresses critical resource allocation decisions during active conflict that directly impact military readiness and training - key concerns for field-grade officers. The tension between funding current operations versus maintaining long-term readiness through exercises provides valuable case study material for strategic planning education.
+   → This offers excellent teaching material for strategic planning courses on resource constraints and readiness trade-offs that officers will face in real operational environments.
+   Connects to: JADO, PME Innovation
+
+3. [SCORE: 7/10] Ukrainian drones hit all three Baltic States − did Russia redirect them?
+   C4ISRNET | 2026-03-27 12:43
+   https://www.c4isrnet.com/global/europe/2026/03/27/ukrainian-drones-hit-all-three-baltic-states-did-russia-redirect-them/
+   Theme: Current Conflicts
+   
+   This article examines a novel operational challenge where electronic warfare capabilities may be inadvertently or deliberately redirecting enemy drones across international boundaries, creating tactical and strategic implications. The uncertainty about intent versus byproduct offers rich case study material for understanding multi-domain effects and unintended consequences in modern warfare.
+   → This scenario provides an excellent teaching case for JADO instruction, demonstrating how electronic warfare in one domain creates cascading effects across geographic and political boundaries with operational implications for allied coordination.
+   Connects to: JADO, JADC2
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (3 more)
+================================================================================
+
+
+Current Conflicts (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] Punish Russia for Helping Iran Target the U.S. Military
+War on the Rocks | https://warontherocks.com/2026/03/punish-russia-for-helping-iran-target-the-u-s-military/
+The article addresses multi-domain cooperation between Russia and Iran in targeting U.S. forces, which provides some operational context for understanding adversary coordination across domains. However, it appears to focus more on policy responses than tactical/operational lessons or innovative warfare developments that would be genuinely new.
+
+
+[6/10] NATO sees $145B in munitions needs, as members all hit 2 percent GDP for first time
+Breaking Defense | https://breakingdefense.com/2026/03/nato-sees-145b-in-munitions-needs-as-members-all-hit-2-percent-gdp-for-first-time/
+This article provides concrete data on NATO's munitions requirements and defense spending targets, offering real-world insights into alliance logistics and readiness stemming from current conflicts. However, it appears to be primarily a policy/budget announcement rather than operational analysis or lessons learned.
+
+
+JADO (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] State Department clears $340M FMS request for hypersonic missile testing support for Japan
+Breaking Defense | https://breakingdefense.com/2026/03/state-department-clears-340m-fms-request-for-hypersonic-missile-testing-support-for-japan/
+The $340M FMS approval for Japan's hypersonic missile testing represents significant alliance cooperation in long-range precision fires capability development. While the article likely focuses on the procurement announcement rather than operational implications, hypersonic weapons are a key component of multi-domain operations and Indo-Pacific deterrence strategy.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 4
+  AI/ML Military: 1
+  JADO: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
