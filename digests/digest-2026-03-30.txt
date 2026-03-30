@@ -1,0 +1,71 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-30 11:35
+Articles reviewed: 5 | High-value (≥6/10): 5
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] Every Soldier a Software Builder: Governing the Army’s New Digital Workforce
+   War on the Rocks | 2026-03-30 08:00
+   https://warontherocks.com/2026/03/every-soldier-a-software-builder-governing-the-armys-new-digital-workforce/
+   Theme: AI/ML Military
+   
+   This article addresses practical implementation of military software development capabilities, which directly connects to AI/ML orchestration and operational implementation that JJ values. The focus on internal military capacity building rather than contractor dependence offers genuine insights for field-grade officers on digital transformation.
+   → The governance and organizational challenges of building internal software capability directly inform how to teach JADO implementation and prepare officers for leading digital transformation initiatives.
+   Connects to: JADO, JADC2, PME Innovation
+
+2. [SCORE: 7/10] The Sisyphean Struggle for Influence Campaigning in Competition
+   Modern War Institute | 2026-03-30 09:21
+   https://mwi.westpoint.edu/the-sisyphean-struggle-for-influence-campaigning-in-competition/
+   Theme: JADO
+   
+   This article addresses influence operations as a critical domain in multi-domain warfare, examining the operational challenges of conducting information campaigns during competition phases. The focus on practical implementation struggles and the 'Sisyphean' nature of influence campaigning suggests it offers realistic practitioner insights rather than theoretical frameworks.
+   → Provides teaching material on the integration challenges of information operations within JADO frameworks, particularly relevant for strategic planning coursework at MCU.
+   Connects to: Current Conflicts, PME Innovation
+
+3. [SCORE: 6/10] Putin Is Not Trapped: Why Regime Survival Does Not Depend on Victory
+   War on the Rocks | 2026-03-30 07:30
+   https://warontherocks.com/2026/03/putin-is-not-trapped-why-regime-survival-does-not-depend-on-victory/
+   Theme: Current Conflicts
+   
+   This strategic analysis challenges conventional wisdom about Putin's motivations and constraints, offering insights into adversary decision-making that could inform strategic planning coursework. However, it appears to be primarily political analysis rather than operational military insights from the Ukraine conflict.
+   → Provides a counternarrative case study for teaching strategic planning and adversary analysis, particularly useful for challenging officer assumptions about enemy decision-making in Joint All-Domain Operations scenarios.
+   Connects to: JADO, PME Innovation
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (2 more)
+================================================================================
+
+
+Current Conflicts (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] Punish Russia for Helping Iran Target the U.S. Military
+War on the Rocks | https://warontherocks.com/2026/03/punish-russia-for-helping-iran-target-the-u-s-military/
+This article addresses ongoing geopolitical tensions and military targeting issues in the Middle East, which could provide context for understanding multi-domain threats. However, it appears focused on policy recommendations rather than operational insights or tactical innovations that would directly benefit field-grade officers.
+
+
+PME Innovation (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] The Importance of the Raid of Nassau
+War on the Rocks | https://warontherocks.com/2026/03/the-importance-of-the-raid-of-nassau/
+This historical analysis of the Marines' first amphibious operation offers potential teaching material for joint operations concepts and could provide useful case study material for PME curriculum. However, without seeing the full article, it's unclear if it draws meaningful connections to modern multi-domain operations or offers fresh analytical insights beyond standard military history.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 2
+  AI/ML Military: 1
+  JADO: 1
+  PME Innovation: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
