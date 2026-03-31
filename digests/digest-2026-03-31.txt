@@ -1,0 +1,94 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-03-31 11:28
+Articles reviewed: 17 | High-value (≥6/10): 9
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] The Trump Administration Had No Plan for the War with Iran
+   War on the Rocks | 2026-03-31 07:30
+   https://warontherocks.com/2026/03/the-trump-administration-had-no-plan-for-the-war-with-iran/
+   Theme: Current Conflicts
+   
+   This appears to be a practitioner's retrospective analysis of strategic planning failures in a major regional conflict, offering operational lessons about military planning and execution. The Marine infantry background of the author provides credible field-grade perspective on strategic decision-making processes.
+   → Strategic planning case study from a Marine perspective would provide excellent teaching material for joint operations courses and strategic planning instruction at MCU.
+   Connects to: JADO, PME Innovation
+
+2. [SCORE: 8/10] Every Soldier a Software Builder: Governing the Army’s New Digital Workforce
+   War on the Rocks | 2026-03-30 08:00
+   https://warontherocks.com/2026/03/every-soldier-a-software-builder-governing-the-armys-new-digital-workforce/
+   Theme: AI/ML Military
+   
+   This article addresses practical implementation of military software development capabilities, moving beyond policy to examine governance and operational challenges of having service members build software tools. It connects directly to AI/ML orchestration and JADC2 implementation while offering insights into organizational transformation that's highly relevant for field-grade officers.
+   → The governance frameworks and lessons from service software factories provide excellent case studies for teaching strategic implementation of technical capabilities and could inform MCU curriculum on managing digital transformation in military organizations.
+   Connects to: JADC2, PME Innovation, JADO
+
+3. [SCORE: 8/10] Iran shows the emerging crisis of the US airborne battle management fleet
+   Breaking Defense | 2026-03-30 14:33
+   https://breakingdefense.com/2026/03/iran-shows-the-enduring-need-and-emerging-crisis-of-the-us-airborne-battle-management-fleet/
+   Theme: JADC2
+   
+   This article addresses critical operational challenges in airborne battle management systems that are central to JADC2 implementation, using recent Iran operations as a concrete case study. It likely provides practical insights into command and control limitations that field-grade officers need to understand for multi-domain operations planning.
+   → This offers real-world operational lessons on C2 system limitations that JJ can use to teach the practical challenges of implementing joint all-domain command and control in his MCU courses.
+   Connects to: JADO, Current Conflicts
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (6 more)
+================================================================================
+
+
+Current Conflicts (4 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] The Cost of Hesitation: Why “Finishing the Mission” is Imperative in Iran
+War on the Rocks | https://warontherocks.com/2026/03/the-cost-of-hesitation-why-finishing-the-mission-is-imperative-in-iran/
+This appears to be a debate-format article examining strategic decision-making in an ongoing Middle Eastern conflict, likely offering practitioner perspectives on operational choices and their consequences. The format suggests it will present both sides of a complex strategic question, which is valuable for teaching strategic thinking and decision-making processes.
+
+
+[7/10] Successes and Setbacks
+War on the Rocks | https://warontherocks.com/2026/03/successes-and-setbacks/
+This weekly Ukrainian commentary digest provides primary source insights from Ukrainian perspectives on ongoing operations, which offers valuable ground truth for understanding tactical innovations and operational developments. The format as a curated digest of local analysis makes it particularly useful for tracking genuine developments versus Western media coverage.
+
+
+[7/10] Putin Is Not Trapped: Why Regime Survival Does Not Depend on Victory
+War on the Rocks | https://warontherocks.com/2026/03/putin-is-not-trapped-why-regime-survival-does-not-depend-on-victory/
+This article challenges conventional strategic thinking about adversary decision-making calculus, which is essential for operational planning and strategic assessment. It provides analytical frameworks for understanding regime survival motivations that directly inform military planning assumptions about Russian behavior in Ukraine.
+
+
+[7/10] The US Navy wants you ... to make ‘Drone Killer’ ammunition
+C4ISRNET | https://www.c4isrnet.com/industry/techwatch/2026/03/30/the-us-navy-wants-you-to-make-drone-killer-ammunition/
+This addresses a practical tactical innovation emerging from current drone threats, showing real-world adaptation to small UAS proliferation. The Navy's move from prototype to mass production indicates operational validation of counter-drone solutions at the individual/small unit level.
+
+
+JADC2 (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] First set of defensive cyber kits to be delivered to CYBERCOM units
+Breaking Defense | https://breakingdefense.com/2026/03/first-set-of-defensive-cyber-kits-to-be-delivered-to-cybercom-units/
+Defensive cyber kits represent a tactical implementation of cyber domain capabilities within the broader JADC2 framework, but the article appears to focus on delivery announcements rather than operational implications or integration challenges. The practical deployment aspect has some value for understanding how cyber capabilities are being fielded to operational units.
+
+
+JADO (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] The Sisyphean Struggle for Influence Campaigning in Competition
+Modern War Institute | https://mwi.westpoint.edu/the-sisyphean-struggle-for-influence-campaigning-in-competition/
+This article addresses influence operations as a critical domain in competition and warfare, which is essential for understanding multi-domain operations beyond kinetic effects. The focus on practical challenges and operational implications makes it valuable for field-grade officers learning to integrate information warfare into joint planning.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 5
+  JADC2: 2
+  AI/ML Military: 1
+  JADO: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
