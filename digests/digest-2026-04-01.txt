@@ -1,0 +1,141 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-04-01 11:32
+Articles reviewed: 26 | High-value (≥6/10): 17
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] The Most Important Deterrent That NATO Needs Is Creativity
+   War on the Rocks | 2026-04-01 07:30
+   https://warontherocks.com/2026/04/the-most-important-deterrent-that-nato-needs-is-creativity-2/
+   Theme: PME Innovation
+   
+   This article directly addresses the mindset and cognitive dimensions of military innovation, which is core to developing strategic thinkers in PME. The focus on creativity as a deterrent concept offers a fresh framework for teaching adaptability and innovation to field-grade officers.
+   → This provides a valuable teaching framework for developing the creative thinking capabilities essential for officers operating in the complex, multi-domain environment that JJ will be teaching at MCU.
+   Connects to: JADO, AI/ML Military
+
+2. [SCORE: 8/10] The Arsenal as the Battlefield: The War on Iran and the Return of Counter-Industrial Targeting
+   War on the Rocks | 2026-04-01 07:15
+   https://warontherocks.com/2026/04/the-arsenal-as-the-battlefield-the-war-on-iran-and-the-return-of-counter-industrial-targeting/
+   Theme: Current Conflicts
+   
+   This article examines counter-industrial targeting strategies in a hypothetical Iran conflict, offering operational insights into how modern warfare might target adversary production capabilities rather than just deployed forces. The analysis likely provides strategic-level thinking about multi-domain operations and has clear implications for understanding how future conflicts with peer competitors like China might unfold.
+   → The counter-industrial targeting concept provides excellent case study material for teaching joint strategic planning and multi-domain operations, particularly how operations across domains can target adversary industrial capacity rather than just tactical forces.
+   Connects to: JADO, JADC2
+
+3. [SCORE: 8/10] Holding Water Hostage
+   War on the Rocks | 2026-03-31 17:30
+   https://warontherocks.com/2026/03/holding-water-hostage/
+   Theme: Current Conflicts
+   
+   This article addresses critical infrastructure targeting in ongoing Middle East conflict, providing operational insights into multi-domain vulnerabilities and strategic implications of non-kinetic warfare through essential services disruption. The focus on desalination facilities as strategic targets offers concrete examples of how modern warfare extends beyond traditional military assets.
+   → Excellent case study for teaching multi-domain operations concepts, demonstrating how critical infrastructure becomes a key terrain in joint all-domain warfare that requires cross-domain protection and response strategies.
+   Connects to: JADO, JADC2
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (14 more)
+================================================================================
+
+
+AI/ML Military (3 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] The U.S. Military Risks Letting Contractors Define How It Sees the Battlefield
+War on the Rocks | https://warontherocks.com/2026/03/the-u-s-military-risks-letting-contractors-define-how-it-sees-the-battlefield/
+This article addresses a critical operational concern about civilian contractors potentially shaping military decision-making through AI systems and battlefield sensors, which directly impacts command authority and operational effectiveness. The reference to Dr. Strangelove suggests it explores dangerous automation scenarios where contractors' technical implementations could override military judgment.
+
+
+[7/10] China’s AI Is Spreading Fast. Here’s How to Stop the Security Risks
+War on the Rocks | https://warontherocks.com/2026/04/chinas-ai-is-spreading-fast-heres-how-to-stop-the-security-risks/
+This article addresses strategic implications of Chinese AI proliferation with specific operational data (1% to 30% market share growth, 700M downloads) that field-grade officers need to understand. The focus on security risks from widespread adoption of Chinese AI systems directly impacts military decision-making and force protection considerations.
+
+
+[6/10] Startup takes a different approach to AI assistants
+Defense One | https://www.defenseone.com/technology/2026/04/startup-takes-different-approach-ai-assistants/412545/
+Article focuses on a veteran-founded AI assistant startup targeting military applications, which aligns with JJ's AI/ML background and the Pentagon's interest in agentic AI. However, without access to specific operational details or implementation insights, it appears to be primarily a company profile rather than deep operational analysis.
+
+
+Current Conflicts (5 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] The Trump Administration Had No Plan for the War with Iran
+War on the Rocks | https://warontherocks.com/2026/03/the-trump-administration-had-no-plan-for-the-war-with-iran/
+This appears to be a practitioner perspective on strategic planning failures in a hypothetical Iran conflict, offering operational lessons about war planning and execution. The Marine infantry background of the author and focus on planning shortcomings provides field-grade officer insights relevant to strategic planning instruction.
+
+
+[7/10] The Cost of Hesitation: Why “Finishing the Mission” is Imperative in Iran
+War on the Rocks | https://warontherocks.com/2026/03/the-cost-of-hesitation-why-finishing-the-mission-is-imperative-in-iran/
+This appears to be a debate-style article from a legislator with military background providing operational perspective on Iran conflict strategy. The 'for/against' format and practitioner viewpoint could offer valuable strategic decision-making case studies for teaching, though the advocacy nature may limit analytical depth.
+
+
+[7/10] Successes and Setbacks
+War on the Rocks | https://warontherocks.com/2026/03/successes-and-setbacks/
+This weekly digest provides direct Ukrainian perspectives on ongoing operations, which offers valuable primary source insights beyond typical Western analysis. The curated format from across Ukraine's political spectrum could provide diverse viewpoints for teaching strategic thinking about current conflict dynamics.
+
+
+[7/10] ‘Of course’ Navy leader ‘concerned’ that Iran conflict diminishes US ability to deter China
+Breaking Defense | https://breakingdefense.com/2026/03/of-course-navy-leader-concerned-that-iran-conflict-diminishes-us-ability-to-deter-china/
+This addresses a critical strategic planning challenge - resource allocation across multiple theaters and the operational implications of multi-front conflicts. While the summary is incomplete, the core tension between Iran operations and China deterrence represents exactly the kind of strategic trade-off analysis field-grade officers must understand.
+
+
+[6/10] Ukraine attacks on oil and gas to be ‘painful’ for Russian economy: Official
+Breaking Defense | https://breakingdefense.com/2026/03/ukraine-attacks-on-oil-and-gas-to-be-painful-for-russian-economy-official/
+This article discusses economic warfare targeting critical infrastructure in the Ukraine conflict, which represents a key domain in JADO operations. However, the summary appears incomplete and likely focuses more on policy/economic analysis rather than operational tactics or lessons learned from the targeting methodology.
+
+
+JADC2 (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] Iran shows the emerging crisis of the US airborne battle management fleet
+Breaking Defense | https://breakingdefense.com/2026/03/iran-shows-the-enduring-need-and-emerging-crisis-of-the-us-airborne-battle-management-fleet/
+This article directly addresses critical operational challenges in airborne battle management systems that are central to JADC2 implementation, using Iran as a real-world case study. It likely provides concrete examples of command and control vulnerabilities and fleet readiness issues that field-grade officers need to understand for multi-domain operations planning.
+
+
+[6/10] First set of defensive cyber kits to be delivered to CYBERCOM units
+Breaking Defense | https://breakingdefense.com/2026/03/first-set-of-defensive-cyber-kits-to-be-delivered-to-cybercom-units/
+This article covers practical implementation of defensive cyber capabilities at the operational unit level, which directly relates to JADC2's requirement for secure command and control networks. However, the summary suggests it may be more of a program announcement than deep operational analysis.
+
+
+JADO (3 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] The Navy’s ‘Fighting Instructions’ fails its own test
+Breaking Defense | https://breakingdefense.com/2026/03/the-navys-fighting-instructions-fails-its-own-test/
+A critical analysis of the Navy's doctrinal publication 'Fighting Instructions' offers valuable insights into how service-specific doctrine integrates (or fails to integrate) with joint all-domain concepts. This type of doctrinal critique provides practical teaching material for understanding implementation gaps between policy and operational reality.
+
+
+[7/10] Washington questions NATO alliance, as Spain fences off airspace
+Breaking Defense | https://breakingdefense.com/2026/03/washington-questions-nato-alliance-as-spain-fences-off-airspace/
+This article addresses critical operational challenges in Joint All-Domain Operations, specifically how alliance politics can fragment multi-domain integration and create command/control seams that adversaries can exploit. The Spain airspace restriction scenario illustrates real-world constraints on JADO implementation that field-grade officers must understand and plan around.
+
+
+[6/10] Rheinmetall teams with Boeing for German Ghost Bat offer
+Breaking Defense | https://breakingdefense.com/2026/03/rheinmetall-teams-with-boeing-for-german-ghost-bat-offer/
+This covers international defense industrial cooperation on unmanned systems that will likely integrate into multi-domain operations, but appears to be primarily a business partnership announcement rather than operational doctrine or implementation insights. The Ghost Bat platform has JADO relevance as a loyal wingman system, but without access to operational details, this reads more like industry news.
+
+
+PME Innovation (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Want Combat-Ready Units? Don’t Let the Connected World Fracture Unit Cohesion
+Modern War Institute | https://mwi.westpoint.edu/want-combat-ready-units-dont-let-the-connected-world-fracture-unit-cohesion/
+This article addresses a critical challenge for modern military education and operations - how digital connectivity affects unit cohesion, which is fundamental to combat effectiveness. It likely provides practical insights for PME instructors on balancing technology integration with traditional military values and social bonding.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 7
+  AI/ML Military: 3
+  JADO: 3
+  PME Innovation: 2
+  JADC2: 2
+
+================================================================================
+END OF DIGEST
+================================================================================
