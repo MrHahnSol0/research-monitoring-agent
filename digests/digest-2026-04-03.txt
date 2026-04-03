@@ -1,0 +1,127 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-04-03 11:13
+Articles reviewed: 28 | High-value (≥6/10): 15
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] The Global Ripple Effect of the War in Iran
+   War on the Rocks | 2026-04-02 17:30
+   https://warontherocks.com/2026/04/the-global-ripple-effect-of-the-war-in-iran/
+   Theme: Current Conflicts
+   
+   This article analyzes an active conflict with Iran, providing contemporary operational lessons and strategic implications that directly inform current military thinking. As a War on the Rocks piece focusing on global ripple effects, it likely offers the kind of practitioner-level analysis of multi-domain warfare dynamics that provides real teaching value for joint operations education.
+   → Contemporary conflict analysis with Iran provides immediate case study material for teaching JADO concepts and strategic planning at MCU, particularly regarding escalation dynamics and multi-domain integration challenges.
+   Connects to: JADO, JADC2
+
+2. [SCORE: 8/10] The Folly of Seizing Kharg Island
+   War on the Rocks | 2026-04-01 14:53
+   https://warontherocks.com/2026/04/the-folly-of-seizing-kharg-island/
+   Theme: Current Conflicts
+   
+   This article analyzes a hypothetical amphibious operation against a critical strategic target during an Iran conflict, offering operational-level insights about multi-domain considerations in seizing key infrastructure. The focus on operational folly and strategic miscalculation provides valuable case study material for teaching complex operational planning.
+   → Excellent teaching case for JADO coursework on how single-domain thinking fails in complex operational environments and the importance of cross-domain effects analysis in strategic planning.
+   Connects to: JADO, PME Innovation
+
+3. [SCORE: 8/10] Hormuz disruption will change trade — and defense — at other chokepoints
+   Breaking Defense | 2026-04-01 18:23
+   https://breakingdefense.com/2026/04/hormuz-disruption-will-change-trade-and-defense-at-other-chokepoints/
+   Theme: JADO
+   
+   This article provides operational insights into how maritime chokepoint disruptions create cascading effects across multiple domains and geographic regions, directly relevant to JADO planning and cross-domain operations. It offers concrete analysis of how disruption at one strategic point affects global trade routes and defense postures at other chokepoints, providing valuable case study material for understanding domain interdependencies.
+   → This provides excellent teaching material for demonstrating how single-domain actions (maritime blockade) create multi-domain strategic effects across geography, economics, and military positioning - perfect for JADO curriculum development.
+   Connects to: Current Conflicts, PME Innovation
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (12 more)
+================================================================================
+
+
+AI/ML Military (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] AI may revive old-school tradecraft even as it transforms intelligence work
+Defense One | https://www.defenseone.com/technology/2026/04/AI-tradecraft-intelligence-CIA/412557/
+This article explores a counterintuitive operational implication of AI adoption - that increased AI capabilities may necessitate returning to human-centric intelligence methods due to trust degradation in digital communications. The practitioner perspective from a former CIA agent provides real-world insights into how AI transforms not just capabilities but fundamental tradecraft approaches.
+
+
+Current Conflicts (6 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] From Filament to Firepower: 3D Printing’s Impact on Warfare
+War on the Rocks | https://warontherocks.com/2026/04/from-filament-to-firepower-3d-printings-impact-on-warfare/
+This article addresses emerging battlefield innovations from Ukraine with direct operational implications for logistics, sustainment, and manufacturing doctrine. The focus on practical implementation of 3D printing for weapons production offers genuine insights beyond typical technology coverage.
+
+
+[7/10] The Iran War and the Energy Lesson We Failed to Learn
+War on the Rocks | https://warontherocks.com/2026/04/the-iran-war-and-the-energy-lesson-we-failed-to-learn/
+This article addresses energy vulnerabilities as a critical operational factor in multi-domain conflict, offering strategic lessons about economic warfare and infrastructure targeting that are highly relevant for joint operations planning. The focus on how regional conflicts escalate into global economic shocks provides valuable case study material for understanding modern warfare's interconnected nature.
+
+
+[7/10] Ukraine claims near-90% air-defense success in March as attacks increase
+C4ISRNET | https://www.c4isrnet.com/global/europe/2026/04/01/ukraine-claims-near-90-air-defense-success-in-march-as-attacks-increase/
+This provides concrete operational data on air defense effectiveness trends in an active conflict, offering quantifiable insights into multi-domain defensive operations. The claimed 90% success rate against increasing attack frequency represents valuable real-world performance metrics for integrated air defense systems.
+
+
+[7/10] Five Questions for a General: Lieutenant General Curtis Buzzard and Major General Volodymyr Horbatiuk
+Modern War Institute | https://mwi.westpoint.edu/five-questions-for-a-general-lieutenant-general-curtis-buzzard-and-major-general-volodymyr-horbatiuk/
+This appears to be an interview format with both a US Lieutenant General and Ukrainian Major General, likely offering practitioner insights from ongoing conflict experience. The dual perspective could provide valuable operational lessons and real-world implementation challenges that would be highly relevant for teaching strategic planning.
+
+
+[6/10] From Theory to Reality: Evaluating the U.S.-Ukrainian Minerals Deal
+War on the Rocks | https://warontherocks.com/2026/04/from-theory-to-reality-evaluating-the-u-s-ukrainian-minerals-deal/
+This article evaluates strategic resource implications from the Ukraine conflict, offering potential insights into economic dimensions of warfare and post-conflict planning. However, it appears more focused on policy analysis than operational lessons or tactical innovations that would directly inform military practitioners.
+
+
+[6/10] Pentagon, Boeing announce plan to triple Patriot PAC-3 seeker production
+Breaking Defense | https://breakingdefense.com/2026/04/pentagon-boeing-announce-plan-to-triple-patriot-pac-3-seeker-production/
+This production scaling announcement reflects operational lessons from Ukraine conflict where air defense interceptor consumption has far exceeded peacetime planning assumptions. The tripling of production capacity indicates Pentagon recognition that high-intensity conflict demands significantly different logistics planning for precision munitions.
+
+
+JADO (4 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Air Force strategy to protect aircraft was designed for China. Will it work for Iran?
+Breaking Defense | https://breakingdefense.com/2026/04/air-force-strategy-to-protect-aircraft-was-designed-for-china-will-it-work-for-iran/
+This article examines the operational adaptability of multi-domain defense strategies across different threat environments, specifically questioning whether concepts designed for one adversary (China) translate effectively to another (Iran). It likely offers practical insights into the flexibility and limitations of JADO implementation when facing varied threat profiles.
+
+
+[7/10] The Changing Character—and Enduring Nature—of Command
+Modern War Institute | https://mwi.westpoint.edu/the-changing-character-and-enduring-nature-of-command/
+This MWI article examines how command structures and practices are evolving for large-scale combat operations, which is directly relevant to JADO implementation and the operational challenges field-grade officers face in multi-domain environments. The focus on enduring principles versus changing character provides a useful framework for understanding command in complex operational domains.
+
+
+[6/10] Space Force plans to establish HQ staff group as surrogate Futures Command
+Breaking Defense | https://breakingdefense.com/2026/04/space-force-plans-to-establish-hq-staff-group-as-surrogate-futures-command/
+The Space Force's organizational restructuring to create a Futures Command surrogate demonstrates institutional adaptation for multi-domain operations planning and capability development. While organizationally significant for space domain integration in JADO, the article appears to focus more on bureaucratic structure than operational implications.
+
+
+[6/10] From launch to recovery: Here’s how Space Force is backing NASA’s Artemis II mission
+Defense One | https://www.defenseone.com/technology/2026/04/launch-recovery-heres-how-space-force-backing-nasas-artemis-ii-mission/412571/
+Space Force supporting NASA's Artemis II mission demonstrates military-civilian space domain integration and could provide practical examples of cross-domain coordination challenges. However, without seeing the full article content, this appears to be more operational support rather than innovative JADO concepts or lessons learned.
+
+
+PME Innovation (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] A 250-Year Arsenal of Innovation: A Call for Articles on American Defense Technologies
+War on the Rocks | https://warontherocks.com/2026/04/a-250-year-arsenal-of-innovation-a-call-for-articles-on-american-defense-technologies/
+This is a call for articles rather than substantive content, but it signals a comprehensive historical survey of American defense technologies that could provide valuable teaching materials. The 250-year perspective on innovation patterns could offer useful frameworks for understanding technological evolution in warfare, though the actual value depends on the quality of submissions received.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 8
+  JADO: 5
+  AI/ML Military: 1
+  PME Innovation: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
