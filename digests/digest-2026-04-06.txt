@@ -1,0 +1,39 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-04-06 11:28
+Articles reviewed: 3 | High-value (≥6/10): 2
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] The Age of Unlearning: How Democracies Lost Their Grip on Strategic Time
+   War on the Rocks | 2026-04-06 07:30
+   https://warontherocks.com/2026/04/the-age-of-unlearning-how-democracies-lost-their-grip-on-strategic-time/
+   Theme: PME Innovation
+   
+   This article addresses a fundamental challenge in strategic thinking - how institutional incentives and time horizons affect military planning and decision-making. The focus on 'unlearning' and strategic time management directly relates to how military education should prepare officers to think beyond immediate tactical concerns toward long-term strategic implications.
+   → This provides a crucial framework for teaching strategic planning at MCU by examining how time compression and institutional pressures undermine the long-term thinking essential for effective joint all-domain operations.
+   Connects to: JADO
+
+2. [SCORE: 8/10] Poland Bought Reapers. The Battlefield Has Moved On.
+   Modern War Institute | 2026-04-06 07:20
+   https://mwi.westpoint.edu/poland-bought-reapers-the-battlefield-has-moved-on/
+   Theme: Current Conflicts
+   
+   This article directly addresses the expensive platform vs. cheap mass debate that's central to current military thinking, using Ukraine conflict lessons to challenge traditional acquisition approaches like Poland's Reaper purchase. It offers practical insights into how battlefield realities are reshaping force structure decisions.
+   → Perfect case study for teaching JADO concepts about platform survivability across domains and how Ukrainian innovations challenge traditional air asset employment doctrine.
+   Connects to: JADO, AI/ML Military
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  PME Innovation: 1
+  Current Conflicts: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
