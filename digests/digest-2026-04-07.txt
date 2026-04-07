@@ -1,0 +1,116 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-04-07 11:31
+Articles reviewed: 17 | High-value (≥6/10): 12
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] The Hidden System Turning Chinese Tech Companies into Military Suppliers
+   War on the Rocks | 2026-04-07 08:00
+   https://warontherocks.com/2026/04/the-hidden-system-turning-chinese-tech-companies-into-military-suppliers-2/
+   Theme: AI/ML Military
+   
+   This article provides critical operational intelligence on how China's military-civil fusion systematically converts commercial tech companies into defense suppliers, particularly relevant for understanding adversary capabilities in AI/robotics. It offers concrete insights into dual-use technology pathways that field-grade officers need to understand for strategic planning and force development.
+   → Essential case study material for teaching students about adversary technology integration strategies and the operational implications of military-civil fusion in multi-domain competition.
+   Connects to: JADO, Current Conflicts
+
+2. [SCORE: 8/10] Closing the Air and Missile Defense Gap in the Indo-Pacific
+   War on the Rocks | 2026-04-07 07:30
+   https://warontherocks.com/2026/04/closing-the-air-and-missile-defense-gap-in-the-indo-pacific/
+   Theme: JADO
+   
+   This article provides operational insights on multi-domain air and missile defense integration lessons from a recent conflict, directly applicable to JADO concepts. It offers concrete examples of cross-domain coordination challenges and solutions that field-grade officers need to understand for Indo-Pacific operations.
+   → The operational lessons from integrated air and missile defense coordination provide excellent case study material for teaching JADO implementation challenges and cross-domain integration at MCU.
+   Connects to: Current Conflicts, JADC2
+
+3. [SCORE: 8/10] Iran’s Anti-Access and Area Denial Strategy Is Cruder Than China’s But Still Dangerous
+   War on the Rocks | 2026-04-07 07:15
+   https://warontherocks.com/2026/04/irans-anti-access-and-area-denial-strategy-is-cruder-than-chinas-but-still-dangerous/
+   Theme: JADO
+   
+   This article directly addresses A2/AD challenges across multiple domains, which is core to JADO implementation and planning. The comparison between Iranian and Chinese A2/AD approaches provides valuable operational context for understanding different threat environments that joint force commanders must navigate.
+   → Perfect case study material for teaching JADO concepts at MCU, offering concrete examples of how different adversaries implement multi-domain denial strategies that Marines must overcome.
+   Connects to: Current Conflicts, JADC2
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (9 more)
+================================================================================
+
+
+AI/ML Military (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] General Atomics CCA drone wingman prototype crashes in California
+Breaking Defense | https://breakingdefense.com/2026/04/general-atomics-cca-drone-wingman-prototype-crashes-in-california/
+CCA drone wingman crashes provide real-world data on autonomous system reliability and human-machine teaming challenges in military aviation. This offers concrete case study material for understanding operational risks and limitations of AI-enabled military systems, moving beyond theoretical discussions to actual implementation lessons.
+
+
+[7/10] Outpaced by the US, China’s military places selective bets on artificial intelligence
+C4ISRNET | https://www.c4isrnet.com/global/asia-pacific/2026/04/07/outpaced-by-the-us-chinas-military-places-selective-bets-on-artificial-intelligence/
+Provides comparative analysis of US-China military AI capabilities with specific focus on drone swarms, offering operational insights into peer competitor capabilities. The selective betting approach and specific domain focus (swarms) gives practical intelligence assessment perspective rather than generic AI hype.
+
+
+Current Conflicts (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] Poland Bought Reapers. The Battlefield Has Moved On.
+Modern War Institute | https://mwi.westpoint.edu/poland-bought-reapers-the-battlefield-has-moved-on/
+This article directly addresses a critical operational lesson from Ukraine - the evolution from expensive, exquisite platforms to cheap, mass-producible systems. It provides concrete battlefield insights about how warfare has changed and challenges traditional acquisition thinking with evidence from ongoing conflict.
+
+
+JADC2 (3 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Army’s Scarlet Dragon exercise adds commercial data to battlefield data flows
+Breaking Defense | https://breakingdefense.com/2026/04/armys-scarlet-dragon-exercise-adds-commercial-data-to-battlefield-data-flows/
+This exercise demonstrates practical implementation of commercial data integration into military command and control systems, showing real operational testing rather than just policy announcements. The focus on data flows and battlefield integration provides concrete insights into JADC2 implementation challenges that field-grade officers need to understand.
+
+
+[7/10] As aircraft losses mount, Pentagon wants a software fix to see through the fog of war
+Defense One | https://www.defenseone.com/technology/2026/04/aircraft-losses-mount-pentagon-wants-software-fix-see-through-fog-war/412667/
+This addresses a critical JADC2 challenge - integrating legacy platforms into modern data-sharing networks - with apparent lessons from real combat losses. The focus on software solutions for aircraft interoperability directly relates to operational C2 implementation challenges.
+
+
+[6/10] DIU wants ‘moving map’ to help aircrews with situational awareness
+Breaking Defense | https://breakingdefense.com/2026/04/diu-wants-moving-map-to-help-aircrews-with-situational-awareness/
+The DIU's moving map initiative for aircrew situational awareness represents a practical JADC2 implementation focused on real-time data integration and display. While tactically relevant, the article likely focuses on procurement rather than operational implications or cross-domain integration challenges.
+
+
+JADO (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] Reopening the Strait of Hormuz & Saving Downed Pilots
+War on the Rocks | https://warontherocks.com/2026/04/reopening-the-strait-of-hormuz-saving-downed-pilots/
+Two retired admirals with operational experience discussing multi-domain challenges in a critical chokepoint provides practical insights into joint operations coordination. The Strait of Hormuz scenario combines naval, air, and likely space/cyber domains, offering real-world case study material for teaching joint planning.
+
+
+PME Innovation (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] The Age of Unlearning: How Democracies Lost Their Grip on Strategic Time
+War on the Rocks | https://warontherocks.com/2026/04/the-age-of-unlearning-how-democracies-lost-their-grip-on-strategic-time/
+This article addresses a fundamental challenge in strategic thinking and planning that directly impacts how military education should teach strategic time horizons. The focus on institutional degradation of strategic thinking capabilities offers critical insights for PME curriculum development and teaching strategic planning.
+
+
+[6/10] Podcast: The Spear – The Ranger Regiment’s Fighting Platoon Sergeant
+Modern War Institute | https://mwi.westpoint.edu/podcast-the-spear-the-ranger-regiments-fighting-platoon-sergeant/
+This podcast offers practitioner insights from a senior NCO with extensive Ranger Regiment experience, providing real-world leadership lessons that could inform PME curriculum. However, it appears focused on traditional ground-domain leadership rather than multi-domain operations or emerging warfare concepts.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  AI/ML Military: 3
+  JADO: 3
+  JADC2: 3
+  PME Innovation: 2
+  Current Conflicts: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
