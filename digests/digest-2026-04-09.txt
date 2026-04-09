@@ -1,0 +1,127 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-04-09 11:34
+Articles reviewed: 23 | High-value (≥6/10): 15
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 9/10] Iran’s Asymmetric Counterair Campaign: Attacking the U.S. Air Force’s Nests and Eggs
+   War on the Rocks | 2026-04-09 07:15
+   https://warontherocks.com/2026/04/irans-asymmetric-counterair-campaign-attacking-the-u-s-air-forces-nests-and-eggs/
+   Theme: Current Conflicts
+   
+   This article provides concrete operational insights into asymmetric counterair strategies targeting critical enablers (AWACS, tankers) rather than fighters, demonstrating how adversaries exploit vulnerabilities in expeditionary air operations. The focus on attacking 'nests and eggs' represents a significant tactical evolution that directly impacts joint operations planning and force protection considerations.
+   → This case study offers excellent teaching material for strategic planning courses, illustrating how asymmetric threats can disrupt joint all-domain operations by targeting command and control nodes and logistics enablers.
+   Connects to: JADO, JADC2
+
+2. [SCORE: 9/10] The Campaign Ends at the Breach: Lessons from Ukraine on Why Armies Fail
+   War on the Rocks | 2026-04-08 07:30
+   https://warontherocks.com/2026/04/the-campaign-ends-at-the-breach-lessons-from-ukraine-on-why-armies-fail/
+   Theme: Current Conflicts
+   
+   This article provides detailed operational analysis of Ukraine's 2023 counteroffensive failure, examining tactical and operational decision-making that led to strategic defeat. The focus on breach operations and multi-brigade coordination offers concrete lessons for field-grade officers on campaign planning and execution.
+   → The breach analysis provides excellent case study material for teaching operational planning and multi-domain coordination challenges to Marine officers at MCU.
+   Connects to: JADO, PME Innovation
+
+3. [SCORE: 7/10] How NATO’s Air Defense Future Is Unfolding
+   War on the Rocks | 2026-04-08 17:30
+   https://warontherocks.com/2026/04/how-natos-air-defense-future-is-unfolding/
+   Theme: JADO
+   
+   This article provides a concrete case study of multi-domain integration challenges through NATO's air defense evolution, offering practical insights into alliance coordination and operational implementation rather than just policy theory. The focus on how theoretical frameworks from 2024 are playing out in practice provides valuable real-world lessons for understanding JADO implementation at scale.
+   → This offers excellent teaching material for demonstrating how strategic planning concepts evolve into operational reality, particularly valuable for illustrating alliance-level JADO coordination challenges to MCU students.
+   Connects to: JADC2, Current Conflicts
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (12 more)
+================================================================================
+
+
+Current Conflicts (4 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] How This Precision Weapon Reengineered Modern War
+War on the Rocks | https://warontherocks.com/2026/04/how-this-precision-weapon-reengineered-modern-war/
+This interview about Paveway's development offers historical context for precision warfare evolution that's directly applicable to understanding current multi-domain operations. The operational insights from precision weapons development provide valuable teaching material for strategic planning courses, especially regarding how technological capabilities reshape warfare.
+
+
+[7/10] The Iran War’s Widening Impacts in the Middle East and North Africa
+War on the Rocks | https://warontherocks.com/2026/04/in-brief-the-iran-wars-widening-impacts-in-the-middle-east-and-north-africa/
+This article provides operational insights into multi-domain conflict escalation patterns and cross-regional impact assessment from an active Iran conflict scenario. The regional ripple effects and multi-state involvement offer valuable case study material for understanding how modern conflicts expand across domains and geographies.
+
+
+[7/10] BAE Systems trials low-cost counter drone solution for Eurofighter Typhoon
+Breaking Defense | https://breakingdefense.com/2026/04/bae-systems-trials-low-cost-counter-drone-solution-for-eurofighter-typhoon/
+This article addresses a critical operational challenge emerging from Ukraine and other conflicts - the proliferation of small, cheap drones that traditional air defense systems struggle to counter cost-effectively. The low-cost counter-drone solution for fighter aircraft represents a practical adaptation to current threat environments that has direct implications for multi-domain operations.
+
+
+[7/10] The HH-60W helped rescue a pilot in Iran. Here’s why the Air Force might not buy more.
+Breaking Defense | https://breakingdefense.com/2026/04/iran-pilot-rescue-hh60-jolly-green-helicopter-trump/
+This article provides operational insights from a recent rescue mission in Iran, demonstrating real-world CSAR capabilities and cross-domain integration. The juxtaposition of successful operational employment against potential procurement cuts offers valuable lessons about capability versus budget realities that field-grade officers face.
+
+
+JADC2 (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Army operations center is trying to solve battlefield data problems in real time
+Defense One | https://www.defenseone.com/technology/2026/04/army-operations-center-trying-solve-battlefield-data-problems-real-time/412693/
+This appears to cover real-time battlefield data integration efforts, which directly relates to JADC2 implementation challenges. The 180-day task force suggests practical testing of operational concepts rather than just policy announcements, making it potentially valuable for understanding current integration efforts.
+
+
+[6/10] Army Data Operations Center is open for requests
+Breaking Defense | https://breakingdefense.com/2026/04/army-data-operations-center-is-open-for-requests/
+The Army Data Operations Center represents a concrete implementation of JADC2 principles, moving from concept to operational capability. However, the article appears to be primarily an announcement piece rather than providing deep operational insights or lessons learned from implementation.
+
+
+JADO (4 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] As more nations seek counterspace chops, GPS jamming also rises: Report
+Breaking Defense | https://breakingdefense.com/2026/04/as-more-nations-seek-counterspace-chops-gps-jamming-also-rises-report/
+GPS jamming represents a critical multi-domain warfare challenge that directly impacts JADO implementation, as space-based navigation systems are foundational to joint operations across all domains. The rising threat from multiple nations provides current operational context that field-grade officers must understand for mission planning and resilience.
+
+
+[7/10] Suspect in space? Analysis finds 75 ‘unusual’ moves by Chinese satellites in nearly 10 years
+Breaking Defense | https://breakingdefense.com/2026/04/suspect-in-space-analysis-finds-75-unusual-moves-by-chinese-satellites-in-nearly-10-years/
+This article provides concrete data on Chinese space domain activities that directly impacts multi-domain operational planning and threat assessment. The identification of 75 'unusual' satellite maneuvers over nearly a decade offers empirical evidence of space domain competition that field-grade officers need to understand for JADO implementation.
+
+
+[7/10] ‘Hybrid constellations’ are making it hard for militaries to hide
+Defense One | https://www.defenseone.com/technology/2026/04/hybrid-constellations-are-making-it-hard-militaries-hide/412728/
+Hybrid satellite constellations directly impact multi-domain operations by affecting concealment, maneuver, and reconnaissance across all domains. The operational implications of reduced military hiding capability fundamentally changes planning assumptions for JADO concepts.
+
+
+[6/10] AFCENT awards Kraus Hamdani $270M for solar-powered, long-endurance drones
+Breaking Defense | https://breakingdefense.com/2026/04/afcent-awards-kraus-hamdani-270m-for-solar-powered-long-endurance-drones/
+Solar-powered long-endurance drones represent a significant capability advancement for persistent ISR and multi-domain operations, particularly relevant for CENTCOM's operational environment. However, this appears to be primarily a contract announcement without detailed operational implications or cross-domain integration insights.
+
+
+PME Innovation (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Bell, M1 advance to final phase of Army’s Flight School Next competition
+Breaking Defense | https://breakingdefense.com/2026/04/bell-m1-advance-to-final-phase-of-armys-flight-school-next-competition/
+This article covers innovations in military flight training methodology, which directly relates to PME evolution and could offer insights into modernizing military education approaches. The competition format and evaluation criteria for next-generation training systems provide practical examples of how military education is adapting to new operational requirements.
+
+
+[7/10] Want a Lethal, War-Winning Army? Read Ulysses S. Grant’s Memoirs
+Modern War Institute | https://mwi.westpoint.edu/want-a-lethal-war-winning-army-read-ulysses-s-grants-memoirs/
+This article addresses a critical gap in military education - the Army's tactical fixation from GWOT - and uses Grant's memoirs as a case study for teaching strategic thinking. The focus on using historical primary sources to correct contemporary strategic deficiencies aligns well with PME curriculum development needs.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 6
+  JADO: 5
+  PME Innovation: 2
+  JADC2: 2
+
+================================================================================
+END OF DIGEST
+================================================================================
