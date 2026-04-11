@@ -1,0 +1,142 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-04-11 11:05
+Articles reviewed: 25 | High-value (≥6/10): 18
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 9/10] Update from the Battlefield: Drones, Distance, and Diminishing Returns for Russia
+   War on the Rocks | 2026-04-09 20:43
+   https://warontherocks.com/2026/04/update-from-the-battlefield-drones-distance-and-diminishing-returns-for-russia/
+   Theme: Current Conflicts
+   
+   This appears to be a battlefield analysis from Michael Kofman, a highly credible defense analyst, providing operational insights on drone warfare's impact on battlefield dynamics and Russian tactical failures. The focus on how drones create dispersed kill zones offers genuine tactical/operational lessons rather than generic war coverage.
+   → Kofman's battlefield observations on drone-enabled dispersed operations provide excellent case study material for teaching multi-domain integration challenges in JJ's JADO curriculum at MCU.
+   Connects to: JADO, AI/ML Military
+
+2. [SCORE: 8/10] Iran’s Other Front: The War Over the Internet
+   War on the Rocks | 2026-04-10 07:15
+   https://warontherocks.com/2026/04/irans-other-front-the-war-over-the-internet/
+   Theme: Current Conflicts
+   
+   This article provides concrete operational insights into information warfare and cyber domain operations during kinetic conflict, demonstrating how Iran weaponizes internet control as a multi-domain strategy. The 98% internet traffic collapse timing and government response offers valuable case study material for understanding modern conflict dynamics.
+   → Excellent teaching case for JADO coursework showing how adversaries integrate information domain control with kinetic operations, providing real-world examples of multi-domain warfare that JJ can use to illustrate cross-domain effects and operational planning considerations.
+   Connects to: JADO, JADC2
+
+3. [SCORE: 8/10] The Golden Dome’s missing layer: On-orbit logistics for a resilient missile defense
+   Breaking Defense | 2026-04-10 12:26
+   https://breakingdefense.com/2026/04/the-golden-domes-missing-layer-on-orbit-logistics-for-a-resilient-missile-defense/
+   Theme: JADO
+   
+   This article addresses a critical gap in multi-domain operations by examining space-based logistics for missile defense, connecting space and air/missile defense domains with practical operational considerations. It likely provides insights into force sustainment across domains that are essential for JADO implementation but often overlooked in favor of kinetic capabilities.
+   → This fills a teaching gap at MCU by addressing the unglamorous but critical logistics dimension of space-based JADO operations, providing real-world examples of cross-domain sustainment challenges that field-grade officers will face.
+   Connects to: JADC2
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (15 more)
+================================================================================
+
+
+AI/ML Military (5 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] The Future Soldier Loadout: Smarter Gear or Dead Weight?
+War on the Rocks | https://warontherocks.com/2026/04/the-future-soldier-loadout-smarter-gear-or-dead-weight/
+This article explores the practical implementation of smart technology in soldier equipment, which directly relates to AI/ML military applications and human-machine teaming concepts. The focus on operational performance and the balance between technological capability and practical burden aligns well with JJ's emphasis on operational implications over hype.
+
+
+[7/10] CIA employees will get AI 'coworkers'—and eventually run teams of AI agents, deputy says
+Defense One | https://www.defenseone.com/technology/2026/04/cia-ai-coworkers-agents/412746/
+This provides concrete operational insights into how intelligence agencies are transitioning from AI tools to AI team integration, offering practical precedents for military AI adoption. The focus on AI agents working alongside humans rather than replacing them addresses real implementation challenges JJ would encounter in joint operations contexts.
+
+
+[7/10] Army debuts data operations center to serve as information hub
+C4ISRNET | https://www.c4isrnet.com/industry/techwatch/2026/04/10/army-debuts-data-operations-center-to-serve-as-information-hub/
+This article describes a concrete implementation of AI/ML integration at the operational level, which provides practical insights into how the Army is institutionalizing data-driven decision making. The focus on a data operations center represents a tangible example of military AI implementation beyond theoretical frameworks, though the actual operational details and lessons learned would determine higher relevance.
+
+
+[7/10] Pentagon’s ouster of Anthropic opens doors for small AI rivals
+C4ISRNET | https://www.c4isrnet.com/pentagon/2026/04/09/pentagons-ouster-of-anthropic-opens-doors-for-small-ai-rivals/
+This article provides operational insights into how Pentagon procurement decisions directly impact AI capabilities available to field commanders, showing real-world consequences of vendor selection on military readiness. It offers concrete examples of how acquisition disruptions affect the AI technology landscape that officers must navigate.
+
+
+[6/10] DIA centralizes AI efforts with Digital Modernization Accelerator
+Breaking Defense | https://breakingdefense.com/2026/04/dia-centralizes-ai-efforts-with-digital-modernization-accelerator/
+This article covers organizational restructuring of AI efforts at DIA, which is relevant to understanding how intelligence agencies are implementing AI/ML capabilities. However, it appears to focus more on administrative/structural changes rather than operational implications or practical implementation insights that would be most valuable.
+
+
+Current Conflicts (3 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] How the Iran conflict might change defense investments in the Gulf
+Breaking Defense | https://breakingdefense.com/2026/04/iran-war-defense-investments-middle-east-defense/
+This article examines how recent Iran conflict experience is driving changes in Gulf state defense procurement and operational priorities, offering concrete lessons about multi-domain warfare adaptations. The focus on investment shifts based on combat experience provides actionable insights for understanding how conflicts reshape defense planning and capability development.
+
+
+[7/10] Ukrainian drone makers visit Paris looking for co-production deals
+C4ISRNET | https://www.c4isrnet.com/global/europe/2026/04/10/ukrainian-drone-makers-visit-paris-looking-for-co-production-deals/
+This article offers insights into how Ukraine is leveraging battlefield-tested drone technology for international defense partnerships, representing a practical example of how combat experience translates into operational capabilities and industrial cooperation. The focus on 'lessons learned' from actual combat provides valuable case study material for understanding modern warfare adaptations.
+
+
+[6/10] Israel to ramp up production of Arrow interceptors
+Breaking Defense | https://breakingdefense.com/2026/04/israel-to-ramp-up-production-of-arrow-interceptors/
+This article covers Israeli defense production scaling in response to ongoing multi-front conflicts, providing insights into industrial base mobilization and missile defense operations. However, it appears to be primarily a production announcement rather than offering deep operational lessons or tactical innovations.
+
+
+JADC2 (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] How the Army is developing its C2 plans
+Breaking Defense | https://breakingdefense.com/2026/04/how-the-army-is-developing-its-c2-plans/
+Army C2 development plans directly relate to JADC2 implementation and would provide concrete service-level insights into operational command and control challenges. The article likely contains practitioner perspectives on integration efforts that would be valuable for understanding cross-service coordination issues.
+
+
+[6/10] Space Force programs supporting Golden Dome see big FY27 budget boost
+Breaking Defense | https://breakingdefense.com/2026/04/golden-dome-spending-plan-fy27-budget-space-force/
+Golden Dome represents a key space-based sensor layer for multi-domain command and control, making budget increases operationally significant for understanding future C2 capabilities. However, this appears to be primarily budget/acquisition news rather than operational analysis or lessons learned.
+
+
+JADO (5 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Disperse to Survive: The Logic of French Forward Deterrence
+War on the Rocks | https://warontherocks.com/2026/04/disperse-to-survive-the-logic-of-french-forward-deterrence/
+French forward deterrence doctrine involving dispersed strategic forces directly relates to multi-domain operations and alliance integration challenges. The operational implications of deploying strategic assets across European territories offers concrete examples of JADO implementation at the strategic level.
+
+
+[7/10] Space Force slates $1.8B for commercial sats to replace GSSAP neighborhood watch birds
+Breaking Defense | https://breakingdefense.com/2026/04/space-force-slates-1-8b-for-commercial-sats-to-replace-gssap-neighborhood-watch-birds/
+This represents a significant shift in space domain operations with the Space Force moving from government-owned GSSAP satellites to commercial space situational awareness capabilities. The $1.8B investment indicates serious commitment to leveraging commercial partnerships for domain awareness, which has direct implications for multi-domain operations integration and command structures.
+
+
+[7/10] UK accuses Russia of covert submarine operation threatening undersea cables
+Breaking Defense | https://breakingdefense.com/2026/04/uk-accuses-russia-of-covert-submarine-operation-threatening-undersea-cables/
+This article addresses critical undersea domain threats that directly impact joint operations, particularly the vulnerability of communications infrastructure that enables multi-domain coordination. The covert submarine operations represent a concrete example of how adversaries can target the foundational networks that JADO depends upon.
+
+
+[7/10] China’s dual-use ambitions could severely threaten America’s force posture
+Breaking Defense | https://breakingdefense.com/2026/04/chinas-dual-use-ambitions-could-severely-threaten-americas-force-posture/
+China's dual-use infrastructure development directly impacts Joint All-Domain Operations planning by creating distributed threats that span multiple domains and complicate traditional force projection concepts. The operational implications of contested logistics and distributed operations are highly relevant for field-grade officers planning multi-domain campaigns.
+
+
+[7/10] The Foundational Metal of War: Aluminum, the Middle East War, and America’s Strategic Vulnerability
+Modern War Institute | https://mwi.westpoint.edu/the-foundational-metal-of-war-aluminum-the-middle-east-war-and-americas-strategic-vulnerability/
+This article addresses a critical vulnerability in multi-domain operations by examining how aluminum supply chains create strategic chokepoints across all domains of warfare. It likely provides operational insights into supply chain resilience that field-grade officers need to understand for JADO planning and execution.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  JADO: 6
+  Current Conflicts: 5
+  AI/ML Military: 5
+  JADC2: 2
+
+================================================================================
+END OF DIGEST
+================================================================================
