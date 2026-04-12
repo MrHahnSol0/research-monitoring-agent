@@ -1,0 +1,79 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-04-12 11:08
+Articles reviewed: 12 | High-value (≥6/10): 6
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] The Foundational Metal of War: Aluminum, the Middle East War, and America’s Strategic Vulnerability
+   Modern War Institute | 2026-04-10 13:38
+   https://mwi.westpoint.edu/the-foundational-metal-of-war-aluminum-the-middle-east-war-and-americas-strategic-vulnerability/
+   Theme: JADO
+   
+   This article addresses critical strategic vulnerabilities in supply chains that directly impact multi-domain operations, offering concrete insights into how material dependencies create operational constraints across all domains. The focus on aluminum as a foundational requirement connects industrial base considerations to tactical and operational planning, which is essential for understanding JADO implementation challenges.
+   → This provides excellent case study material for teaching strategic planning students about how seemingly mundane logistics considerations create cascading effects across all operational domains.
+   Connects to: Current Conflicts, JADC2
+
+2. [SCORE: 7/10] The Golden Dome’s missing layer: On-orbit logistics for a resilient missile defense
+   Breaking Defense | 2026-04-10 12:26
+   https://breakingdefense.com/2026/04/the-golden-domes-missing-layer-on-orbit-logistics-for-a-resilient-missile-defense/
+   Theme: JADO
+   
+   This article addresses a critical gap in multi-domain operations by examining the space logistics layer needed for resilient missile defense systems. It connects space domain operations with defensive capabilities, offering operational insights into sustainment challenges that field-grade officers will face in JADO implementation.
+   → This provides concrete teaching material for JADO coursework by illustrating how logistics sustainment applies across domains, particularly the often-overlooked space domain maintenance requirements.
+   Connects to: JADC2
+
+3. [SCORE: 7/10] Army debuts data operations center to serve as information hub
+   C4ISRNET | 2026-04-10 23:17
+   https://www.c4isrnet.com/industry/techwatch/2026/04/10/army-debuts-data-operations-center-to-serve-as-information-hub/
+   Theme: AI/ML Military
+   
+   An Army Data Operations Center represents a concrete organizational structure for operationalizing AI/ML capabilities, moving beyond theoretical applications to actual implementation. This offers practical insights into how services are institutionalizing data-driven operations and machine learning integration at scale.
+   → This provides a tangible case study for teaching how military organizations structure and operationalize AI/ML capabilities in joint operations, with clear implications for cross-domain data integration.
+   Connects to: JADC2, JADO
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (3 more)
+================================================================================
+
+
+AI/ML Military (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] DIA centralizes AI efforts with Digital Modernization Accelerator
+Breaking Defense | https://breakingdefense.com/2026/04/dia-centralizes-ai-efforts-with-digital-modernization-accelerator/
+This article covers organizational restructuring of AI efforts at DIA, which provides useful context on how intelligence agencies are implementing AI at scale. However, it appears to focus more on bureaucratic centralization than operational implications or technical insights that would benefit field-grade officers.
+
+
+Current Conflicts (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Ukrainian drone makers visit Paris looking for co-production deals
+C4ISRNET | https://www.c4isrnet.com/global/europe/2026/04/10/ukrainian-drone-makers-visit-paris-looking-for-co-production-deals/
+This article offers insights into how Ukraine is leveraging combat-tested drone innovations for international partnerships, representing a shift from traditional defense industrial models. The focus on 'lessons learned' from actual combat operations and co-production approaches provides practical case study material for understanding modern warfare industrial adaptation.
+
+
+JADC2 (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] Space Force programs supporting Golden Dome see big FY27 budget boost
+Breaking Defense | https://breakingdefense.com/2026/04/golden-dome-spending-plan-fy27-budget-space-force/
+Golden Dome appears to be a Space Force missile warning/defense program getting significant budget increases, which connects to multi-domain command and control architectures. However, without access to the full article content, this appears to be primarily budget/acquisition news rather than operational insights or implementation details.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  JADO: 2
+  AI/ML Military: 2
+  Current Conflicts: 1
+  JADC2: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
