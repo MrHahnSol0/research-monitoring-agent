@@ -1,0 +1,61 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-04-13 11:51
+Articles reviewed: 5 | High-value (≥6/10): 4
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 7/10] A Closed Strait of Hormuz Risks a Global Food Security Crisis
+   War on the Rocks | 2026-04-13 07:30
+   https://warontherocks.com/a-closed-strait-of-hormuz-risks-a-global-food-security-crisis/
+   Theme: JADO
+   
+   This article provides concrete operational insights into cross-domain effects, showing how naval domain control (Strait of Hormuz closure) cascades into economic warfare and global food security impacts. It demonstrates multi-domain warfare implications beyond traditional kinetic effects, relevant for teaching strategic planning and second/third-order effects analysis.
+   → Excellent case study for teaching JADO students how maritime domain control creates cascading effects across economic, agricultural, and social domains - perfect for strategic planning curriculum on indirect approaches.
+   Connects to: Current Conflicts
+
+2. [SCORE: 7/10] Regime Change in Iran, Underpants Gnomes, and the Phase II Problem
+   War on the Rocks | 2026-04-13 07:15
+   https://warontherocks.com/regime-change-in-iran-underpants-gnomes-and-the-phase-ii-problem/
+   Theme: Current Conflicts
+   
+   This article addresses strategic planning challenges in the Iran conflict, likely examining the gap between military objectives and political end-states - a critical lesson for field-grade officers. The 'Phase II Problem' reference suggests analysis of post-combat transition challenges, which are essential operational considerations for JADO planning.
+   → Provides case study material for teaching strategic planning and multi-domain campaign design, particularly the integration of military operations with political objectives in complex operational environments.
+   Connects to: JADO
+
+3. [SCORE: 7/10] The Dead Zone and the Empty Battlefield
+   Modern War Institute | 2026-04-13 09:45
+   https://mwi.westpoint.edu/the-dead-zone-and-the-empty-battlefield/
+   Theme: Current Conflicts
+   
+   This article explores the evolution of battlefield dynamics from WWI's no man's land to modern 'empty battlefields' where sensors and precision weapons create new dead zones. The historical comparison likely provides operational insights about how technology reshapes tactical approaches and force positioning in current conflicts.
+   → The historical parallel between WWI dead zones and modern sensor-saturated battlefields offers a compelling teaching framework for explaining how technology drives tactical evolution in JADO contexts.
+   Connects to: JADO, AI/ML Military
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (1 more)
+================================================================================
+
+
+JADO (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] Europe must wean off ‘addiction’ to US military, Swedish DefMin says
+Breaking Defense | https://breakingdefense.com/2026/04/europe-must-wean-off-addiction-to-us-military-swedish-defmin-says/
+This article addresses European military independence and burden-sharing, which has operational implications for joint operations and alliance structures that are core to JADO implementation. However, it appears to be primarily policy-focused rather than offering specific operational insights or tactical innovations.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  JADO: 2
+  Current Conflicts: 2
+
+================================================================================
+END OF DIGEST
+================================================================================
