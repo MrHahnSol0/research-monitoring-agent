@@ -1,0 +1,109 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-04-14 11:39
+Articles reviewed: 17 | High-value (≥6/10): 13
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] The Bromine Chokepoint: How Strife in the Middle East Could Halt Production of the World’s Memory Chips
+   War on the Rocks | 2026-04-14 08:00
+   https://warontherocks.com/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/
+   Theme: Current Conflicts
+   
+   This article exposes critical supply chain vulnerabilities in semiconductor manufacturing that directly impact military systems and JADC2 capabilities, using current Middle East conflicts as a case study. It provides operational-level insights into how regional conflicts can create global strategic implications through industrial chokepoints that military planners must understand.
+   → Perfect teaching case study for demonstrating how tactical conflicts create strategic vulnerabilities across all domains, especially relevant for JADO instruction on supply chain security and technology dependencies.
+   Connects to: JADO, JADC2, AI/ML Military
+
+2. [SCORE: 8/10] Winning the cognitive domain — A methodology built for democratic constraints
+   Breaking Defense | 2026-04-13 19:18
+   https://breakingdefense.com/2026/04/winning-the-cognitive-domain-a-methodology-built-for-democratic-constraints/
+   Theme: JADO
+   
+   Cognitive domain operations are a critical component of multi-domain warfare that often gets overlooked in JADO discussions. The focus on democratic constraints provides practical operational frameworks that field-grade officers need to understand for implementation.
+   → This provides concrete methodology for teaching cognitive domain integration within JADO frameworks while addressing the ethical and legal constraints Marine officers will face in real operations.
+   Connects to: AI/ML Military, PME Innovation
+
+3. [SCORE: 8/10] Estonia to halt $587M Infantry Fighting Vehicle buy in favor of drones, air defense
+   Breaking Defense | 2026-04-13 18:20
+   https://breakingdefense.com/2026/04/estonia-to-halt-587m-infantry-fighting-vehicle-buy-in-favor-of-drones-air-defense/
+   Theme: Current Conflicts
+   
+   This represents a significant doctrinal shift by a NATO ally based on Ukraine war lessons, showing real-world force structure adaptation from traditional platforms to multi-domain capabilities. The decision demonstrates practical implementation of JADO concepts at national level, trading heavy armor for integrated drone and air defense systems.
+   → Provides concrete case study for teaching how modern conflicts drive force structure decisions and multi-domain integration at the strategic planning level.
+   Connects to: JADO, JADC2
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (10 more)
+================================================================================
+
+
+Current Conflicts (5 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] Nowhere to hide: Iran war spotlights military challenges posed by space-based remote sensing
+Breaking Defense | https://breakingdefense.com/2026/04/nowhere-to-hide-iran-war-spotlights-military-challenges-posed-by-space-based-remote-sensing/
+This article addresses real-world operational challenges emerging from an active conflict, specifically how space-based sensing is changing the battlefield dynamics and military operations. The focus on practical military implications rather than theoretical concepts makes it highly relevant for understanding modern warfare evolution.
+
+
+[8/10] The Dead Zone and the Empty Battlefield
+Modern War Institute | https://mwi.westpoint.edu/the-dead-zone-and-the-empty-battlefield/
+This article appears to analyze the evolution of battlefield dynamics from WWI 'no man's land' to modern 'empty battlefields,' likely drawing insights from Ukraine and other contemporary conflicts. The historical comparison framework offers valuable teaching applications for understanding how technology and tactics reshape operational environments across domains.
+
+
+[7/10] Tactical Success, Strategic Failure? Washington Walks the Path to Defeat in Iran
+War on the Rocks | https://warontherocks.com/tactical-success-strategic-failure-washington-walks-the-path-to-defeat-in-iran/
+This article provides strategic-level analysis of a current conflict scenario, examining the critical gap between tactical military success and strategic political objectives. It offers valuable case study material for teaching strategic planning and the relationship between military means and political ends.
+
+
+[7/10] Regime Change in Iran, Underpants Gnomes, and the Phase II Problem
+War on the Rocks | https://warontherocks.com/regime-change-in-iran-underpants-gnomes-and-the-phase-ii-problem/
+This article addresses strategic planning challenges in ongoing Middle East conflict, specifically the gap between military objectives and political end states - a critical lesson for JADO implementation. The 'Phase II Problem' reference suggests analysis of operational transitions and strategic coherence that's directly applicable to joint planning education.
+
+
+[6/10] Bankova, Budapest, and Bunnies
+War on the Rocks | https://warontherocks.com/bankova-budapest-and-bunnies/
+This appears to be a curated digest of Ukrainian perspectives on the ongoing conflict, which could provide valuable primary source insights from practitioners. However, without access to the full content, it's unclear if it offers genuine operational innovations or just general commentary.
+
+
+JADO (5 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] A Closed Strait of Hormuz Risks a Global Food Security Crisis
+War on the Rocks | https://warontherocks.com/a-closed-strait-of-hormuz-risks-a-global-food-security-crisis/
+This article demonstrates critical cross-domain effects in modern warfare, showing how maritime domain operations (closing the Strait of Hormuz) create cascading impacts across economic, agricultural, and strategic domains. It provides concrete operational insights into how domain interdependencies create vulnerabilities that joint planners must consider.
+
+
+[7/10] US military eyes high-energy ‘laser dome’ for domestic air defense
+C4ISRNET | https://www.c4isrnet.com/industry/techwatch/2026/04/13/us-military-eyes-high-energy-laser-dome-for-domestic-air-defense/
+High-energy laser systems for domestic air defense represent a concrete example of emerging technology integration in multi-domain operations, particularly relevant given current drone threat proliferation. The operational implications of directed energy weapons in homeland defense scenarios provide practical case study material for JADO concepts.
+
+
+[6/10] Rheinmetall and Destinus to combine forces in new missile systems joint venture
+Breaking Defense | https://breakingdefense.com/2026/04/rheinmetall-and-destinus-to-combine-forces-in-new-missile-systems-joint-venture/
+This covers emerging hypersonic missile technology that could significantly impact multi-domain operations, but appears to be an industry announcement rather than operational analysis. The combination of traditional defense contractor Rheinmetall with hypersonic specialist Destinus suggests important capability developments for long-range precision fires across domains.
+
+
+[6/10] The Pentagon wants a 188 percent bump for missile procurement. Can industry deliver?
+Breaking Defense | https://breakingdefense.com/2026/04/the-pentagon-wants-a-188-percent-bump-for-missile-procurement-can-industry-deliver/
+While missile procurement scales connect to JADO firepower requirements and multi-domain strike capabilities, this appears to be primarily a defense industry/budget story rather than operational analysis. The industrial capacity question has strategic implications but lacks the operational depth JJ typically values.
+
+
+[6/10] Europe must wean off ‘addiction’ to US military, Swedish DefMin says
+Breaking Defense | https://breakingdefense.com/2026/04/europe-must-wean-off-addiction-to-us-military-swedish-defmin-says/
+European defense autonomy discussions have operational implications for JADO implementation, as reduced US military presence would require Europe to develop more integrated multi-domain capabilities. However, this appears to be primarily policy commentary rather than operational analysis of specific capability gaps or integration challenges.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 7
+  JADO: 6
+
+================================================================================
+END OF DIGEST
+================================================================================
