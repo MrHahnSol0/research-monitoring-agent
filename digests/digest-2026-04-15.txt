@@ -1,0 +1,134 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-04-15 11:37
+Articles reviewed: 27 | High-value (≥6/10): 17
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] The Demise of Strategic Planning in Israel
+   War on the Rocks | 2026-04-15 07:15
+   https://warontherocks.com/the-demise-of-strategic-planning-in-israel/
+   Theme: Current Conflicts
+   
+   This article provides operational-level insights into how strategic planning breaks down during prolonged conflict, offering real-world case study material from Israel's multi-domain operations since Oct 7. The focus on strategic decision-making processes during wartime provides valuable lessons for field-grade officers on maintaining coherent strategy across domains and conflicts.
+   → The breakdown of strategic planning in multi-domain conflict provides excellent case study material for teaching Joint All-Domain Operations planning processes and strategic thinking to Marine officers.
+   Connects to: JADO, PME Innovation
+
+2. [SCORE: 8/10] The US and Iran are using new weapons in the war. Here’s what to know.
+   Breaking Defense | 2026-04-14 15:24
+   https://breakingdefense.com/2026/04/in-iran-conflict-tehran-and-washington-fight-with-new-weapons/
+   Theme: Current Conflicts
+   
+   This article provides insights into new weapons systems being employed in an active US-Iran conflict, offering real combat data and tactical innovations that are directly relevant to understanding modern warfare evolution. The focus on actual weapons deployment rather than theoretical capabilities makes this highly valuable for understanding current operational realities.
+   → The analysis of new weapons in US-Iran conflict provides concrete case studies for teaching multi-domain operations and how different weapon systems integrate across domains in real combat scenarios.
+   Connects to: JADO, JADC2
+
+3. [SCORE: 8/10] Inside the rise of Project Maven and AI warfare [Book excerpt]
+   Breaking Defense | 2026-04-14 13:37
+   https://breakingdefense.com/2026/04/inside-the-rise-of-project-maven-and-ai-warfare-book-excerpt/
+   Theme: AI/ML Military
+   
+   Project Maven represents a foundational case study in military AI implementation with real operational history and lessons learned. As a book excerpt, this likely provides deeper practitioner insights and primary source material beyond typical news coverage of AI military applications.
+   → Maven's evolution from controversial pilot to operational capability offers rich teaching material for PME courses on AI integration challenges and multi-domain warfare applications.
+   Connects to: JADO, JADC2
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (14 more)
+================================================================================
+
+
+Current Conflicts (7 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] Estonia to halt $587M Infantry Fighting Vehicle buy in favor of drones, air defense
+Breaking Defense | https://breakingdefense.com/2026/04/estonia-to-halt-587m-infantry-fighting-vehicle-buy-in-favor-of-drones-air-defense/
+Estonia's decision to pivot $587M from traditional IFVs to drones and air defense represents a significant force structure shift informed by Ukraine conflict lessons. This demonstrates how smaller NATO allies are operationalizing multi-domain warfare concepts by prioritizing standoff capabilities and air defense over conventional armored platforms.
+
+
+[8/10] Nowhere to hide: Iran war spotlights military challenges posed by space-based remote sensing
+Breaking Defense | https://breakingdefense.com/2026/04/nowhere-to-hide-iran-war-spotlights-military-challenges-posed-by-space-based-remote-sensing/
+This article provides real-world operational lessons from an active conflict about space-based ISR challenges, directly relevant to multi-domain operations planning. The 'nowhere to hide' phenomenon represents a fundamental shift in operational security that field-grade officers must understand and plan around.
+
+
+[8/10] Aerial Drones Change How Wars Are Fought—Unmanned Ground Vehicles Will Decide Who Wins Them
+Modern War Institute | https://mwi.westpoint.edu/aerial-drones-change-how-wars-are-fought-unmanned-ground-vehicles-will-decide-who-wins-them/
+This article analyzes battlefield evolution from Ukraine conflict with focus on unmanned ground vehicles as next decisive factor, providing operational insights beyond typical drone coverage. The transparent battlefield concept and ground domain implications offer practical lessons for field-grade officers planning multi-domain operations.
+
+
+[7/10] The Bromine Chokepoint: How Strife in the Middle East Could Halt Production of the World’s Memory Chips
+War on the Rocks | https://warontherocks.com/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/
+This article reveals a critical supply chain vulnerability in semiconductor production exposed by Middle East conflict, offering concrete operational insights into how regional conflicts can create global strategic effects through unexpected chokepoints. The bromine dependency for memory chip production represents the type of second-order effect that field-grade officers need to understand for comprehensive strategic planning.
+
+
+[7/10] Tactical Success, Strategic Failure? Washington Walks the Path to Defeat in Iran
+War on the Rocks | https://warontherocks.com/tactical-success-strategic-failure-washington-walks-the-path-to-defeat-in-iran/
+This article examines the strategic-tactical disconnect in a major regional conflict, offering valuable lessons on how military success can fail to achieve political objectives. The focus on strategic planning gaps and the relationship between military means and political ends provides concrete teaching material for joint operations education.
+
+
+[7/10] 1:5 kill ratio: Ukraine inflicts heavy Russian losses using drones, says Finnish president
+Breaking Defense | https://breakingdefense.com/2026/04/15-kill-ratio-ukraine-inflicts-heavy-russian-losses-using-drones-says-finnish-president/
+The article provides specific quantitative data (1:5 kill ratio) from a senior government official about drone effectiveness in the Ukraine conflict, offering concrete operational insights rather than generic coverage. The focus on drone tactics and their operational impact provides valuable current conflict lessons that could inform JADO concepts and military education.
+
+
+[6/10] Redefining mobile artillery for a faster, more lethal fight
+Breaking Defense | https://breakingdefense.com/2026/04/redefining-mobile-artillery-for-a-faster-more-lethal-fight/
+Mobile artillery developments reflect operational lessons from Ukraine and other conflicts about the need for shoot-and-scoot capabilities in contested environments. While tactically relevant, the article appears focused on specific equipment rather than broader operational concepts or cross-domain implications.
+
+
+JADO (6 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] Winning the cognitive domain — A methodology built for democratic constraints
+Breaking Defense | https://breakingdefense.com/2026/04/winning-the-cognitive-domain-a-methodology-built-for-democratic-constraints/
+This article addresses the cognitive domain as part of multi-domain operations, offering a methodology specifically designed for democratic military constraints - highly relevant for teaching JADO concepts. The focus on operational methodology rather than just theory aligns well with practical implementation needs.
+
+
+[7/10] White House wants Pentagon to demo nuclear space power by 2031
+Breaking Defense | https://breakingdefense.com/2026/04/white-house-wants-pentagon-to-demo-nuclear-space-power-by-2031/
+Nuclear space power represents a critical enabler for persistent space domain operations within JADO frameworks, with significant implications for command and control capabilities in contested environments. The 2031 timeline makes this operationally relevant for current field-grade officers who will implement these capabilities.
+
+
+[7/10] With Joint Innovation Outpost, Army ‘operationalized an acquisition cell’
+Breaking Defense | https://breakingdefense.com/2026/04/with-joint-innovation-outpost-army-operationalized-an-acquisition-cell/
+This article demonstrates practical implementation of acquisition innovation within joint operations, showing how the Army is operationalizing rapid capability development. The focus on field-deployed acquisition cells provides concrete examples of how innovation processes can be embedded at operational levels rather than remaining at institutional headquarters.
+
+
+[6/10] Rheinmetall and Destinus to combine forces in new missile systems joint venture
+Breaking Defense | https://breakingdefense.com/2026/04/rheinmetall-and-destinus-to-combine-forces-in-new-missile-systems-joint-venture/
+This joint venture between Rheinmetall and Destinus represents industrial developments in hypersonic and advanced missile systems that could impact multi-domain operations capabilities. However, without access to the full article content, this appears to be primarily a business announcement rather than operational analysis or technical deep-dive.
+
+
+[6/10] The Pentagon wants a 188 percent bump for missile procurement. Can industry deliver?
+Breaking Defense | https://breakingdefense.com/2026/04/the-pentagon-wants-a-188-percent-bump-for-missile-procurement-can-industry-deliver/
+This article addresses industrial capacity constraints for missile procurement, which has direct operational implications for multi-domain operations planning and sustainment. While focused on procurement, it reveals critical logistics and supply chain vulnerabilities that field-grade officers must consider when planning JADO operations.
+
+
+[6/10] Put nuclear reactors in space within a few years, White House tells Pentagon
+Defense One | https://www.defenseone.com/technology/2026/04/put-nuclear-reactors-space-within-few-years-white-house-tells-pentagon/412847/
+Space-based nuclear power represents a critical enabler for persistent space domain operations and multi-domain command structures, but this appears to be a policy announcement rather than operational analysis. The technology could significantly impact JADO concepts by enabling more robust space-based assets for cross-domain integration.
+
+
+Quantum Technology (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] For quantum computing, different qubits are better together
+DARPA | https://www.darpa.mil/news/2026/quantum-computing-different-qubits-better-together
+DARPA's HARQ program represents a significant technical advancement in quantum computing architecture that could have operational implications, but the article lacks specific military applications or implementation timelines. While the multi-qubit approach addresses a real bottleneck in quantum computing development, it's primarily a research announcement without clear operational relevance for field-grade officers.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  Current Conflicts: 9
+  JADO: 6
+  AI/ML Military: 1
+  Quantum Technology: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
