@@ -1,0 +1,176 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-04-16 11:40
+Articles reviewed: 35 | High-value (≥6/10): 24
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] Anthropic’s Nuclear Bomb
+   War on the Rocks | 2026-04-16 08:00
+   https://warontherocks.com/anthropics-nuclear-bomb/
+   Theme: AI/ML Military
+   
+   This article appears to analyze real-world AI capabilities and cyber warfare implications from a practitioner perspective, combining technical AI assessment with operational security concerns. The focus on Chinese state-sponsored cyber campaigns and new AI model capabilities offers concrete analysis relevant to military planning and decision-making.
+   → Provides case study material for teaching AI orchestration threats and defensive considerations in joint operations planning at MCU.
+   Connects to: JADC2, Current Conflicts
+
+2. [SCORE: 8/10] The End of Managed Escalation in the Gulf
+   War on the Rocks | 2026-04-16 07:15
+   https://warontherocks.com/the-end-of-managed-escalation-in-the-gulf/
+   Theme: Current Conflicts
+   
+   This article analyzes the breakdown of traditional deterrence models in the Gulf, offering strategic insights into how conflict dynamics are evolving beyond gray zone operations. The shift from managed escalation to open conflict provides valuable case study material for understanding modern warfare transitions and strategic decision-making.
+   → Provides excellent case study material for teaching strategic planning and escalation management, while demonstrating how multi-domain gray zone operations can transition to conventional warfare.
+   Connects to: JADO, PME Innovation
+
+3. [SCORE: 8/10] Bonus In Brief: Choke Point: The Risks and Realities of America’s Iran Blockade
+   War on the Rocks | 2026-04-15 20:53
+   https://warontherocks.com/bonus-in-brief-choke-point-the-risks-and-realities-of-americas-iran-blockade/
+   Theme: Current Conflicts
+   
+   A current US maritime blockade of Iran provides immediate operational case study material for teaching multi-domain operations, maritime strategy, and escalation dynamics. The real-world scenario offers concrete examples of how joint forces coordinate complex operations across domains, making it highly valuable for educational applications.
+   → This active blockade scenario provides perfect case study material for teaching JADO concepts, particularly how maritime operations integrate with other domains and require sophisticated command and control coordination.
+   Connects to: JADO, JADC2
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (21 more)
+================================================================================
+
+
+AI/ML Military (4 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] US Air Force debuts operational AI wargame system
+C4ISRNET | https://www.c4isrnet.com/industry/techwatch/2026/04/15/us-air-force-debuts-operational-ai-wargame-system/
+This covers an operational AI wargaming system that directly applies to strategic planning education and maintains human-centricity - key concerns for PME applications. The system being declared operational suggests practical implementation insights rather than theoretical concepts.
+
+
+[8/10] Designing Lethal Decisions: AI, Accountability, and the Future of Military Judgment
+Modern War Institute | https://mwi.westpoint.edu/designing-lethal-decisions-ai-accountability-and-the-future-of-military-judgment/
+This article directly addresses the critical operational question of human-AI decision-making in lethal scenarios, moving beyond generic AI hype to examine practical accountability frameworks. It offers substantive content for teaching strategic thinking about AI integration in military operations, which aligns perfectly with JJ's technical background and teaching role.
+
+
+[7/10] Rethinking Security Cooperation in the Age of Commercial Tech
+War on the Rocks | https://warontherocks.com/rethinking-security-cooperation-in-the-age-of-commercial-tech/
+This article addresses the operational implications of commercial tech integration in military operations, which directly connects to AI/ML implementation challenges. It appears to focus on practical security cooperation implications rather than just policy, offering insights relevant to multi-domain operations planning.
+
+
+[6/10] France readies AI-powered combat data-management similar to US ‘Maven’
+C4ISRNET | https://www.c4isrnet.com/global/europe/2026/04/16/france-readies-ai-powered-combat-data-management-similar-to-us-maven/
+This covers an allied nation's implementation of AI-powered combat data management, providing comparative context to US Maven program. However, the article appears to lack operational specifics and practitioner insights, focusing more on timeline announcements than implementation details or lessons learned.
+
+
+Current Conflicts (6 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] The Demise of Strategic Planning in Israel
+War on the Rocks | https://warontherocks.com/the-demise-of-strategic-planning-in-israel/
+This article provides deep strategic analysis of how operational pressures can degrade strategic planning processes during extended conflicts, offering valuable case study material. It examines the breakdown of civil-military relations and strategic decision-making under wartime stress, which has direct applications for teaching strategic planning and JADO implementation.
+
+
+[8/10] Russians will surrender to robots. Russian robots won’t.
+Defense One | https://www.defenseone.com/technology/2026/04/russians-will-surrender-robots-russian-robots-wont/412889/
+This article provides concrete operational insights from ongoing conflict about robotics in ground combat, including critical limitations around communications and navigation that directly impact multi-domain operations. The human-robot interaction dynamics and surrender protocols represent genuinely new tactical developments with broader implications for autonomous systems integration.
+
+
+[8/10] Aerial Drones Change How Wars Are Fought—Unmanned Ground Vehicles Will Decide Who Wins Them
+Modern War Institute | https://mwi.westpoint.edu/aerial-drones-change-how-wars-are-fought-unmanned-ground-vehicles-will-decide-who-wins-them/
+This article appears to provide operational insights from Ukraine battlefield experience about the evolution from aerial to ground unmanned systems, which directly informs multi-domain warfare understanding. The focus on how unmanned ground vehicles will 'decide who wins' suggests tactical/operational lessons that field-grade officers need to understand for future planning.
+
+
+[7/10] A Fragile Ceasefire with Iran and the Price of Ending the War
+War on the Rocks | https://warontherocks.com/a-fragile-ceasefire-with-iran-and-the-price-of-ending-the-war/
+This appears to cover ongoing negotiations and conflict resolution with Iran, which could provide valuable case study material for teaching strategic planning and multi-domain considerations. The focus on ceasefire negotiations and framework agreements offers practical insights into how conflicts transition from active operations to diplomatic resolution.
+
+
+[7/10] Estonia raids combat-vehicle funds to buy more drones, air defenses
+C4ISRNET | https://www.c4isrnet.com/global/europe/2026/04/15/estonia-raids-combat-vehicle-funds-to-buy-more-drones-air-defenses/
+This demonstrates concrete strategic resource reallocation based on Ukraine conflict lessons, showing how a NATO ally is operationally adapting force structure priorities from traditional platforms to multi-domain capabilities. The decision represents real-world validation of JADO concepts through budget actions rather than just doctrine.
+
+
+[6/10] Examining the Cracks and the Cement in the Sino-Russian Relationship
+War on the Rocks | https://warontherocks.com/examining-the-cracks-and-the-cement-in-the-sino-russian-relationship/
+This article examines strategic tensions between two major powers that could significantly impact future multi-domain operations planning and force posture decisions. While it provides useful strategic context for understanding great power competition dynamics, it likely focuses more on political analysis than operational implications or tactical innovations.
+
+
+JADC2 (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] With new portfolios, SDA ‘probably won’t’ exist, acting director says
+Breaking Defense | https://breakingdefense.com/2026/04/with-new-portfolios-space-development-agency-probably-wont-exist-acting-director-says/
+SDA's potential dissolution represents a significant organizational shift in space-based C2 capabilities that could impact JADC2 implementation. However, without details on operational implications or how capabilities transfer to new organizations, this is primarily organizational news rather than operational insight.
+
+
+JADO (9 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Operationalizing Economic Statecraft: A New Imperative for the Pentagon
+War on the Rocks | https://warontherocks.com/operationalizing-economic-statecraft-a-new-imperative-for-the-pentagon/
+Economic statecraft as a domain of warfare connects directly to JADO concepts by expanding beyond traditional kinetic domains. The Pentagon's operational integration of economic tools represents practical multi-domain thinking that field-grade officers need to understand for comprehensive strategic planning.
+
+
+[7/10] Golden Dome czar signals space-based interceptors not guaranteed, as DoD weighs cost
+Breaking Defense | https://breakingdefense.com/2026/04/golden-dome-czar-signals-space-based-interceptors-arent-guaranteed-as-dod-weighs-cost/
+Space-based interceptors represent a critical multi-domain capability discussion with direct implications for JADO implementation and resource allocation decisions. The cost-benefit analysis and strategic trade-offs involved offer valuable insights into how emerging capabilities are evaluated within joint operations frameworks.
+
+
+[7/10] Space Force 2040: 30,000 satellites, ‘thousands’ more Guardians
+Breaking Defense | https://breakingdefense.com/2026/04/space-force-2040-30000-satellites-thousands-more-guardians/
+This article provides concrete operational planning insights for space domain integration in joint operations, with specific force structure projections that have direct implications for multi-domain warfare planning. The scale of satellite constellation growth (30,000 satellites) represents a fundamental shift in space-based capabilities that field-grade officers need to understand for JADO implementation.
+
+
+[7/10] RTX modifies Growler’s next-gen jammer to work from land or sea
+Breaking Defense | https://breakingdefense.com/2026/04/rtx-modifies-growlers-next-gen-jammer-to-work-from-land-or-sea/
+RTX adapting the Growler's Next Generation Jammer for cross-domain employment (air to land/sea) demonstrates practical multi-domain warfare implementation with direct operational implications. This represents concrete progress in making electronic warfare capabilities truly joint and domain-agnostic, moving beyond theoretical JADO concepts to fielded systems.
+
+
+[7/10] AeroVironment introduces new line of launched effects modeled after Switchblade
+Breaking Defense | https://breakingdefense.com/2026/04/aerovironment-introduces-new-line-of-launched-effects-modeled-after-switchblade/
+New launched effects systems represent tactical innovation with direct JADO implications, showing evolution of cross-domain fires and distributed operations. The Switchblade model's proven combat effectiveness in Ukraine makes this development operationally relevant for understanding future multi-domain capabilities.
+
+
+[7/10] White House wants Pentagon to demo nuclear space power by 2031
+Breaking Defense | https://breakingdefense.com/2026/04/white-house-wants-pentagon-to-demo-nuclear-space-power-by-2031/
+Nuclear space power represents a critical enabler for sustained space domain operations and multi-domain command structures. This technology directly impacts JADO implementation by potentially solving power/endurance limitations that currently constrain space-based assets used for cross-domain coordination and ISR.
+
+
+[6/10] Navy MQ-4C Triton suffers Class A mishap
+Breaking Defense | https://breakingdefense.com/2026/04/navy-mq-4c-triton-suffers-class-a-mishap/
+The MQ-4C Triton Class A mishap offers operational lessons about high-value ISR asset risk management in joint operations. While mishap reporting is routine, the Triton's role as a critical multi-domain sensor platform makes this relevant for understanding operational constraints and redundancy planning in JADO.
+
+
+[6/10] Put nuclear reactors in space within a few years, White House tells Pentagon
+Defense One | https://www.defenseone.com/technology/2026/04/put-nuclear-reactors-space-within-few-years-white-house-tells-pentagon/412847/
+Space-based nuclear power directly impacts multi-domain operations by enabling persistent space-based capabilities and extending operational reach. However, this appears to be early policy direction rather than operational implementation details or lessons learned.
+
+
+[6/10] AeroVironment launches new multifunctional drone variant
+C4ISRNET | https://www.c4isrnet.com/news/your-military/2026/04/15/aerovironment-launches-new-multifunctional-drone-variant/
+The multifunctional drone variant represents practical implementation of cross-domain capabilities with multi-platform deployment options, which is operationally relevant to JADO concepts. However, this appears to be a product announcement without deeper operational analysis or lessons learned from actual implementation.
+
+
+PME Innovation (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] Five Questions for a General: General Daniel Allyn
+Modern War Institute | https://mwi.westpoint.edu/five-questions-for-a-general-general-daniel-allyn/
+This is an interview format with a senior military leader that could provide insights for teaching strategic thinking, though the actual content quality depends on the specific questions and answers which aren't visible in the summary. The format itself represents a PME approach using cadet-led interviews for professional development.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  JADO: 9
+  Current Conflicts: 8
+  AI/ML Military: 5
+  JADC2: 1
+  PME Innovation: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
