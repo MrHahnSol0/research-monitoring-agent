@@ -1,0 +1,196 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-04-17 11:33
+Articles reviewed: 36 | High-value (≥6/10): 28
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] Winning in the Donbas: What Russia’s 2014–2015 Campaign Reveals About Modern War
+   War on the Rocks | 2026-04-17 07:15
+   https://warontherocks.com/winning-in-the-donbas-what-russias-2014-2015-campaign-reveals-about-modern-war/
+   Theme: Current Conflicts
+   
+   This article analyzes Russia's early hybrid warfare tactics in Donbas (2014-2015) and connects them to current multi-domain operations, providing historical case study material with operational lessons. The comparison to current U.S.-Israeli operations and discussion of precision strike limitations offers valuable strategic insights for field-grade officers.
+   → Perfect case study material for teaching JADO concepts at MCU, showing how Russia pioneered multi-domain integration and the limitations of airpower-centric approaches that students need to understand.
+   Connects to: JADO, PME Innovation
+
+2. [SCORE: 8/10] The End of Managed Escalation in the Gulf
+   War on the Rocks | 2026-04-16 07:15
+   https://warontherocks.com/the-end-of-managed-escalation-in-the-gulf/
+   Theme: Current Conflicts
+   
+   This article analyzes the breakdown of traditional deterrence models in the Gulf region, offering strategic insights into how escalation dynamics have fundamentally shifted in current conflicts. It provides operational-level analysis of gray zone warfare evolution and multi-domain escalation patterns that directly inform strategic planning education.
+   → The article's analysis of failed deterrence models and escalation dynamics provides excellent case study material for teaching strategic planning and multi-domain operations integration at MCU.
+   Connects to: JADO, PME Innovation
+
+3. [SCORE: 8/10] Bonus In Brief: Choke Point: The Risks and Realities of America’s Iran Blockade
+   War on the Rocks | 2026-04-15 20:53
+   https://warontherocks.com/bonus-in-brief-choke-point-the-risks-and-realities-of-americas-iran-blockade/
+   Theme: Current Conflicts
+   
+   A U.S. blockade of Iran represents a major escalation with significant multi-domain operational implications, from naval operations to space-based ISR coordination. This scenario would require extensive JADO integration across maritime, air, space, and cyber domains, making it highly relevant for teaching joint operational planning.
+   → This real-world scenario provides an excellent case study for teaching JADO concepts, particularly how maritime blockade operations require seamless integration across all domains and robust command and control systems.
+   Connects to: JADO, JADC2
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (25 more)
+================================================================================
+
+
+AI/ML Military (4 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] US Air Force debuts operational AI wargame system
+C4ISRNET | https://www.c4isrnet.com/industry/techwatch/2026/04/15/us-air-force-debuts-operational-ai-wargame-system/
+An operational AI wargaming system directly addresses JJ's core interests in AI/ML military applications and PME innovation. The focus on keeping human judgment central while leveraging AI for wargaming offers practical insights for both JADO instruction and AI orchestration concepts.
+
+
+[8/10] Designing Lethal Decisions: AI, Accountability, and the Future of Military Judgment
+Modern War Institute | https://mwi.westpoint.edu/designing-lethal-decisions-ai-accountability-and-the-future-of-military-judgment/
+This article directly addresses the critical operational question of human-AI decision-making in lethal scenarios, moving beyond policy to examine practical accountability frameworks. It offers substantive analysis of how military judgment integrates with AI systems, providing both theoretical grounding and operational implications for field-grade officers implementing these technologies.
+
+
+[6/10] Rethinking Security Cooperation in the Age of Commercial Tech
+War on the Rocks | https://warontherocks.com/cogs-of-war/rethinking-security-cooperation-in-the-age-of-commercial-tech/
+The article addresses commercial technology integration in military operations, which connects to AI/ML applications and cross-domain capabilities. However, it appears focused on security cooperation policy rather than operational implementation details that would provide actionable insights for field-grade officers.
+
+
+[6/10] France readies AI-powered combat data-management similar to US ‘Maven’
+C4ISRNET | https://www.c4isrnet.com/global/europe/2026/04/16/france-readies-ai-powered-combat-data-management-similar-to-us-maven/
+This article covers France's development of an AI combat data management system similar to Maven, which is relevant to understanding international AI military applications. However, the article appears to lack operational specifics and implementation details, limiting its depth for serious analysis.
+
+
+Current Conflicts (6 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] A Fragile Ceasefire with Iran and the Price of Ending the War
+War on the Rocks | https://warontherocks.com/a-fragile-ceasefire-with-iran-and-the-price-of-ending-the-war/
+This article provides operational insights into ongoing Middle East conflicts and ceasefire negotiations, offering real-world case study material for strategic planning education. The focus on negotiation frameworks and mediation processes provides practical lessons for field-grade officers dealing with conflict termination scenarios.
+
+
+[7/10] ‘Best drone’ innovation winner developing enemy drone recovery system with the Army Research Lab
+Defense One | https://www.defenseone.com/technology/2026/04/best-drone-innovation-winner-developing-enemy-drone-recovery-system-army-research-lab/412919/
+This article combines warfighter-driven innovation with practical lessons from drone competition, offering insights into bottom-up innovation processes and counter-UAS capabilities. The focus on soldier feedback and operational requirements provides valuable practitioner perspectives rather than just technology announcements.
+
+
+[7/10] EU pumps over $1 billion into defense R&D, centered around  Ukraine war lessons
+C4ISRNET | https://www.c4isrnet.com/global/europe/2026/04/16/eu-pumps-over-1-billion-into-defense-rd-centered-around-ukraine-war-lessons/
+EU's $1B investment based on Ukraine war lessons offers concrete insights into how major defense establishments are adapting to modern warfare realities. The focus on loitering munitions and mass drone production represents practical implementation of lessons learned rather than theoretical policy discussion.
+
+
+[7/10] Estonia raids combat-vehicle funds to buy more drones, air defenses
+C4ISRNET | https://www.c4isrnet.com/global/europe/2026/04/15/estonia-raids-combat-vehicle-funds-to-buy-more-drones-air-defenses/
+Estonia's resource reallocation from traditional armor to drones and air defense represents a concrete operational lesson from Ukraine that demonstrates how small nations are adapting force structure based on observed combat effectiveness. This provides practical insights into capability prioritization and resource allocation decisions informed by real combat data.
+
+
+[6/10] How to Counter the Houthis Without Strengthening Them
+War on the Rocks | https://warontherocks.com/how-to-counter-the-houthis-without-strengthening-them/
+This article offers strategic and operational insights from the Yemen conflict that could provide teaching case studies for multi-domain operations and coalition warfare challenges. However, without seeing the full content, it appears to focus more on policy lessons than tactical innovations or new operational concepts that would be highly relevant for JADO instruction.
+
+
+[6/10] US can intercept any Iran-linked ship globally, Caine says
+Breaking Defense | https://breakingdefense.com/2026/04/us-can-intercept-any-iran-linked-ship-globally-caine-says/
+This appears to be a policy statement about maritime interdiction capabilities rather than detailed operational insights. While relevant to current Middle East tensions, it lacks the tactical innovations or cross-domain integration details that would make it highly valuable for teaching JADO concepts.
+
+
+JADC2 (3 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] Dutch broadcaster tracks carrier-group frigate with Bluetooth gadget
+C4ISRNET | https://www.c4isrnet.com/global/europe/2026/04/17/dutch-broadcaster-tracks-carrier-group-frigate-with-bluetooth-gadget/
+This demonstrates a critical OPSEC vulnerability in networked military systems where consumer devices can compromise operational security of high-value naval assets. The incident provides a concrete example of how seemingly innocuous IoT devices can create signature management failures in joint operations, directly relevant to JADC2 implementation challenges.
+
+
+[8/10] Starlink outage hit drone tests, exposing Pentagon’s growing reliance on SpaceX
+C4ISRNET | https://www.c4isrnet.com/news/pentagon-congress/2026/04/16/starlink-outage-hit-drone-tests-exposing-pentagons-growing-reliance-on-spacex/
+This article exposes critical vulnerabilities in military reliance on commercial satellite communications for unmanned systems operations, directly relevant to JADC2 resilience and reliability. The operational failure during Navy drone tests provides concrete evidence of integration risks that field-grade officers must understand when planning multi-domain operations.
+
+
+[6/10] With new portfolios, SDA ‘probably won’t’ exist, acting director says
+Breaking Defense | https://breakingdefense.com/2026/04/with-new-portfolios-space-development-agency-probably-wont-exist-acting-director-says/
+The potential dissolution of SDA has significant implications for space-based JADC2 capabilities and joint domain integration, particularly given SDA's role in developing the Transport and Tracking Layers. However, without full article content, this appears to be organizational restructuring news rather than operational analysis.
+
+
+JADO (11 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] Shifting gears: Space Force moves to embrace space mobility for orbital warfare
+Breaking Defense | https://breakingdefense.com/2026/04/shifting-gears-space-force-moves-to-embrace-space-mobility-for-orbital-warfare/
+Space mobility for orbital warfare represents a significant evolution in space domain operations with direct implications for Joint All-Domain Operations integration. The operational shift from static to mobile space assets fundamentally changes how space capabilities integrate with terrestrial domains and affects command and control structures.
+
+
+[8/10] The Command Friction that the Army’s Division-Centric Warfighting Approach Must Overcome
+Modern War Institute | https://mwi.westpoint.edu/the-command-friction-that-the-armys-division-centric-warfighting-approach-must-overcome/
+This article directly addresses command and control friction in multi-domain operations, specifically examining how Army division structures handle distributed operations across multiple domains and geographic areas. The Pacific campaign scenario and discussion of mobile brigade combat teams moving between islands speaks directly to JADO implementation challenges that field-grade officers will face.
+
+
+[7/10] Operationalizing Economic Statecraft: A New Imperative for the Pentagon
+War on the Rocks | https://warontherocks.com/operationalizing-economic-statecraft-a-new-imperative-for-the-pentagon/
+Economic statecraft as a domain of warfare directly relates to JADO concepts and multi-domain integration challenges. The Pentagon's operational implementation of economic tools represents a practical expansion of traditional domain thinking that field-grade officers need to understand.
+
+
+[7/10] The Army is now relevant to the Pacific. Congress should budget accordingly.
+Breaking Defense | https://breakingdefense.com/2026/04/the-army-is-now-relevant-to-the-pacific-congress-should-budget-accordingly/
+This article likely discusses the Army's evolving role in Pacific operations, which directly relates to multi-domain integration and JADO implementation in a critical theater. The budgetary angle suggests operational implications and resource allocation for cross-domain capabilities, making it relevant for understanding how services adapt their roles in joint operations.
+
+
+[7/10] Army making ‘significant headway’ in ATI aviation overhaul
+Breaking Defense | https://breakingdefense.com/2026/04/army-making-significant-headway-in-ati-aviation-overhaul-divesting-apache-ah-64d-fleet/
+Army's ATI aviation transformation directly impacts joint operations integration and multi-domain warfare capabilities. The divestiture of legacy Apache platforms while modernizing the fleet has significant implications for how Marine and joint forces coordinate air-ground operations in contested environments.
+
+
+[7/10] Golden Dome czar signals space-based interceptors not guaranteed, as DoD weighs cost
+Breaking Defense | https://breakingdefense.com/2026/04/golden-dome-czar-signals-space-based-interceptors-arent-guaranteed-as-dod-weighs-cost/
+This article addresses critical JADO implementation challenges by examining the space domain component of integrated air and missile defense systems. The cost-benefit analysis and domain integration challenges of space-based interceptors directly relate to multi-domain operations planning and resource allocation decisions field-grade officers must understand.
+
+
+[6/10] Army plans initial contract for HADES ‘ultra long-range’ effects in coming months
+Breaking Defense | https://breakingdefense.com/2026/04/army-plans-initial-contract-for-hades-ultra-long-range-effects-in-coming-months/
+HADES represents a significant capability for long-range precision fires in the Army's multi-domain operations concept, but this appears to be primarily a procurement announcement rather than operational doctrine or lessons learned. The 'ultra long-range effects' capability has implications for joint fires integration and cross-domain targeting, though the article likely focuses more on acquisition timeline than operational employment.
+
+
+[6/10] Army asks lawmakers to back production halt to Paladin line
+Breaking Defense | https://breakingdefense.com/2026/04/army-asks-lawmakers-to-back-production-halt-to-paladin-line/
+Army's decision to halt Paladin production reflects broader modernization priorities and resource allocation decisions relevant to multi-domain operations. While primarily an acquisition story, it touches on how services are balancing traditional capabilities against emerging multi-domain requirements.
+
+
+[6/10] Space Force 2040: 30,000 satellites, ‘thousands’ more Guardians
+Breaking Defense | https://breakingdefense.com/2026/04/space-force-2040-30000-satellites-thousands-more-guardians/
+The article discusses Space Force's 2040 vision for massive satellite constellation growth, which has direct implications for multi-domain operations and space as a warfighting domain. However, without access to the full content, it appears to be more of a policy announcement than operational insight, limiting its teaching utility.
+
+
+[6/10] Navy MQ-4C Triton suffers Class A mishap
+Breaking Defense | https://breakingdefense.com/2026/04/navy-mq-4c-triton-suffers-class-a-mishap/
+A Class A mishap (>$2.5M damage or fatality) of the MQ-4C Triton is operationally significant as this high-altitude ISR platform is critical for maritime domain awareness in JADO concepts. While mishap details aren't provided in the summary, such incidents offer lessons on unmanned systems reliability and risk management in multi-domain operations.
+
+
+[6/10] AeroVironment launches new multifunctional drone variant
+C4ISRNET | https://www.c4isrnet.com/news/your-military/2026/04/15/aerovironment-launches-new-multifunctional-drone-variant/
+The multifunctional launch capability and cross-platform deployment aligns with JADO concepts of domain integration. However, this appears to be a product announcement rather than operational analysis or lessons learned from actual implementation.
+
+
+PME Innovation (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] Five Questions for a General: General Daniel Allyn
+Modern War Institute | https://mwi.westpoint.edu/five-questions-for-a-general-general-daniel-allyn/
+This is a cadet-hosted interview format that could provide insights into effective PME teaching methods and professional development approaches. However, without knowing the specific content of General Allyn's responses or his expertise areas, the educational value remains uncertain.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  JADO: 11
+  Current Conflicts: 9
+  AI/ML Military: 4
+  JADC2: 3
+  PME Innovation: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
