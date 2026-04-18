@@ -1,0 +1,127 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-04-18 11:10
+Articles reviewed: 24 | High-value (≥6/10): 15
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] Winning in the Donbas: What Russia’s 2014–2015 Campaign Reveals About Modern War
+   War on the Rocks | 2026-04-17 07:15
+   https://warontherocks.com/winning-in-the-donbas-what-russias-2014-2015-campaign-reveals-about-modern-war/
+   Theme: Current Conflicts
+   
+   This article analyzes Russia's 2014-2015 Donbas campaign to extract operational lessons about modern warfare, providing concrete case study material that challenges airpower-centric assumptions. The focus on what Russia's early hybrid warfare reveals about multi-domain operations offers valuable teaching content and operational insights for field-grade officers.
+   → This historical analysis of Russian multi-domain tactics in Donbas provides excellent case study material for teaching JADO concepts and strategic planning at MCU, especially regarding the limitations of precision strike campaigns.
+   Connects to: JADO, PME Innovation
+
+2. [SCORE: 8/10] Northrop Grumman’s Talon IQ testbed hot-swaps AI brains mid-flight
+   Breaking Defense | 2026-04-17 15:04
+   https://breakingdefense.com/2026/04/northrop-grummans-talon-iq-testbed-hot-swaps-ai-brains-mid-flight/
+   Theme: AI/ML Military
+   
+   This demonstrates practical AI orchestration capabilities with operational significance - hot-swapping AI 'brains' mid-flight represents a major advance in adaptive autonomous systems. The technical achievement directly relates to multi-domain operations where AI systems must dynamically adapt to changing mission requirements and threat environments.
+   → This provides a concrete example of AI orchestration in practice that JJ can use to illustrate the operational potential and challenges of adaptive AI systems in joint operations coursework.
+   Connects to: JADO, JADC2
+
+3. [SCORE: 8/10] NATO revamps air surveillance approach for the ‘cost-war’ of low-flying drones, missiles
+   Breaking Defense | 2026-04-17 13:20
+   https://breakingdefense.com/2026/04/nato-revamps-air-surveillance-approach-for-the-cost-war-of-low-flying-drones-missiles/
+   Theme: JADO
+   
+   This article addresses critical operational challenges in multi-domain warfare, specifically how NATO is adapting air surveillance doctrine to counter cost-effective drone swarms and low-flying missiles. The focus on 'cost-war' dynamics and surveillance integration across domains provides concrete insights into JADO implementation challenges that field-grade officers will face.
+   → Excellent case study for teaching JADO students about domain integration challenges and cost-exchange ratios in modern warfare, with practical NATO implementation examples for strategic planning coursework.
+   Connects to: Current Conflicts, JADC2
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (12 more)
+================================================================================
+
+
+AI/ML Military (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Air Force unit executes test of Anduril’s semiautonomous combat drone
+C4ISRNET | https://www.c4isrnet.com/industry/techwatch/2026/04/17/air-force-unit-executes-test-of-andurils-semiautonomous-combat-drone/
+This represents a concrete operational test of semi-autonomous combat systems with direct JADO implications, moving beyond theoretical AI applications to actual fielded capabilities. The focus on manned-unmanned teaming provides practical insights for understanding how AI-enabled systems will integrate into multi-domain operations.
+
+
+Current Conflicts (4 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] How to Counter the Houthis Without Strengthening Them
+War on the Rocks | https://warontherocks.com/how-to-counter-the-houthis-without-strengthening-them/
+This article offers tactical and operational lessons from recent Houthi operations that demonstrate multi-domain warfare capabilities, providing concrete case study material for teaching joint operations. The focus on what didn't work in previous interventions offers valuable strategic planning insights for field-grade officers.
+
+
+[7/10] ‘Best drone’ innovation winner developing enemy drone recovery system with the Army Research Lab
+Defense One | https://www.defenseone.com/technology/2026/04/best-drone-innovation-winner-developing-enemy-drone-recovery-system-army-research-lab/412919/
+This article captures tactical innovation from field experience and soldier-driven solutions, which aligns with JJ's focus on operational implications over policy. The enemy drone recovery system represents genuine battlefield adaptation and cross-domain thinking that connects air and ground operations.
+
+
+[7/10] EU pumps over $1 billion into defense R&D, centered around  Ukraine war lessons
+C4ISRNET | https://www.c4isrnet.com/global/europe/2026/04/16/eu-pumps-over-1-billion-into-defense-rd-centered-around-ukraine-war-lessons/
+This article offers concrete operational lessons from Ukraine that are driving billion-dollar R&D investments, focusing on loitering munitions and mass drone production - both critical JADO capabilities. The EU's shift toward 21st-century warfare concepts provides real-world validation of multi-domain operational priorities that field-grade officers need to understand.
+
+
+[6/10] Ceasefires and Communications
+War on the Rocks | https://warontherocks.com/ceasefires-and-communications/
+This appears to be analysis of recent Iran-related developments and ceasefire communications, which could provide insights into current operational dynamics. However, the brief summary suggests it may be more news analysis than deep operational lessons, and the truncated preview makes it difficult to assess the depth of tactical/operational insights.
+
+
+JADC2 (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] Starlink outage hit drone tests, exposing Pentagon’s growing reliance on SpaceX
+C4ISRNET | https://www.c4isrnet.com/news/pentagon-congress/2026/04/16/starlink-outage-hit-drone-tests-exposing-pentagons-growing-reliance-on-spacex/
+This article exposes critical single-point-of-failure vulnerabilities in military communications infrastructure that directly impacts joint operations. It provides concrete operational lessons about dependency risks in networked warfare that field-grade officers must understand for planning and risk assessment.
+
+
+JADO (6 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] Dutch broadcaster tracks carrier-group frigate with Bluetooth gadget
+C4ISRNET | https://www.c4isrnet.com/global/europe/2026/04/17/dutch-broadcaster-tracks-carrier-group-frigate-with-bluetooth-gadget/
+This article demonstrates critical OPSEC vulnerabilities in multi-domain operations where simple commercial technology can compromise naval force positioning. It provides a concrete case study of how adversaries can exploit seemingly innocuous electronic signatures to track high-value military assets across domains.
+
+
+[8/10] The Command Friction that the Army’s Division-Centric Warfighting Approach Must Overcome
+Modern War Institute | https://mwi.westpoint.edu/the-command-friction-that-the-armys-division-centric-warfighting-approach-must-overcome/
+This article directly addresses command and control friction in multi-domain operations, specifically examining how Army division structures handle distributed operations across domains like the Pacific theater. It appears to offer practical insights into organizational challenges that field-grade officers face when implementing joint all-domain concepts.
+
+
+[7/10] The history of America’s long-term efforts to plan for a war with China [BOOK EXCERPT]
+Breaking Defense | https://breakingdefense.com/2026/04/the-history-of-americas-long-term-efforts-to-plan-for-a-war-with-china-book-excerpt/
+Historical analysis of strategic planning provides valuable context for understanding multi-domain operational challenges in the Pacific theater. The book excerpt likely offers insights into how military planners have conceptualized cross-domain warfare against a peer competitor, which directly supports JADO doctrine development and strategic thinking.
+
+
+[7/10] Army plans initial contract for HADES ‘ultra long-range’ effects in coming months
+Breaking Defense | https://breakingdefense.com/2026/04/army-plans-initial-contract-for-hades-ultra-long-range-effects-in-coming-months/
+HADES represents a concrete example of ultra long-range fires integration across domains, offering practical insights into how the Army is operationalizing multi-domain effects. The system's development provides real-world case study material for understanding cross-domain targeting and effects coordination challenges that field-grade officers will face.
+
+
+[7/10] Shifting gears: Space Force moves to embrace space mobility for orbital warfare
+Breaking Defense | https://breakingdefense.com/2026/04/shifting-gears-space-force-moves-to-embrace-space-mobility-for-orbital-warfare/
+Space mobility for orbital warfare represents a significant operational development in the space domain that directly impacts Joint All-Domain Operations planning and execution. The shift toward dynamic space maneuver capabilities changes how field-grade officers must conceptualize multi-domain integration and presents new operational challenges for cross-domain coordination.
+
+
+[6/10] 9 firms win orbital AMTI deals, Space Force says
+Breaking Defense | https://breakingdefense.com/2026/04/9-firms-win-orbital-amti-deals-space-force-says/
+AMTI (Air and Missile Threat Intelligence) contracts represent tangible progress in space-based sensing capabilities that directly support multi-domain operations. While this is a contract announcement rather than operational analysis, it indicates expanding commercial integration in space-based ISR capabilities that enable cross-domain targeting and situational awareness.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  JADO: 7
+  Current Conflicts: 5
+  AI/ML Military: 2
+  JADC2: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
