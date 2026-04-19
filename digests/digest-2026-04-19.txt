@@ -1,0 +1,88 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-04-19 11:10
+Articles reviewed: 12 | High-value (≥6/10): 8
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] Northrop Grumman’s Talon IQ testbed hot-swaps AI brains mid-flight
+   Breaking Defense | 2026-04-17 15:04
+   https://breakingdefense.com/2026/04/northrop-grummans-talon-iq-testbed-hot-swaps-ai-brains-mid-flight/
+   Theme: AI/ML Military
+   
+   This demonstrates a critical operational capability for AI in military systems - the ability to adapt algorithms in real-time during missions. The hot-swapping concept has significant implications for autonomous operations across domains and represents practical AI implementation beyond theoretical applications.
+   → This provides a concrete example of AI orchestration in action that JJ can use to teach students about dynamic AI deployment and the operational flexibility required for multi-domain operations.
+   Connects to: JADO, JADC2
+
+2. [SCORE: 8/10] NATO revamps air surveillance approach for the ‘cost-war’ of low-flying drones, missiles
+   Breaking Defense | 2026-04-17 13:20
+   https://breakingdefense.com/2026/04/nato-revamps-air-surveillance-approach-for-the-cost-war-of-low-flying-drones-missiles/
+   Theme: JADO
+   
+   This article addresses a critical JADO challenge - integrating air surveillance across domains to counter low-cost, high-volume threats that exploit seams between traditional air defense systems. NATO's operational approach to the 'cost-war' problem provides concrete lessons for multi-domain integration that field-grade officers must understand.
+   → The NATO surveillance revamp offers excellent case study material for teaching JADO integration challenges and cost-exchange ratios in multi-domain warfare at MCU.
+   Connects to: Current Conflicts, JADC2
+
+3. [SCORE: 7/10] The history of America’s long-term efforts to plan for a war with China [BOOK EXCERPT]
+   Breaking Defense | 2026-04-17 16:19
+   https://breakingdefense.com/2026/04/the-history-of-americas-long-term-efforts-to-plan-for-a-war-with-china-book-excerpt/
+   Theme: JADO
+   
+   Historical analysis of war planning provides valuable strategic context for understanding how JADO concepts evolved and addresses practical implementation challenges that field-grade officers face. The book excerpt format suggests deeper analytical content rather than surface-level reporting, offering potential teaching case studies for strategic planning curriculum.
+   → Historical war planning evolution offers rich case study material for teaching strategic planning methodology and multi-domain integration challenges at MCU.
+   Connects to: JADC2, PME Innovation
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (5 more)
+================================================================================
+
+
+AI/ML Military (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Air Force unit executes test of Anduril’s semiautonomous combat drone
+C4ISRNET | https://www.c4isrnet.com/industry/techwatch/2026/04/17/air-force-unit-executes-test-of-andurils-semiautonomous-combat-drone/
+This article covers practical implementation of semi-autonomous systems in military operations, demonstrating real-world AI/ML applications rather than theoretical concepts. The focus on operational testing by actual Air Force units provides concrete insights into how autonomous systems integrate with human operators, which is directly relevant to JADO implementation.
+
+
+Current Conflicts (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] Ceasefires and Communications
+War on the Rocks | https://warontherocks.com/ceasefires-and-communications/
+This appears to be analysis of recent conflict dynamics involving Iran and communications during ceasefires, which could provide operational insights about information operations and multi-domain coordination. However, the brief summary suggests it may be more news analysis than deep operational lessons.
+
+
+JADO (3 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] Marines starting early work on sixth-gen fighter jet concepts
+Breaking Defense | https://breakingdefense.com/2026/04/marines-starting-early-work-on-sixth-gen-fighter-jet-concepts/
+Sixth-generation fighter concepts are highly relevant to JADO as they represent the future of air domain capabilities and cross-domain integration. For a Marine officer teaching joint operations, understanding how next-generation platforms will enable multi-domain warfare is operationally significant, though the article appears to be early-stage conceptual work rather than detailed operational analysis.
+
+
+[6/10] 9 firms win orbital AMTI deals, Space Force says
+Breaking Defense | https://breakingdefense.com/2026/04/9-firms-win-orbital-amti-deals-space-force-says/
+AMTI (Air and Missile Threat Intelligence) from orbital platforms directly supports multi-domain awareness and targeting in JADO concepts. While this appears to be a contract announcement rather than operational analysis, the integration of space-based ISR into joint operations is operationally relevant for field-grade officers.
+
+
+[6/10] Army exploring refueling requirement for Cheyenne II MV-75: Official
+Breaking Defense | https://breakingdefense.com/2026/04/army-exploring-refueling-requirement-for-cheyenne-ii-mv-75-official/
+Army aviation refueling requirements touch on JADO logistics and sustainment across domains, but this appears to be a narrow technical/acquisition story about a specific platform. The operational implications for multi-domain operations would depend on the article's depth in connecting refueling challenges to broader JADO concepts.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  JADO: 5
+  AI/ML Military: 2
+  Current Conflicts: 1
+
+================================================================================
+END OF DIGEST
+================================================================================
