@@ -1,0 +1,61 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-04-20 11:52
+Articles reviewed: 4 | High-value (≥6/10): 4
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] The F-35 Is a Masterpiece Built for the Wrong War
+   War on the Rocks | 2026-04-20 08:00
+   https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/
+   Theme: JADO
+   
+   This article appears to critically examine platform-centric vs. capability-centric approaches to multi-domain warfare, using the F-35 as a case study for acquisition and operational strategy misalignment. The violin analogy suggests deep analysis of the tension between exquisite capabilities and scalable force structure, which is central to JADO implementation challenges.
+   → The strategic acquisition vs. operational reality tension presented here provides an excellent case study for teaching field-grade officers about the practical constraints and trade-offs in implementing JADO concepts.
+   Connects to: Current Conflicts, JADC2
+
+2. [SCORE: 7/10] Israel’s new automatic Roem howitzer used for first time in combat
+   Breaking Defense | 2026-04-20 08:02
+   https://breakingdefense.com/2026/04/israels-new-automatic-roem-howitzer-used-for-first-time-in-combat/
+   Theme: Current Conflicts
+   
+   This article covers the first combat use of an automated howitzer system, providing real-world validation of autonomous weapons integration in active conflict. The operational deployment offers concrete lessons about human-machine teaming in fires missions and cross-domain coordination that go beyond theoretical discussions.
+   → The combat validation of automated fires systems provides excellent case study material for teaching JADO integration challenges and the practical realities of AI-enabled weapons systems in joint operations.
+   Connects to: AI/ML Military, JADO, JADC2
+
+3. [SCORE: 7/10] Mind the GAPP: Strategic History and the Case for Western Hemisphere Command
+   Modern War Institute | 2026-04-20 09:43
+   https://mwi.westpoint.edu/mind-the-gapp-strategic-history-and-the-case-for-western-hemisphere-command/
+   Theme: JADO
+   
+   This appears to be a first-hand practitioner account of major command restructuring that consolidates multiple Army commands, offering real organizational insights into how multi-domain operations are being implemented at the strategic level. The author's direct involvement in the planning provides the kind of primary source material and operational perspective that goes beyond typical policy announcements.
+   → This practitioner-led case study of command consolidation provides concrete examples of JADO implementation challenges and organizational solutions that could be valuable teaching material for strategic planning coursework.
+   Connects to: PME Innovation
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (1 more)
+================================================================================
+
+
+Current Conflicts (1 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[6/10] Iran and the Indispensable Broker: How Pakistan Outmaneuvers India on the World Stage
+War on the Rocks | https://warontherocks.com/iran-and-the-indispensable-broker-how-pakistan-outmaneuvers-india-on-the-world-stage/
+This geopolitical analysis of Pakistan-Saudi defense cooperation and regional power dynamics provides strategic context for understanding current Middle East tensions and multi-domain competition. While not directly operational, it offers insights into alliance structures and regional security architectures that inform strategic planning considerations.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  JADO: 2
+  Current Conflicts: 2
+
+================================================================================
+END OF DIGEST
+================================================================================
