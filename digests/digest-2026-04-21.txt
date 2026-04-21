@@ -1,0 +1,137 @@
+================================================================================
+STRATEGIC READING DIGEST
+Generated: 2026-04-21 11:41
+Articles reviewed: 22 | High-value (≥6/10): 17
+================================================================================
+
+🎯 YOUR TOP 3 MUST-READS (12-minute morning read)
+================================================================================
+
+1. [SCORE: 8/10] I’m Sorry, Dave. I’m Afraid I Can’t De-escalate: On (AI) Wargaming and Nuclear War
+   War on the Rocks | 2026-04-21 07:30
+   https://warontherocks.com/im-sorry-dave-im-afraid-i-cant-de-escalate-on-ai-wargaming-and-nuclear-war/
+   Theme: AI/ML Military
+   
+   This article addresses critical questions about AI decision-making in high-stakes military scenarios, offering practical insights into the limitations and risks of AI systems in conflict situations. The focus on experimental evidence rather than theoretical concerns makes it highly relevant for understanding operational implications of AI integration in military command structures.
+   → This provides concrete case studies for teaching the risks and limitations of AI in multi-domain operations, particularly valuable for developing curriculum on human-AI teaming in strategic planning scenarios.
+   Connects to: JADO, JADC2, PME Innovation
+
+2. [SCORE: 8/10] The F-35 Is a Masterpiece Built for the Wrong War
+   War on the Rocks | 2026-04-20 08:00
+   https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/
+   Theme: JADO
+   
+   This article directly challenges fundamental assumptions about platform-centric warfare versus systems-of-systems approaches in multi-domain operations. The violin analogy and discussion of exquisite vs. scalable capabilities provides a framework for teaching strategic trade-offs in force structure decisions that field-grade officers must understand.
+   → The article's central argument about exquisite platforms versus distributed systems offers a powerful teaching case study for JADO instruction on capability integration and strategic resource allocation.
+   Connects to: JADC2, PME Innovation
+
+3. [SCORE: 8/10] Iran’s targeting of our THAAD/TPY-2 radars is a ‘big freaking deal’
+   Breaking Defense | 2026-04-20 15:01
+   https://breakingdefense.com/2026/04/irans-targeting-of-our-thaad-tpy-2-radars-is-a-big-freaking-deal/
+   Theme: Current Conflicts
+   
+   This article provides critical operational insights into adversary targeting of high-value US air defense assets, demonstrating real-world threats to integrated air and missile defense systems. The targeting of THAAD/TPY-2 radars represents a significant escalation and tactical evolution that has direct implications for multi-domain operations and force protection.
+   → This offers excellent case study material for teaching air defense integration challenges and adversary targeting strategies within joint all-domain operational frameworks at MCU.
+   Connects to: JADO, JADC2
+
+
+================================================================================
+ADDITIONAL HIGH-VALUE ARTICLES (14 more)
+================================================================================
+
+
+AI/ML Military (3 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[8/10] In contested seas, autonomy has to think ahead, not just steer
+Breaking Defense | https://breakingdefense.com/2026/04/in-contested-seas-autonomy-has-to-think-ahead-not-just-steer/
+This article addresses a critical operational challenge in autonomous systems - the difference between reactive navigation and predictive decision-making in contested environments. The focus on maritime autonomy thinking ahead rather than just responding aligns with practical AI/ML implementation challenges that field-grade officers face when integrating autonomous systems into operations.
+
+
+[8/10] Why the US can’t copy Ukraine’s robot navy
+Defense One | https://www.defenseone.com/technology/2026/04/why-us-cant-copy-ukraines-robot-navy/412992/
+This article directly addresses operational limitations of autonomous systems in naval warfare, using Ukraine's real-world experience to challenge assumptions about unmanned systems scalability. The focus on command and control constraints provides practical insights for understanding AI/ML integration challenges in military operations.
+
+
+[7/10] After watchdog slams understaffing, AI to vet Pentagon-backed professors’ China ties
+C4ISRNET | https://www.c4isrnet.com/news/2026/04/20/after-watchdog-slams-understaffing-ai-to-vet-pentagon-backed-professors-china-ties/
+This article addresses critical operational challenges in using AI for security vetting, highlighting the risks of over-relying on AI systems without human oversight in sensitive national security contexts. It directly relates to practical AI implementation challenges that military leaders face when balancing efficiency with security requirements.
+
+
+Current Conflicts (3 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] What the War Against Iran Means for the U.S.-South Korean Alliance
+War on the Rocks | https://warontherocks.com/what-the-war-against-iran-means-for-the-u-s-south-korean-alliance/
+This article examines how regional conflicts force alliance adaptations beyond traditional geographic boundaries, offering insights into how multi-domain warfare affects alliance structures and burden-sharing. The Iran-ROK case study provides concrete examples of how modern conflicts require allies to think beyond their immediate theater of operations.
+
+
+[7/10] Israel’s new automatic Roem howitzer used for first time in combat
+Breaking Defense | https://breakingdefense.com/2026/04/israels-new-automatic-roem-howitzer-used-for-first-time-in-combat/
+First combat use of an automated artillery system provides concrete operational data on autonomous weapons integration in active conflict. Offers practical insights into how automation changes fire support operations and crew requirements, moving beyond theoretical discussions of autonomous systems.
+
+
+[6/10] Iran and the Indispensable Broker: How Pakistan Outmaneuvers India on the World Stage
+War on the Rocks | https://warontherocks.com/iran-and-the-indispensable-broker-how-pakistan-outmaneuvers-india-on-the-world-stage/
+This article analyzes regional power dynamics and alliance structures in South Asia/Middle East, providing strategic context for understanding multi-domain competition. While it offers geopolitical insights relevant to strategic planning education, it appears focused on traditional diplomatic/alliance analysis rather than operational innovations or new warfare concepts.
+
+
+JADC2 (2 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] The United States Is Repeating Its Silicon Mistake with Gallium Nitride
+War on the Rocks | https://warontherocks.com/cogs-of-war/the-united-states-is-repeating-its-silicon-mistake-with-gallium-nitride/
+This article addresses critical supply chain vulnerabilities for advanced military electronics including JADC2 systems, radar, and communications equipment that rely on gallium nitride semiconductors. It provides operational context on how geopolitical dependencies can create single points of failure in military technology infrastructure.
+
+
+[7/10] Space Force kills OCX GPS ground control system, citing ‘insurmountable’ challenges
+Breaking Defense | https://breakingdefense.com/2026/04/space-force-kills-ocx-gps-ground-control-system-citing-insurmountable-challenges/
+The cancellation of OCX GPS ground control system represents a critical failure in space-based command and control infrastructure that directly impacts joint operations across all domains. This provides a concrete case study of JADC2 implementation challenges and the operational risks when foundational C2 systems fail to deliver.
+
+
+JADO (6 articles)
+────────────────────────────────────────────────────────────────────────────────
+
+[7/10] With eyes on future NASA moon base, Space Force launches cislunar acquisition task force
+Breaking Defense | https://breakingdefense.com/2026/04/with-eyes-on-future-nasa-moon-base-space-force-launches-cislunar-acquisition-task-force/
+Cislunar space operations represent a new operational domain that field-grade officers will need to understand for future JADO planning. The acquisition focus suggests concrete capabilities development rather than just policy discussion, with implications for how space domain integrates with terrestrial operations.
+
+
+[7/10] Saildrone unveils new medium unmanned surface vessel for anti-sub warfare, ISR
+Breaking Defense | https://breakingdefense.com/2026/04/saildrone-unveils-new-medium-unmanned-surface-vessel-for-anti-sub-warfare-isr/
+This article presents a concrete example of multi-domain integration with an unmanned surface vessel designed for anti-submarine warfare and ISR, directly relevant to maritime domain operations within JADO concepts. The operational capabilities and cross-domain applications provide tangible examples for teaching joint operations integration.
+
+
+[7/10] EXCLUSIVE: Hanwha, Magnet Defense partner to build MUSVs, robotic shipyards
+Breaking Defense | https://breakingdefense.com/2026/04/exclusive-hanwha-defense-usa-magnet-defense-partner-to-build-musvs-robotic-shipyards/
+This partnership represents practical implementation of multi-domain capabilities through Medium Unmanned Surface Vessels and automated manufacturing, showing concrete steps toward operationalizing unmanned systems in maritime domain operations. The robotic shipyard concept demonstrates how industrial base modernization directly supports JADO implementation at scale.
+
+
+[7/10] Mind the GAPP: Strategic History and the Case for Western Hemisphere Command
+Modern War Institute | https://mwi.westpoint.edu/mind-the-gapp-strategic-history-and-the-case-for-western-hemisphere-command/
+This article provides practitioner insights from someone directly involved in Army command restructuring, offering real-world organizational lessons for multi-domain operations. The consolidation of geographic and functional commands has direct implications for joint all-domain operations implementation and cross-domain coordination.
+
+
+[6/10] A new F/A-XX timeline and many, many MUSVs at Sea Air Space Day 1
+Breaking Defense | https://breakingdefense.com/2026/04/a-new-f-a-xx-timeline-and-many-many-musvs-at-sea-air-space-day-1/
+The F/A-XX program represents next-generation naval aviation capabilities that will be central to future joint all-domain operations, while MUSVs (Medium Unmanned Surface Vessels) indicate significant developments in unmanned maritime systems. However, without access to the full article content, this appears to be conference reporting that may lack the operational depth and cross-domain analysis JJ typically values.
+
+
+[6/10] F/A-XX fighter downselect coming in August: CNO
+Breaking Defense | https://breakingdefense.com/2026/04/f-a-xx-fighter-downselect-coming-in-august-cno/
+The F/A-XX program represents next-generation naval aviation capabilities that will be central to future joint all-domain operations, but this article appears to be primarily a procurement timeline announcement rather than operational analysis. While the platform itself will be critical for JADO implementation, the downselect timing offers limited immediate teaching value or operational insights.
+
+
+================================================================================
+DIGEST STATISTICS
+================================================================================
+
+High-value articles by theme:
+  JADO: 7
+  AI/ML Military: 4
+  Current Conflicts: 4
+  JADC2: 2
+
+================================================================================
+END OF DIGEST
+================================================================================
